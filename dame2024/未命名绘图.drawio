@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T05:52:19.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-n8XPmGivFNgV0PTKcy3" version="24.0.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-18T05:53:13.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="yoO9sbtGlg4s_svPbSPj" version="24.0.5" type="github" pages="6">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
-    <mxGraphModel dx="1222" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2081,55 +2081,55 @@
           <mxGeometry x="3132.26" y="1574" width="64.74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1067.5" y="2159.5" width="332.5" height="530.5" as="geometry" />
+          <mxGeometry x="551" y="3070" width="332.5" height="530.5" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-4" value="订阅用户管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1080" y="2166.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="563.5" y="3077" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-5" value="账户编码：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="2213" width="90" height="30" as="geometry" />
+          <mxGeometry x="573.5" y="3123.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1221.5" y="2209" width="130" height="38" as="geometry" />
+          <mxGeometry x="705" y="3119.5" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-7" value="归属系统：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="2320.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="573.5" y="3231" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-8" value="沙特分系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1221.5" y="2320.5" width="130" height="38" as="geometry" />
+          <mxGeometry x="705" y="3231" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-9" value="管理IP：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="2393.75" width="90" height="30" as="geometry" />
+          <mxGeometry x="571.5" y="3304.25" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-10" value="10.23.45.6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1221.5" y="2385.5" width="130" height="38" as="geometry" />
+          <mxGeometry x="705" y="3296" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-11" value="管理端口：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1082.5" y="2447" width="90" height="30" as="geometry" />
+          <mxGeometry x="566" y="3357.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-12" value="8080" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1221.5" y="2443" width="130" height="38" as="geometry" />
+          <mxGeometry x="705" y="3353.5" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-13" value="管理URL：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1082.5" y="2497.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="566" y="3408" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-14" value="/info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1221.5" y="2500.5" width="130" height="38" as="geometry" />
+          <mxGeometry x="705" y="3411" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-15" value="密码：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="2548.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="558.5" y="3459" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-16" value="...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1221.5" y="2552.5" width="130" height="38" as="geometry" />
+          <mxGeometry x="705" y="3463" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-17" value="&lt;b&gt;新增&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1303" y="2640" width="72" height="34" as="geometry" />
+          <mxGeometry x="786.5" y="3550.5" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-18" value="账户名称：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="2267.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="571.5" y="3178" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nWhFtBfZaRWEMJYOnHf-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1219.5" y="2263.5" width="130" height="38" as="geometry" />
+          <mxGeometry x="703" y="3174" width="130" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
