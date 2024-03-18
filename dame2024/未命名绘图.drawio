@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T05:53:13.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="yoO9sbtGlg4s_svPbSPj" version="24.0.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-18T05:53:38.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-PovSJN85LH6_F3UD7hl" version="24.0.5" type="github" pages="6">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="1323" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -422,10 +422,10 @@
         <mxCell id="Ctldll_mhaVX6cbknLae-136" value="" style="shape=line;strokeColor=#dddddd;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="1185" width="700" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Ctldll_mhaVX6cbknLae-137" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="Ctldll_mhaVX6cbknLae-137" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1190" width="170" height="469" as="geometry" />
         </mxCell>
-        <mxCell id="Ctldll_mhaVX6cbknLae-138" value="数据订阅" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Ctldll_mhaVX6cbknLae-137">
+        <mxCell id="Ctldll_mhaVX6cbknLae-138" value="数据订阅" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Ctldll_mhaVX6cbknLae-137">
           <mxGeometry width="170" height="30" relative="1" as="geometry">
             <mxPoint x="1" y="40" as="offset" />
           </mxGeometry>
@@ -434,6 +434,9 @@
           <mxGeometry width="170" height="30" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4nWhFtBfZaRWEMJYOnHf-21" value="订阅用户管理" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Ctldll_mhaVX6cbknLae-137">
+          <mxGeometry y="70" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ctldll_mhaVX6cbknLae-140" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1251" width="1738" height="409" as="geometry" />
