@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T13:08:55.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="F5syUiHnZR6J3QpzLfp4" version="24.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-27T13:10:30.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7ZaZ13_ySC6Xcy5l06F7" version="24.0.7" type="github" pages="6">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6110,10 +6110,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yswSOsN7JZJZuKU2psao" name="模型下发流程">
-    <mxGraphModel dx="2043" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2550" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="00pz0sp0omp9TNyprszB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="00pz0sp0omp9TNyprszB-4" target="aRe8IIhhsic-ApcYbnX7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="00pz0sp0omp9TNyprszB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="40" width="420" height="365" as="geometry" />
         </mxCell>
@@ -6218,19 +6221,24 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="00pz0sp0omp9TNyprszB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aRe8IIhhsic-ApcYbnX7-32" target="aRe8IIhhsic-ApcYbnX7-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="00pz0sp0omp9TNyprszB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aRe8IIhhsic-ApcYbnX7-32" target="aRe8IIhhsic-ApcYbnX7-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="550" />
+              <mxPoint x="500" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="00pz0sp0omp9TNyprszB-9" value="命中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="00pz0sp0omp9TNyprszB-7">
           <mxGeometry x="-0.6323" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-38" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aRe8IIhhsic-ApcYbnX7-32" value="&lt;span&gt;集合&lt;/span&gt;A_INTER_B&lt;span&gt;和集合C比对，使用字段编码进行比对。&lt;br&gt;判断：遍历&lt;/span&gt;A_INTER_B&lt;span&gt;的每个字段，在集合C中检索是否存在&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="430" y="114" width="343" height="70" as="geometry" />
+          <mxGeometry x="838.5" y="515" width="343" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aRe8IIhhsic-ApcYbnX7-33" value="字段新增" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="861.5" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00pz0sp0omp9TNyprszB-5" value="字段改名判断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="800" y="40" width="80" height="20" as="geometry" />
