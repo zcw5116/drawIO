@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T01:44:17.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Sk9WpCG1QEb3BdJXDojW" version="24.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-28T01:57:37.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RwIwkYMt_mT4O-mabcVo" version="24.2.0" type="github" pages="6">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="1034" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6217,8 +6217,14 @@
         <mxCell id="aRe8IIhhsic-ApcYbnX7-26" value="字段删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="887" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NF5lDGVaa-GEYrmnuvEd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aRe8IIhhsic-ApcYbnX7-27" target="NF5lDGVaa-GEYrmnuvEd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aRe8IIhhsic-ApcYbnX7-27" value="针对有相互改名的操作，特殊处理。 先重命名为临时字段，再改名。 A -&amp;gt; A1, B -&amp;gt; B1, A1-&amp;gt;B, B1-&amp;gt;A" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1230" y="450" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF5lDGVaa-GEYrmnuvEd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aRe8IIhhsic-ApcYbnX7-28" target="NF5lDGVaa-GEYrmnuvEd-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aRe8IIhhsic-ApcYbnX7-28" value="针对没有相互改名的操作，直接生成字段改名的SQL语句" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1444" y="450" width="186" height="60" as="geometry" />
@@ -6267,6 +6273,9 @@
         </mxCell>
         <mxCell id="NF5lDGVaa-GEYrmnuvEd-8" value="改名的集合&lt;span style=&quot;text-align: left;&quot;&gt;A_INTER_B_RENAME&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="220" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF5lDGVaa-GEYrmnuvEd-11" value="建立改名前后字段的映射关系以及修改信息，形成集合D。遍历D集合，使用改名前的字段，在集合C中检索并进行变更比对，生成变更的SQL语句" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="602" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
