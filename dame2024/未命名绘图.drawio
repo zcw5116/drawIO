@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T06:16:43.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lq9UmHwC5piXBIN-mwuG" version="24.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-08T06:23:17.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="n7VPZAjEe_JIgJuaKNId" version="24.2.2" type="github" pages="7">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="1034" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6527,7 +6527,7 @@
         <mxCell id="ctVnXoX5qHePXNhyEmap-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="371" width="400" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ctVnXoX5qHePXNhyEmap-2" value="质量稽核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ctVnXoX5qHePXNhyEmap-2" value="数据质量稽核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222" y="401" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctVnXoX5qHePXNhyEmap-3" value="采集监控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
