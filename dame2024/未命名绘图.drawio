@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:39:57.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VWVqOr4yWVtMMWDJHzHN" version="24.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:49:03.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="L7KF39joqz7eVJ4DpPUS" version="24.2.2" type="github" pages="8">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6808,6 +6808,36 @@
         </mxCell>
         <mxCell id="DuOifGugN8-hiNR7yJKU-72" value="命名空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-75" value="查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-77" value="数据源类型(&lt;font color=&quot;#cc0000&quot;&gt;*&lt;/font&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-78" value="达梦（可下拉）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="335" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-79" value="命名空间(&lt;font color=&quot;#cc0000&quot;&gt;*&lt;/font&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="395" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-80" value="文本框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-81" value="数据源实例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="455" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-82" value="达梦（可下拉）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-84" value="描述" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="505" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuOifGugN8-hiNR7yJKU-85" value="描述信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
