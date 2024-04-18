@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T05:56:10.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="58qMLuSCx78GpkSS5qVB" version="24.2.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-18T06:12:28.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hn10CDXKmKXUCLCkqzFk" version="24.2.5" type="github" pages="8">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6782,7 +6782,7 @@
           <mxGeometry x="320" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DuOifGugN8-hiNR7yJKU-75" value="查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="570" y="145" width="40" height="20" as="geometry" />
+          <mxGeometry x="551" y="145" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DuOifGugN8-hiNR7yJKU-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="93" width="300" height="237" as="geometry" />
@@ -7039,7 +7039,7 @@
           <mxGeometry x="980" y="557.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ECBIpV8QXI-Q1KIve-V-70" value="新增" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="630" y="145" width="40" height="20" as="geometry" />
+          <mxGeometry x="611" y="145" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
