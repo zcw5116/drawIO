@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T13:42:12.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bYYM6iMDSAYsmDOBLNWR" version="24.2.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-29T13:44:27.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8pr4gLWqaFeDcF9SrsRK" version="24.2.7" type="github" pages="10">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7222,7 +7222,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XC9eO8WXMCv4FwaZVx5K-3" value="页面配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-3" value="页面配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="235" y="64" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XC9eO8WXMCv4FwaZVx5K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-6" target="XC9eO8WXMCv4FwaZVx5K-7">
@@ -7239,17 +7239,6 @@
         <mxCell id="XC9eO8WXMCv4FwaZVx5K-7" value="稽核指标明细数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="270" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XC9eO8WXMCv4FwaZVx5K-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-8" target="XC9eO8WXMCv4FwaZVx5K-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XC9eO8WXMCv4FwaZVx5K-11" value="汇总配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XC9eO8WXMCv4FwaZVx5K-10">
-          <mxGeometry x="0.0667" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XC9eO8WXMCv4FwaZVx5K-8" value="稽核指标明细数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="64" width="130" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="XC9eO8WXMCv4FwaZVx5K-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-9" target="XC9eO8WXMCv4FwaZVx5K-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -7263,6 +7252,24 @@
         </mxCell>
         <mxCell id="XC9eO8WXMCv4FwaZVx5K-12" value="稽核汇总数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="270" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-15" target="XC9eO8WXMCv4FwaZVx5K-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-15" value="稽核配置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="64" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-16" target="XC9eO8WXMCv4FwaZVx5K-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-16" value="稽核指标明细数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="64" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-17" target="XC9eO8WXMCv4FwaZVx5K-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-17" value="采集配置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="64" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
