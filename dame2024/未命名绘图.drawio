@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T13:44:27.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8pr4gLWqaFeDcF9SrsRK" version="24.2.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-29T13:48:06.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UlvrMtPsece3dDqSYuhF" version="24.2.7" type="github" pages="10">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7256,19 +7256,19 @@
         <mxCell id="XC9eO8WXMCv4FwaZVx5K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-15" target="XC9eO8WXMCv4FwaZVx5K-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XC9eO8WXMCv4FwaZVx5K-15" value="稽核配置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-15" value="稽核配置数据(新增)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="64" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XC9eO8WXMCv4FwaZVx5K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-16" target="XC9eO8WXMCv4FwaZVx5K-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XC9eO8WXMCv4FwaZVx5K-16" value="稽核指标明细数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-16" value="稽核指标明细数据(新增)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="64" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XC9eO8WXMCv4FwaZVx5K-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XC9eO8WXMCv4FwaZVx5K-17" target="XC9eO8WXMCv4FwaZVx5K-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XC9eO8WXMCv4FwaZVx5K-17" value="采集配置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XC9eO8WXMCv4FwaZVx5K-17" value="采集配置数据(存量)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="64" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
