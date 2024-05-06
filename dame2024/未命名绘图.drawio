@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T11:00:54.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VSBS4MO1uOhP7HrhN-Dp" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-06T11:06:41.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vvpish1v7qR2hLuSTyh9" version="24.3.1" type="github" pages="10">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8560,17 +8560,17 @@
             <mxRectangle width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaS9uPGwPH5oZxTK47ps-452" value="设备名称" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="qaS9uPGwPH5oZxTK47ps-447">
+        <mxCell id="qaS9uPGwPH5oZxTK47ps-452" value="采集计划" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="qaS9uPGwPH5oZxTK47ps-447">
           <mxGeometry x="230" width="60" height="30" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaS9uPGwPH5oZxTK47ps-453" value="设备IP" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="qaS9uPGwPH5oZxTK47ps-447">
+        <mxCell id="qaS9uPGwPH5oZxTK47ps-453" value="采集类型" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="qaS9uPGwPH5oZxTK47ps-447">
           <mxGeometry x="290" width="50" height="30" as="geometry">
             <mxRectangle width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaS9uPGwPH5oZxTK47ps-454" value="专业" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="qaS9uPGwPH5oZxTK47ps-447">
+        <mxCell id="qaS9uPGwPH5oZxTK47ps-454" value="设备数量" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="qaS9uPGwPH5oZxTK47ps-447">
           <mxGeometry x="340" width="60" height="30" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
