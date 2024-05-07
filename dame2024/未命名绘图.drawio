@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T12:53:55.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aWfAhDw6mkB5OQ1WG6Mn" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-07T12:54:41.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XMD79fSuvNO3ZWr3D3kc" version="24.3.1" type="github" pages="10">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7418,7 +7418,7 @@
             <mxRectangle width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaS9uPGwPH5oZxTK47ps-395" value="数据结束" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;whiteSpace=wrap;html=1;" parent="qaS9uPGwPH5oZxTK47ps-69" vertex="1">
+        <mxCell id="qaS9uPGwPH5oZxTK47ps-395" value="数据结束时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;whiteSpace=wrap;html=1;" parent="qaS9uPGwPH5oZxTK47ps-69" vertex="1">
           <mxGeometry x="160" width="70" height="30" as="geometry">
             <mxRectangle width="70" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -8677,12 +8677,12 @@
             <mxRectangle width="210" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ftAuDuliLBVBXlbGPacU-53" value="完整率" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#006EAF;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="ftAuDuliLBVBXlbGPacU-50">
+        <mxCell id="ftAuDuliLBVBXlbGPacU-53" value="完整性校验结果" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#006EAF;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="ftAuDuliLBVBXlbGPacU-50">
           <mxGeometry x="428" width="234" height="26" as="geometry">
             <mxRectangle width="234" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ftAuDuliLBVBXlbGPacU-70" value="准确率" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#006EAF;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="ftAuDuliLBVBXlbGPacU-50">
+        <mxCell id="ftAuDuliLBVBXlbGPacU-70" value="准确性校验结果" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#006EAF;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="ftAuDuliLBVBXlbGPacU-50">
           <mxGeometry x="662" width="173" height="26" as="geometry">
             <mxRectangle width="173" height="26" as="alternateBounds" />
           </mxGeometry>
