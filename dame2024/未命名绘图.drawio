@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T13:09:25.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qgcrBY2uG3BN6PVKGieH" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-07T13:40:30.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_4lu2Sh_GQRAZP1hDxJw" version="24.3.1" type="github" pages="10">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7756,7 +7756,7 @@
             <mxRectangle width="56" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaS9uPGwPH5oZxTK47ps-449" value="稽核方案名称" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" parent="qaS9uPGwPH5oZxTK47ps-447" vertex="1">
+        <mxCell id="qaS9uPGwPH5oZxTK47ps-449" value="稽核规则名称" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" parent="qaS9uPGwPH5oZxTK47ps-447" vertex="1">
           <mxGeometry x="56" width="92" height="30" as="geometry">
             <mxRectangle width="92" height="30" as="alternateBounds" />
           </mxGeometry>
