@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T14:05:45.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fxY9gB9t1ZtI5302KWxv" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-13T06:50:04.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="psQWRkikrmMhRDAeqgtF" version="24.4.0" type="github" pages="10">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7210,7 +7210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bcV964SzlsCvihsBr99u" name="采集稽核">
-    <mxGraphModel dx="1128" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7355,15 +7355,6 @@
         <mxCell id="qaS9uPGwPH5oZxTK47ps-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="682" y="472" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="qaS9uPGwPH5oZxTK47ps-31" value="采集指标:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="713" y="467" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qaS9uPGwPH5oZxTK47ps-32" value="全部" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="778" y="467" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qaS9uPGwPH5oZxTK47ps-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="850" y="473" width="15" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="qaS9uPGwPH5oZxTK47ps-34" value="采集执行开始时间:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="931.5" y="469" width="60" height="20" as="geometry" />
         </mxCell>
@@ -7463,7 +7454,7 @@
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-3" value="采集组" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="qaS9uPGwPH5oZxTK47ps-69">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-3" value="采集组" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="qaS9uPGwPH5oZxTK47ps-69" vertex="1">
           <mxGeometry x="745" width="80" height="30" as="geometry">
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -7561,7 +7552,7 @@
             <mxRectangle width="80" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-4" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qaS9uPGwPH5oZxTK47ps-73">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-4" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" parent="qaS9uPGwPH5oZxTK47ps-73" vertex="1">
           <mxGeometry x="745" width="80" height="37" as="geometry">
             <mxRectangle width="80" height="37" as="alternateBounds" />
           </mxGeometry>
@@ -7659,7 +7650,7 @@
             <mxRectangle width="80" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ftAuDuliLBVBXlbGPacU-7">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" parent="ftAuDuliLBVBXlbGPacU-7" vertex="1">
           <mxGeometry x="745" width="80" height="37" as="geometry">
             <mxRectangle width="80" height="37" as="alternateBounds" />
           </mxGeometry>
@@ -9345,22 +9336,22 @@
         <mxCell id="o0525EEfzVwqKHK8fjoI-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="317.75" y="470" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-6" value="采集指标:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-6" value="采集指标:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="78" y="3367" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-7" value="全部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-7" value="全部" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="148" y="3367" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="220" y="3373" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-9" value="采集组:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-9" value="采集组:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="357.87" y="463" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-10" value="全部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-10" value="全部" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="422.87" y="463" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zv4Ku_ARj43smCWrH80L-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="zv4Ku_ARj43smCWrH80L-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="494.87" y="469" width="15" height="10" as="geometry" />
         </mxCell>
       </root>
