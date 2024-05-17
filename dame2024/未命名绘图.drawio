@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T02:02:54.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="V6-BcuSV7FqmG62DBp-X" version="24.4.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-17T02:26:20.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xWNtPUYkWH9c2Ey39yrm" version="24.4.0" type="github" pages="10">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7210,7 +7210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bcV964SzlsCvihsBr99u" name="采集稽核">
-    <mxGraphModel dx="3970" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8568,13 +8568,13 @@
           <mxGeometry x="293.26" y="2366" width="15" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wsgoN8l5PuOMbZ2wbO80-293" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="261.76" y="2740" width="252" height="260" as="geometry" />
+          <mxGeometry x="143.76" y="2690" width="252" height="260" as="geometry" />
         </mxCell>
         <mxCell id="wsgoN8l5PuOMbZ2wbO80-294" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;当前稽核结果&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="283.76" y="2760" width="200" height="60" as="geometry" />
+          <mxGeometry x="165.76" y="2710" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wsgoN8l5PuOMbZ2wbO80-295" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;历史稽核结果&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="287.26" y="2850" width="186.5" height="60" as="geometry" />
+          <mxGeometry x="169.26" y="2800" width="186.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ftAuDuliLBVBXlbGPacU-1" value="向前一天" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="230.5" y="645" width="60" height="30" as="geometry" />
@@ -9353,6 +9353,39 @@
         </mxCell>
         <mxCell id="zv4Ku_ARj43smCWrH80L-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="494.87" y="469" width="15" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="119" width="1140" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-5" value="稽方案核名称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="185" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-7" value="采集类型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-8" value="下拉（单选）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="185" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-9" value="采集分组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-10" value="多选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="185" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-11" value="采集计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="315" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-13" value="多选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="305" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-14" value="采集指标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="315" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9yjh097_IFgQtXxnIq2S-15" value="多选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="305" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
