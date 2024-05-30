@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T13:40:38.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="T__Bz0jlt4A2MpD7uMS6" version="24.4.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-30T10:41:58.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cxGRncexe8XAvMrAU1qO" version="24.4.10" type="github" pages="11">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10521,6 +10521,47 @@
         </mxCell>
         <mxCell id="dvzsUiDCWFKiO7sLh4RG-341" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="4500" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VcDFJGj2EsFd1XgKYazW" name="第 11 页">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-2" value="Hive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-3" value="HDFS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="240" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-4" value="Yarn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-5" value="Spark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p5ZSZ5L8yAjAsfZ4qx82-7" target="p5ZSZ5L8yAjAsfZ4qx82-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-7" value="大数据客户端主机&lt;br&gt;(提交Spark程序)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-8" value="指定队列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="472" y="247.5" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="288.5" as="sourcePoint" />
+            <mxPoint x="570" y="288.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5ZSZ5L8yAjAsfZ4qx82-10" value="Hadoop大数据集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="150" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
