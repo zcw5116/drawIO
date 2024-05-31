@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T12:45:55.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="s3T21mZvnNOqQCokG23c" version="24.4.10" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-31T12:46:45.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="99t2-KDEbvaFqZnyOrbb" version="24.4.10" type="github" pages="11">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9838,16 +9838,16 @@
           <mxGeometry x="1700" y="1700" width="660" height="600" as="geometry" />
         </mxCell>
         <mxCell id="dvzsUiDCWFKiO7sLh4RG-101" value="采集分组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1718" y="1802" width="90" height="40" as="geometry" />
+          <mxGeometry x="1718" y="1790" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dvzsUiDCWFKiO7sLh4RG-102" value="_Intf（下拉，单选）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1818" y="1797" width="180" height="50" as="geometry" />
+          <mxGeometry x="1818" y="1785" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dvzsUiDCWFKiO7sLh4RG-103" value="稽核对象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2027" y="1802" width="90" height="40" as="geometry" />
+          <mxGeometry x="2027" y="1790" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dvzsUiDCWFKiO7sLh4RG-104" value="下拉和输入框，支持变量（es索引）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2117" y="1797" width="190" height="50" as="geometry" />
+          <mxGeometry x="2117" y="1785" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dvzsUiDCWFKiO7sLh4RG-111" value="保存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2111" y="1720" width="90" height="47" as="geometry" />
