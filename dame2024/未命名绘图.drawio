@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T01:09:20.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nccv0mvUUie5nvlcGaRQ" version="24.4.10" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-06T01:10:35.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7afx8dwXqaKBW05GF36t" version="24.4.10" type="github" pages="12">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10854,7 +10854,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wzrXjlvm-ZLVGrGnZfr--43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="90" width="520" height="730" as="geometry" />
+          <mxGeometry x="60" y="90" width="480" height="730" as="geometry" />
         </mxCell>
         <mxCell id="wzrXjlvm-ZLVGrGnZfr--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="257" y="110" width="123" height="30" as="geometry" />
@@ -10952,16 +10952,16 @@
         <mxCell id="oDJsThnWwc5yF2yYrTz--12" value="删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="407" y="664.25" width="30" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="oDJsThnWwc5yF2yYrTz--13" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oDJsThnWwc5yF2yYrTz--13" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="704.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oDJsThnWwc5yF2yYrTz--14" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oDJsThnWwc5yF2yYrTz--14" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="704.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oDJsThnWwc5yF2yYrTz--15" value="删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="407" y="707.5" width="30" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="oDJsThnWwc5yF2yYrTz--16" value="订阅组1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="oDJsThnWwc5yF2yYrTz--16" value="订阅组2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="115" y="550" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oDJsThnWwc5yF2yYrTz--17" value="订阅方Kafka实例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -10976,10 +10976,10 @@
         <mxCell id="oDJsThnWwc5yF2yYrTz--20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="594.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oDJsThnWwc5yF2yYrTz--21" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oDJsThnWwc5yF2yYrTz--21" value="5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="746.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oDJsThnWwc5yF2yYrTz--22" value="5,6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oDJsThnWwc5yF2yYrTz--22" value="3,4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280.5" y="746.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oDJsThnWwc5yF2yYrTz--23" value="删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;fontColor=#FFFFFF;" vertex="1" parent="1">
