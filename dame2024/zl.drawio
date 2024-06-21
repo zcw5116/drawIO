@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T15:59:21.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="T7bEXypu7pZklVcMiw_G" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T08:54:31.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zAKQmbYZHPPSsx07DjkR" version="24.6.0" type="github">
   <diagram name="zl_zq" id="EnklMg3L7o-6UmikLhj0">
-    <mxGraphModel dx="1050" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqPRX1u9ZwdtRqZ_YWZ_-2" target="xqPRX1u9ZwdtRqZ_YWZ_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-2" value="dame的ETL流程" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqPRX1u9ZwdtRqZ_YWZ_-3" target="xqPRX1u9ZwdtRqZ_YWZ_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqPRX1u9ZwdtRqZ_YWZ_-3" target="xqPRX1u9ZwdtRqZ_YWZ_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-3" value="数据表1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqPRX1u9ZwdtRqZ_YWZ_-4" target="xqPRX1u9ZwdtRqZ_YWZ_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqPRX1u9ZwdtRqZ_YWZ_-4" target="xqPRX1u9ZwdtRqZ_YWZ_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-4" value="数据表2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-5" value="质量稽核" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-6" value="质量稽核" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-7" value="报表" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqPRX1u9ZwdtRqZ_YWZ_-10" target="xqPRX1u9ZwdtRqZ_YWZ_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqPRX1u9ZwdtRqZ_YWZ_-10" value="dame的ETL流程" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="62" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
