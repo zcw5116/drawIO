@@ -2503,7 +2503,7 @@
         <mxCell id="fj4c4-a0xtNDHE7cErH1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fj4c4-a0xtNDHE7cErH1-21" target="fj4c4-a0xtNDHE7cErH1-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fj4c4-a0xtNDHE7cErH1-21" value="Kafka实时监听" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-21" value="实时监听，常驻进程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="4749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fj4c4-a0xtNDHE7cErH1-22" value="1、根据主键upsert入。&lt;div&gt;2、数据删除&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
