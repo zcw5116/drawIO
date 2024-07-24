@@ -2452,9 +2452,6 @@
         <mxCell id="fj4c4-a0xtNDHE7cErH1-3" value="整表读取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="4540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fj4c4-a0xtNDHE7cErH1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fj4c4-a0xtNDHE7cErH1-5" target="fj4c4-a0xtNDHE7cErH1-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fj4c4-a0xtNDHE7cErH1-5" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="332" y="4540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2544,6 +2541,9 @@
         </mxCell>
         <mxCell id="9hE74rnpxmqzZLkFQ15z-1" value="映射表：&lt;div&gt;1、数据来源（节点）&lt;/div&gt;&lt;div&gt;2、主键字段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="979" y="4630" width="212" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fj4c4-a0xtNDHE7cErH1-5" target="fj4c4-a0xtNDHE7cErH1-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
