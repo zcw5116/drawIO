@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T12:31:55.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ykrqOLmfy1BQycyw7TAW" version="24.6.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-07-24T05:59:27.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-rWt60i2G33ywM6EdmGz" version="24.6.4" type="github" pages="12">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
-    <mxGraphModel dx="794" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o1GuyUhaabri7eE9kRDR-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="4070" width="387" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="Ctldll_mhaVX6cbknLae-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1983" y="-493" width="290" height="745" as="geometry" />
         </mxCell>
@@ -2379,6 +2382,165 @@
         </mxCell>
         <mxCell id="FYVPqwaEK0HwRNuCsR67-39" value="数据拉取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="374.5" y="720" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o1GuyUhaabri7eE9kRDR-4" target="o1GuyUhaabri7eE9kRDR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-4" value="整表读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78" y="4110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1GuyUhaabri7eE9kRDR-5" target="o1GuyUhaabri7eE9kRDR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-5" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314.5" y="4110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-10" value="数据推送-批数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="203" y="4070" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="563" y="4071" width="387" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-13" value="数据拉取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="733" y="4071" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o1GuyUhaabri7eE9kRDR-14" target="o1GuyUhaabri7eE9kRDR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-14" value="定时调度，整表读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="4110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-17" value="根据主键upsert入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="773.25" y="4110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="4230" width="387" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o1GuyUhaabri7eE9kRDR-21" target="o1GuyUhaabri7eE9kRDR-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-21" value="根据过滤条件，增量读取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="4270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1GuyUhaabri7eE9kRDR-23" target="o1GuyUhaabri7eE9kRDR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-23" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="4270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-24" value="数据推送-增量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="203.5" y="4230" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="563.5" y="4231" width="387" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-26" value="数据拉取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="4231" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o1GuyUhaabri7eE9kRDR-28" target="o1GuyUhaabri7eE9kRDR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-28" value="Kafka实时监听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="4270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o1GuyUhaabri7eE9kRDR-29" value="根据主键upsert入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="773.75" y="4270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="4500" width="387" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-3" target="fj4c4-a0xtNDHE7cErH1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-3" value="整表读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-5" target="fj4c4-a0xtNDHE7cErH1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-5" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-6" value="数据推送-批数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220.5" y="4500" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580.5" y="4501" width="879.5" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-8" value="数据拉取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750.5" y="4501" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-10" target="fj4c4-a0xtNDHE7cErH1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-10" value="定时调度，整表读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610.5" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-11" target="fj4c4-a0xtNDHE7cErH1-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-11" value="以覆盖方式，写入临时表A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790.75" y="4540" width="89.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="4660" width="412.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-14" target="fj4c4-a0xtNDHE7cErH1-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-14" value="根据过滤条件，增量读取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="4700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-16" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="4750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-17" value="数据推送-增量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="221" y="4660" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="573" y="4710" width="347" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-19" value="数据拉取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="743" y="4710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-21" target="fj4c4-a0xtNDHE7cErH1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-21" value="Kafka实时监听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="4749" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-22" value="根据主键upsert入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="783.25" y="4749" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-23" target="fj4c4-a0xtNDHE7cErH1-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-23" value="临时表A以upsert方式写入正式表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="927" y="4540" width="93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-28" target="fj4c4-a0xtNDHE7cErH1-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-28" value="临时表A和正式表使用主键进行比对，&lt;div&gt;输出：待删除数据的主键列表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1066.87" y="4540" width="133.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-29" value="根据生成的待删除数据的主键列表，删除正式表的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="4540" width="126.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-33" target="fj4c4-a0xtNDHE7cErH1-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-33" value="达梦表增加触发器，捕获删除的数据主键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="4800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-35" target="fj4c4-a0xtNDHE7cErH1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-35" value="合并增量数据和待删除数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="4700" width="48" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fj4c4-a0xtNDHE7cErH1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fj4c4-a0xtNDHE7cErH1-16" target="fj4c4-a0xtNDHE7cErH1-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
