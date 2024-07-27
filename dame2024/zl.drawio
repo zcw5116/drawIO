@@ -81,6 +81,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kUEGk9au2-VWEjPAydOZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="750" width="540" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="vv45NxMrFn_otVENTx0L-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="769" y="410" width="510" height="130" as="geometry" />
         </mxCell>
@@ -352,10 +355,16 @@
           <mxGeometry x="827" y="790" width="101.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YXdhWaMiVv6cYG02uH0H-2" value="数值范围UDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="978.25" y="790" width="101.5" height="50" as="geometry" />
+          <mxGeometry x="949" y="790" width="101.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YXdhWaMiVv6cYG02uH0H-3" value="数值范围UDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1128.5" y="790" width="101.5" height="50" as="geometry" />
+        <mxCell id="YXdhWaMiVv6cYG02uH0H-3" value="SQL表达式UDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1248.5" y="790" width="101.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kUEGk9au2-VWEjPAydOZ-1" value="枚举值UDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="790" width="101.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kUEGk9au2-VWEjPAydOZ-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="805" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
