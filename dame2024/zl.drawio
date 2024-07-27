@@ -425,7 +425,7 @@
         <mxCell id="kUEGk9au2-VWEjPAydOZ-26" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;基础规则UDF库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="320" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kUEGk9au2-VWEjPAydOZ-28" value="组合稽核规则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kUEGk9au2-VWEjPAydOZ-28" value="定义稽核规则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="993" y="270" width="107" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kUEGk9au2-VWEjPAydOZ-29" value="&lt;span style=&quot;text-align: left;&quot;&gt;引用配置库的稽核规则，校验业务数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
