@@ -433,13 +433,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhyKqf5t2rre3P6qbJ51-1" value="数据源1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rhyKqf5t2rre3P6qbJ51-1" value="数据源1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="797.5" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhyKqf5t2rre3P6qbJ51-2" value="数据源N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rhyKqf5t2rre3P6qbJ51-2" value="数据源N" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1072.5" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhyKqf5t2rre3P6qbJ51-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rhyKqf5t2rre3P6qbJ51-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="966.5" y="1124" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
