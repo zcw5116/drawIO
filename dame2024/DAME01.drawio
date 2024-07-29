@@ -2572,14 +2572,14 @@
         <mxCell id="uLyhWwh8hJJgtVMH6hVQ-11" value="节点D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630.5" y="-1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLyhWwh8hJJgtVMH6hVQ-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;统计周期：2024-07-28 12:30 ~ 2024-07-29 12:30&lt;/div&gt;数据同步网关：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 订阅数据同步：成功率60%(12/20）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;服务同步：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 镜像同步成功率100%（20/20）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;镜像同步成功率100%（20/20）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="178" y="-1625" width="274" height="90" as="geometry" />
+        <mxCell id="uLyhWwh8hJJgtVMH6hVQ-13" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;统计周期：2024-07-28 12:30 ~ 2024-07-29 12:30&lt;/span&gt;&lt;br&gt;&lt;/div&gt;数据同步网关：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 订阅数据同步：成功率60%(12/20）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;服务同步：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 镜像同步成功率100%（20/20）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;镜像同步成功率100%（20/20）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178" y="-1625" width="274" height="105" as="geometry" />
         </mxCell>
         <mxCell id="uLyhWwh8hJJgtVMH6hVQ-35" value="&lt;span style=&quot;font-weight: normal; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;名称：节点名称&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 15px;&quot;&gt;管理IP：192.168.11.2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 15px;&quot;&gt;管理端口：9000&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="600.25" y="-1580" width="169.5" height="40" as="geometry" />
+          <mxGeometry x="596.25" y="-1605" width="162.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uLyhWwh8hJJgtVMH6hVQ-39" value="点击节点，悬浮展示节点信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="471" y="-1575" width="132" height="30" as="geometry" />
+          <mxGeometry x="451" y="-1575" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uLyhWwh8hJJgtVMH6hVQ-41" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="807" y="-1535" width="375" height="286" as="geometry" />
@@ -2792,7 +2792,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uLyhWwh8hJJgtVMH6hVQ-133" value="点击关系线条，展示如下信息。&lt;div&gt;如果成功率均为100%，绿色线条。&lt;/div&gt;&lt;div&gt;如果成功率低于80%，高于70%，黄色线条。&lt;/div&gt;&lt;div&gt;如果成功功率低于70%，红色线条。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="813.25" y="-1615" width="276.75" height="80" as="geometry" />
+          <mxGeometry x="813.25" y="-1630" width="276.75" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
