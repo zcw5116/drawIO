@@ -2792,7 +2792,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uLyhWwh8hJJgtVMH6hVQ-133" value="点击关系线条，展示如下信息。&lt;div&gt;如果成功率均为100%，绿色线条。&lt;/div&gt;&lt;div&gt;如果成功率低于80%，高于70%，黄色线条。&lt;/div&gt;&lt;div&gt;如果成功功率低于70%，红色线条。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="813.25" y="-1630" width="276.75" height="70" as="geometry" />
+          <mxGeometry x="813.25" y="-1630" width="266.75" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
