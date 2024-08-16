@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P8CFfrJd8-MoWERUeQgS" name="第 2 页">
-    <mxGraphModel dx="1114" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -569,6 +569,33 @@
         </mxCell>
         <mxCell id="Qop1QWEvoRarUv6xs9yv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.574;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Qop1QWEvoRarUv6xs9yv-19" target="Qop1QWEvoRarUv6xs9yv-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jb0Tswu439jUrHtMDQ6p-1" target="jb0Tswu439jUrHtMDQ6p-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-1" value="数据库驱动代理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="829" y="1822" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jb0Tswu439jUrHtMDQ6p-2" target="jb0Tswu439jUrHtMDQ6p-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-2" value="数据变化识别模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="828" y="2038" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jb0Tswu439jUrHtMDQ6p-3" target="jb0Tswu439jUrHtMDQ6p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-3" value="数据存储适配模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1046.5" y="1888" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-4" value="数据变化异步发送模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1044.5" y="2008" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jb0Tswu439jUrHtMDQ6p-5" target="jb0Tswu439jUrHtMDQ6p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jb0Tswu439jUrHtMDQ6p-5" value="&lt;div&gt;驱动加载器模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="829" y="1936" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
