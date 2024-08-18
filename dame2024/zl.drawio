@@ -1056,12 +1056,44 @@
           <mxGeometry x="937.5" y="-1143" width="82.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WTp6hPIGkEqqnta1tMKg-6" value="&lt;b&gt;数据流入适配&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1072.5" y="-1143" width="113" height="30" as="geometry" />
+          <mxGeometry x="1095" y="-1143" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WTp6hPIGkEqqnta1tMKg-7" value="Spark Server监听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="-1037" width="80" height="60" as="geometry" />
+          <mxGeometry x="580" y="-1089" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WTp6hPIGkEqqnta1tMKg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.477;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WTp6hPIGkEqqnta1tMKg-7" target="WTp6hPIGkEqqnta1tMKg-5">
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.477;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WTp6hPIGkEqqnta1tMKg-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730.1775" y="-1059.3600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897.5" y="-780" width="322.5" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1053.5" y="-769" width="151" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-12" value="DataX Record集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1074.5" y="-728" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-13" value="Kettle数据行集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="-660" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-14" value="SeaTunnelRow集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070.75" y="-595" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-15" value="其他需自定义适配器的业务数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070.75" y="-529" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-16" value="Spark DataFrame" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="909" y="-660" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-17" value="流出数据集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1084.5" y="-763" width="82.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-18" value="&lt;b&gt;数据流出适配&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="927.5" y="-765.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WTp6hPIGkEqqnta1tMKg-16" target="WTp6hPIGkEqqnta1tMKg-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
