@@ -1064,14 +1064,6 @@
         <mxCell id="WTp6hPIGkEqqnta1tMKg-6" value="&lt;b&gt;数据流入适配&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1095" y="-1143" width="87.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WTp6hPIGkEqqnta1tMKg-7" value="Spark Server监听" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="-1089" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WTp6hPIGkEqqnta1tMKg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.477;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WTp6hPIGkEqqnta1tMKg-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730.1775" y="-1059.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WTp6hPIGkEqqnta1tMKg-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="897.5" y="-780" width="322.5" height="320" as="geometry" />
         </mxCell>
