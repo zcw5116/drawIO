@@ -1101,7 +1101,7 @@
           <mxGeometry x="1193" y="450" width="54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XCGGQBSuQVRN9PLXVsow-5" value="Flink 服务化组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="993" y="-1409" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="990" y="-1415" width="108.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-9AHf7eQGBDVD9LwdfX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q-9AHf7eQGBDVD9LwdfX-1" target="q-9AHf7eQGBDVD9LwdfX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
