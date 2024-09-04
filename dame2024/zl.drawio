@@ -1076,7 +1076,7 @@
         <mxCell id="WTp6hPIGkEqqnta1tMKg-15" value="其他需自定义适配器的业务数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070.75" y="-529" width="110" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="WTp6hPIGkEqqnta1tMKg-16" value="Flink DataSet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WTp6hPIGkEqqnta1tMKg-16" value="Flink Table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="909" y="-660" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WTp6hPIGkEqqnta1tMKg-17" value="流出数据集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
