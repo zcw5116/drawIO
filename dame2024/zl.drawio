@@ -1350,14 +1350,14 @@
             <mxPoint x="847.5" y="-1893" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OaaXZFlO7AVHocSey0g4-16" value="数据源&lt;div&gt;获取模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OaaXZFlO7AVHocSey0g4-16" value="数据&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取模块&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="802.5" y="-1986" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OaaXZFlO7AVHocSey0g4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OaaXZFlO7AVHocSey0g4-18" target="OaaXZFlO7AVHocSey0g4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OaaXZFlO7AVHocSey0g4-18" value="数据流出&lt;div&gt;适配模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="943.75" y="-1990" width="90" height="50" as="geometry" />
+          <mxGeometry x="943.75" y="-1986" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OaaXZFlO7AVHocSey0g4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OaaXZFlO7AVHocSey0g4-20" target="OaaXZFlO7AVHocSey0g4-18">
           <mxGeometry relative="1" as="geometry" />
