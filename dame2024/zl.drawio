@@ -82,13 +82,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WTp6hPIGkEqqnta1tMKg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="802" y="-1780" width="322.5" height="320" as="geometry" />
+          <mxGeometry x="675.5" y="-1780" width="322.5" height="320" as="geometry" />
         </mxCell>
         <mxCell id="WTp6hPIGkEqqnta1tMKg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d9uXpAh-2a4-CEkiIW_F-46" target="d9uXpAh-2a4-CEkiIW_F-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d9uXpAh-2a4-CEkiIW_F-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="811" y="-1769" width="151" height="300" as="geometry" />
+          <mxGeometry x="684.5" y="-1769" width="151" height="300" as="geometry" />
         </mxCell>
         <mxCell id="LFc1hX1YbQdfVsH74rq6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kUEGk9au2-VWEjPAydOZ-4" target="kUEGk9au2-VWEjPAydOZ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -951,25 +951,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d9uXpAh-2a4-CEkiIW_F-28" value="DataX Record集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="832" y="-1728" width="110" height="40" as="geometry" />
+          <mxGeometry x="705.5" y="-1728" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d9uXpAh-2a4-CEkiIW_F-29" value="Kettle数据行集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="831.5" y="-1660" width="110" height="40" as="geometry" />
+          <mxGeometry x="705" y="-1660" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d9uXpAh-2a4-CEkiIW_F-30" value="SeaTunnelRow集合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="828.25" y="-1595" width="110" height="41" as="geometry" />
+          <mxGeometry x="701.75" y="-1595" width="110" height="41" as="geometry" />
         </mxCell>
         <mxCell id="d9uXpAh-2a4-CEkiIW_F-31" value="其他需自定义适配器的业务数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="828.25" y="-1529" width="110" height="44" as="geometry" />
+          <mxGeometry x="701.75" y="-1529" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="d9uXpAh-2a4-CEkiIW_F-39" value="Arrow Table" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1017.5" y="-1649" width="80" height="60" as="geometry" />
+          <mxGeometry x="891" y="-1649" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d9uXpAh-2a4-CEkiIW_F-47" value="流入数据集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="842" y="-1763" width="82.5" height="25" as="geometry" />
+          <mxGeometry x="715.5" y="-1763" width="82.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WTp6hPIGkEqqnta1tMKg-6" value="&lt;b&gt;数据接入模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="999.5" y="-1763" width="87.5" height="30" as="geometry" />
+          <mxGeometry x="873" y="-1763" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WTp6hPIGkEqqnta1tMKg-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="897.5" y="-780" width="322.5" height="320" as="geometry" />
