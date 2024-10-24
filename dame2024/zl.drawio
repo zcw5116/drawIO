@@ -1342,7 +1342,7 @@
           <mxGeometry x="867" y="-2020" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdZPewtEYXk6ACdc1Kod-4" value="数据质量稽核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-2016" width="91" height="30" as="geometry" />
+          <mxGeometry x="1170" y="-2017" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
