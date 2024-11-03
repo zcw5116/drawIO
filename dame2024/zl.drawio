@@ -1419,35 +1419,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4K7dK8gFuqBCYFlYfiwG-1" target="4K7dK8gFuqBCYFlYfiwG-2">
+        <mxCell id="4K7dK8gFuqBCYFlYfiwG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4K7dK8gFuqBCYFlYfiwG-1" target="4K7dK8gFuqBCYFlYfiwG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4K7dK8gFuqBCYFlYfiwG-1">
+        <mxCell id="LLUoBmLpkFYYVV-cBqgz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4K7dK8gFuqBCYFlYfiwG-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="130" />
-              <mxPoint x="340" y="131" />
-            </Array>
+            <mxPoint x="80" y="96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-1" value="ClickHouse主表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="4K7dK8gFuqBCYFlYfiwG-1" value="数据表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="66" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4K7dK8gFuqBCYFlYfiwG-2" target="4K7dK8gFuqBCYFlYfiwG-8">
+        <mxCell id="LLUoBmLpkFYYVV-cBqgz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4K7dK8gFuqBCYFlYfiwG-2" target="LLUoBmLpkFYYVV-cBqgz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-2" value="物化视图辅助表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="4K7dK8gFuqBCYFlYfiwG-2" value="物化视图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-6" value="数据写入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="90" width="60" height="30" as="geometry" />
+        <mxCell id="4K7dK8gFuqBCYFlYfiwG-6" value="数据写入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-8" value="构建分词倒排索引。&lt;div&gt;利用url引擎，实现解耦&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="265" width="180" height="30" as="geometry" />
+        <mxCell id="4K7dK8gFuqBCYFlYfiwG-8" value="构建分词倒排索引。&lt;div&gt;利用url引擎，实现解耦&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="480" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-10" value="自定义函数：参数（字段名称， 关键字）&lt;div&gt;返回值：true或者false&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="320" width="250" height="60" as="geometry" />
+        <mxCell id="4K7dK8gFuqBCYFlYfiwG-10" value="自定义函数：参数（字段名称， 关键字）&lt;div&gt;返回值：true或者false&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="320" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLUoBmLpkFYYVV-cBqgz-1" value="物化视图基表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLUoBmLpkFYYVV-cBqgz-6" value="数据入库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="67" width="60" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
