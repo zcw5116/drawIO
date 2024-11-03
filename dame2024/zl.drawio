@@ -1427,7 +1427,7 @@
             <mxPoint x="80" y="96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4K7dK8gFuqBCYFlYfiwG-1" value="数据表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4K7dK8gFuqBCYFlYfiwG-1" value="数据主表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="66" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LLUoBmLpkFYYVV-cBqgz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4K7dK8gFuqBCYFlYfiwG-2" target="LLUoBmLpkFYYVV-cBqgz-1">
