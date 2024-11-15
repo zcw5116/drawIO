@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="2">
   <diagram name="第 1 页" id="7u-G6cLr_pmwX1JVvdBD">
     <mxGraphModel dx="1114" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RXzaFJq08B4LdtNIx48N-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="260" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="RXzaFJq08B4LdtNIx48N-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 请提供报表名称" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="141" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RXzaFJq08B4LdtNIx48N-5" value="&lt;font color=&quot;#d4e1f5&quot; style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;向我发出指令&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="500" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RXzaFJq08B4LdtNIx48N-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="380.00000000000006" y="500" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RXzaFJq08B4LdtNIx48N-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pen;" vertex="1" parent="1">
-          <mxGeometry x="399.99999999999994" y="515.15" width="29.4" height="29.7" as="geometry" />
-        </mxCell>
-        <mxCell id="RXzaFJq08B4LdtNIx48N-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/start-up-color/128/brain.png" vertex="1" parent="1">
-          <mxGeometry x="220" y="140" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RXzaFJq08B4LdtNIx48N-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="110" width="630" height="460" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -33,14 +12,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CynQNnbA36gv-lPlbwrl-1" value="报表寻址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CynQNnbA36gv-lPlbwrl-1" target="h7k0XdrmtbO4esQwF4u3-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CynQNnbA36gv-lPlbwrl-2" value="质量和血缘核查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="CynQNnbA36gv-lPlbwrl-1" value="用户提问" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="150" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CynQNnbA36gv-lPlbwrl-3" value="目标：&lt;div&gt;（1）、报表&lt;/div&gt;&lt;div&gt;（2）、模型&lt;/div&gt;&lt;div&gt;（3）、时间粒度&lt;/div&gt;&lt;div&gt;（4）、时间范围&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="180" width="115" height="80" as="geometry" />
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-1" value="报表寻址的流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h7k0XdrmtbO4esQwF4u3-3" target="h7k0XdrmtbO4esQwF4u3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-3" value="展示报表核查结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7k0XdrmtbO4esQwF4u3-5" target="h7k0XdrmtbO4esQwF4u3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7k0XdrmtbO4esQwF4u3-5" target="h7k0XdrmtbO4esQwF4u3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7k0XdrmtbO4esQwF4u3-5" target="h7k0XdrmtbO4esQwF4u3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-5" value="继续提问" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-7" value="任务查看" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-8" value="重跑任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-9" value="血缘查看" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-10" value="稽核结果查看" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="634" y="480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7k0XdrmtbO4esQwF4u3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h7k0XdrmtbO4esQwF4u3-5" target="h7k0XdrmtbO4esQwF4u3-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
