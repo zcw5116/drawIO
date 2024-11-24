@@ -1588,34 +1588,98 @@
         </mxCell>
         <mxCell id="pTtxfPsRJPrGJGK4eQgJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-1" target="pTtxfPsRJPrGJGK4eQgJ-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125" y="1840" as="sourcePoint" />
-            <mxPoint x="500" y="1840" as="targetPoint" />
+            <mxPoint x="125" y="1990" as="sourcePoint" />
+            <mxPoint x="500" y="1990" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="80" y="1860" />
-              <mxPoint x="490" y="1860" />
+              <mxPoint x="80" y="2010" />
+              <mxPoint x="490" y="2010" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-1" value="在线DDL语句" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1740" width="100" height="60" as="geometry" />
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-1" value="在线DML语句" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1890" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pTtxfPsRJPrGJGK4eQgJ-2" value="临时表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="1740" width="110" height="60" as="geometry" />
+          <mxGeometry x="435" y="1890" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pTtxfPsRJPrGJGK4eQgJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-3" target="pTtxfPsRJPrGJGK4eQgJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pTtxfPsRJPrGJGK4eQgJ-3" value="变更记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="1740" width="100" height="60" as="geometry" />
+          <mxGeometry x="228" y="1890" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pTtxfPsRJPrGJGK4eQgJ-7" value="循环批量写入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1830" width="79" height="30" as="geometry" />
+          <mxGeometry x="231" y="1980" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-9" value="生成变更记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1740" width="79" height="30" as="geometry" />
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-9" value="识别变更记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1890" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTtxfPsRJPrGJGK4eQgJ-10" value="解析变更记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="341" y="1740" width="79" height="30" as="geometry" />
+          <mxGeometry x="341" y="1890" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-11" target="pTtxfPsRJPrGJGK4eQgJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-11" target="pTtxfPsRJPrGJGK4eQgJ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1810" />
+              <mxPoint x="555" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-11" target="pTtxfPsRJPrGJGK4eQgJ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1660" />
+              <mxPoint x="555" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-11" value="原表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1694" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-12" target="pTtxfPsRJPrGJGK4eQgJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-12" value="临时表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1694" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-14" value="1、复制表结构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1694" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-15" value="临时表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1694" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-17" value="2、执行DDL操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1694" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-19" value="3、同步数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1630" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-22" value="4、重命名" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1780" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-23" target="pTtxfPsRJPrGJGK4eQgJ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-23" value="创建临时表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="676" y="1650" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-24" target="pTtxfPsRJPrGJGK4eQgJ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-24" value="针对临时表执行DDL操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTtxfPsRJPrGJGK4eQgJ-25" target="pTtxfPsRJPrGJGK4eQgJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-25" value="原表数据同步至临时表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="1840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pTtxfPsRJPrGJGK4eQgJ-26" value="原表和临时表相互重命名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="1930" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
