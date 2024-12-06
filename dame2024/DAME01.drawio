@@ -12446,14 +12446,11 @@
         <mxCell id="owp72RrjqX0-80DioE6y-131" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="3780" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-132" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="562" y="2908" width="98" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="owp72RrjqX0-80DioE6y-135" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="877" y="3614" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owp72RrjqX0-80DioE6y-137" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="877" y="3230" width="80" height="30" as="geometry" />
+          <mxGeometry x="880" y="2960" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owp72RrjqX0-80DioE6y-138" value="数据处理Ingest" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="331" y="3840" width="98" height="40" as="geometry" />
@@ -12484,6 +12481,51 @@
         </mxCell>
         <mxCell id="kqjPdNuqoZpqFbZH_vue-2" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="817" y="4130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="4310" width="569" height="477" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-4" value="&lt;b&gt;数据源类型：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="4327" width="81.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-5" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="360" y="4427" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-6" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="4497" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-7" value="MySQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="4327" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-8" value="&lt;b&gt;临时表:&lt;/b&gt;&lt;div&gt;&lt;b&gt;(table_name)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="4387" width="81.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-9" value="临时虚拟表名" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="450" y="4387" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-10" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="4537" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-11" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="4617" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-12" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="4687" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-13" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; table_name = &quot;temp_device&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="364" y="4562" width="446" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-14" value="数据存储Sink" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="341" y="4260" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-15" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="4270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-17" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="880" y="4340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-18" value="可折叠" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF0000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="940" y="2960" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
