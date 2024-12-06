@@ -11951,7 +11951,7 @@
           <mxGeometry x="84" y="180" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="580" width="700" height="110" as="geometry" />
+          <mxGeometry x="130" y="580" width="540" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3azDmyGYVqigEuWXIeZL-33" target="3azDmyGYVqigEuWXIeZL-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -12376,6 +12376,12 @@
         </mxCell>
         <mxCell id="owp72RrjqX0-80DioE6y-20" value="判断Source插件&lt;div&gt;是否缺失配置项&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="2680" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-25" value="请输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-26" value="发送" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="693" y="580" width="97" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
