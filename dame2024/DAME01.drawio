@@ -12446,6 +12446,15 @@
         <mxCell id="owp72RrjqX0-80DioE6y-131" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="3780" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-132" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="562" y="2908" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-135" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="877" y="3614" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-137" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="877" y="3230" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
