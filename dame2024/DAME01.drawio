@@ -12378,7 +12378,7 @@
           <mxGeometry x="615" y="2680" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owp72RrjqX0-80DioE6y-26" value="发送" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="684" y="580" width="97" height="110" as="geometry" />
+          <mxGeometry x="684" y="580" width="86" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
