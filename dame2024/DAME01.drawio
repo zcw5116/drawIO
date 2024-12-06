@@ -12007,13 +12007,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3azDmyGYVqigEuWXIeZL-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3azDmyGYVqigEuWXIeZL-59" vertex="1" connectable="0">
+        <mxCell id="3azDmyGYVqigEuWXIeZL-60" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3azDmyGYVqigEuWXIeZL-59" vertex="1" connectable="0">
           <mxGeometry x="0.0229" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3azDmyGYVqigEuWXIeZL-57" target="3azDmyGYVqigEuWXIeZL-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3azDmyGYVqigEuWXIeZL-65">
+          <mxGeometry x="-0.054" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-57" value="是否确定Source&lt;div&gt;插件类型&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622" y="2275" width="150" height="100" as="geometry" />
@@ -12339,19 +12344,38 @@
           <mxGeometry x="357" y="2420" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owp72RrjqX0-80DioE6y-9" value="生成Source的配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="2610" width="120" height="70" as="geometry" />
+          <mxGeometry x="372" y="2695" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-14" target="owp72RrjqX0-80DioE6y-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="550" y="2600" />
-              <mxPoint x="550" y="2550" />
-              <mxPoint x="470" y="2550" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="owp72RrjqX0-80DioE6y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-14" target="owp72RrjqX0-80DioE6y-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owp72RrjqX0-80DioE6y-14" value="基于LLM，提取数据源Source配置项信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="2570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-18" target="3azDmyGYVqigEuWXIeZL-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-18" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="2050" width="96" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-22" value="缺" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-20" target="owp72RrjqX0-80DioE6y-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="2730" />
+              <mxPoint x="830" y="2470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-20" target="owp72RrjqX0-80DioE6y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="owp72RrjqX0-80DioE6y-23">
+          <mxGeometry x="-0.0489" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-20" value="判断Source插件&lt;div&gt;是否缺失配置项&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="2680" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
