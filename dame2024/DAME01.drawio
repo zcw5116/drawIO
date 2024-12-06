@@ -12018,14 +12018,11 @@
         <mxCell id="3azDmyGYVqigEuWXIeZL-57" value="是否确定Source&lt;div&gt;插件类型&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622" y="2275" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3azDmyGYVqigEuWXIeZL-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3azDmyGYVqigEuWXIeZL-64" target="3azDmyGYVqigEuWXIeZL-66" edge="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3azDmyGYVqigEuWXIeZL-64" target="owp72RrjqX0-80DioE6y-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-64" value="获取Source的初始配置项" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="2290" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="3azDmyGYVqigEuWXIeZL-66" value="判断Source插件缺失的配置项" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="372" y="2420" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.835;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3azDmyGYVqigEuWXIeZL-68" target="3azDmyGYVqigEuWXIeZL-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -12310,6 +12307,51 @@
         </mxCell>
         <mxCell id="avH8L7iTl1DodlnUSkET-20" value="生成整体配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="304" y="1780" width="226" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-2" target="owp72RrjqX0-80DioE6y-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-2" value="继续交互，用户输入Soure配置项缺失信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2435" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-4" target="owp72RrjqX0-80DioE6y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="owp72RrjqX0-80DioE6y-7">
+          <mxGeometry x="-0.1462" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="owp72RrjqX0-80DioE6y-7">
+          <mxGeometry x="-0.1137" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-4" target="owp72RrjqX0-80DioE6y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="owp72RrjqX0-80DioE6y-10">
+          <mxGeometry x="-0.1185" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-4" value="判断Source插件&lt;div&gt;是否缺失配置项&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="2420" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-9" value="生成Source的配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="2610" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-14" target="owp72RrjqX0-80DioE6y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="2600" />
+              <mxPoint x="550" y="2550" />
+              <mxPoint x="470" y="2550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owp72RrjqX0-80DioE6y-14" value="基于LLM，提取数据源Source配置项信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
