@@ -12584,8 +12584,8 @@
         <mxCell id="zJTGpuc8kspfDnXVWgIW-14" value="数据源Source" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-355" y="2871.5" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-15" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="124" y="2881.5" width="90" height="30" as="geometry" />
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-15" value="添加数据源Source" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="124" y="2881.5" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zJTGpuc8kspfDnXVWgIW-16" value="已知配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-30" y="2950" width="280" height="100" as="geometry" />
