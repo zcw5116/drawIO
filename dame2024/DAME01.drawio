@@ -12573,13 +12573,13 @@
           <mxGeometry x="-336" y="3148.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zJTGpuc8kspfDnXVWgIW-11" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="124" y="3228.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="3230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zJTGpuc8kspfDnXVWgIW-12" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="124" y="3298.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="3298.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-13" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; table_name = &quot;temp_device&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-332" y="3173.5" width="382" height="210" as="geometry" />
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-13" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; table_name = &quot;temp_device&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-332" y="3173.5" width="492" height="210" as="geometry" />
         </mxCell>
         <mxCell id="zJTGpuc8kspfDnXVWgIW-14" value="数据源Source" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-355" y="2871.5" width="98" height="40" as="geometry" />
@@ -12592,6 +12592,87 @@
         </mxCell>
         <mxCell id="zJTGpuc8kspfDnXVWgIW-17" value="提问区" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-336" y="3073.5" width="576" height="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-4" value="数据处理Ingest" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-355" y="3430" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="3480" width="625" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-7" value="&lt;b&gt;插件名称：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-338.5" y="3500" width="81.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-8" value="SQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-254.5" y="3500" width="218.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-9" value="请输入关联SQL语句" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-329" y="3540" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-12" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="3540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-13" value="清空" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="3584" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="3720" width="625" height="477" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-15" value="引导区：引导缺失的数据类型、数据源配置项等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-339" y="3748.5" width="289" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-16" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="3948.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-17" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-336" y="3947" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-18" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="4028.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-19" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="4097" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-20" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; save_mode = &quot;upsert&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-332" y="3972" width="492" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-21" value="数据存储Sink" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-355" y="3670" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-23" value="已知配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="3748.5" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-24" value="提问区" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-336" y="3872" width="576" height="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="4278.5" width="625" height="477" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-26" value="引导区：引导缺失的数据类型、数据源配置项等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-339" y="4307" width="289" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-27" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="4507" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-28" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-336" y="4505.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-29" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="4587" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-30" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="4655.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-31" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;spark {&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&amp;nbsp; spark.app.name = &quot;hostname&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; spark.executor.instances = 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; spark.executor.cores = 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; spark.executor.memory = &quot;2g&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-332" y="4530.5" width="492" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-32" value="性能优化" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-355" y="4228.5" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-33" value="已知配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="4307" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Pz_7wZHXxcUc57Rr-OII-34" value="提问区" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-336" y="4430.5" width="576" height="66.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
