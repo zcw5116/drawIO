@@ -11914,10 +11914,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="owp72RrjqX0-80DioE6y-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="331" y="3470" width="569" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="331" y="2933" width="569" height="477" as="geometry" />
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-6" value="请选择数据源类别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -12021,7 +12021,7 @@
         <mxCell id="3azDmyGYVqigEuWXIeZL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3azDmyGYVqigEuWXIeZL-57" target="3azDmyGYVqigEuWXIeZL-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3azDmyGYVqigEuWXIeZL-65">
+        <mxCell id="owp72RrjqX0-80DioE6y-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3azDmyGYVqigEuWXIeZL-65" vertex="1" connectable="0">
           <mxGeometry x="-0.054" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -12029,7 +12029,7 @@
         <mxCell id="3azDmyGYVqigEuWXIeZL-57" value="是否确定Source&lt;div&gt;插件类型&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622" y="2275" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3azDmyGYVqigEuWXIeZL-64" target="owp72RrjqX0-80DioE6y-4">
+        <mxCell id="owp72RrjqX0-80DioE6y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3azDmyGYVqigEuWXIeZL-64" target="owp72RrjqX0-80DioE6y-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-64" value="获取Source的初始配置项" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -12319,52 +12319,52 @@
         <mxCell id="avH8L7iTl1DodlnUSkET-20" value="生成整体配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="304" y="1780" width="226" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-2" target="owp72RrjqX0-80DioE6y-14">
+        <mxCell id="owp72RrjqX0-80DioE6y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="owp72RrjqX0-80DioE6y-2" target="owp72RrjqX0-80DioE6y-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-2" value="继续交互，用户输入Soure配置项缺失信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-2" value="继续交互，用户输入Soure配置项缺失信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="2435" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-4" target="owp72RrjqX0-80DioE6y-2">
+        <mxCell id="owp72RrjqX0-80DioE6y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="owp72RrjqX0-80DioE6y-4" target="owp72RrjqX0-80DioE6y-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="owp72RrjqX0-80DioE6y-7">
+        <mxCell id="owp72RrjqX0-80DioE6y-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="owp72RrjqX0-80DioE6y-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1462" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="owp72RrjqX0-80DioE6y-7">
+        <mxCell id="owp72RrjqX0-80DioE6y-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="owp72RrjqX0-80DioE6y-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1137" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-4" target="owp72RrjqX0-80DioE6y-9">
+        <mxCell id="owp72RrjqX0-80DioE6y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="owp72RrjqX0-80DioE6y-4" target="owp72RrjqX0-80DioE6y-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="owp72RrjqX0-80DioE6y-10">
+        <mxCell id="owp72RrjqX0-80DioE6y-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="owp72RrjqX0-80DioE6y-10" vertex="1" connectable="0">
           <mxGeometry x="-0.1185" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-4" value="判断Source插件&lt;div&gt;是否缺失配置项&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-4" value="判断Source插件&lt;div&gt;是否缺失配置项&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="357" y="2420" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-9" value="生成Source的配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-9" value="生成Source的配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="2695" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-14" target="owp72RrjqX0-80DioE6y-20">
+        <mxCell id="owp72RrjqX0-80DioE6y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="owp72RrjqX0-80DioE6y-14" target="owp72RrjqX0-80DioE6y-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-14" value="基于LLM，提取数据源Source配置项信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-14" value="基于LLM，提取数据源Source配置项信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="2570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-18" target="3azDmyGYVqigEuWXIeZL-42">
+        <mxCell id="owp72RrjqX0-80DioE6y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="owp72RrjqX0-80DioE6y-18" target="3azDmyGYVqigEuWXIeZL-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-18" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-18" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="196" y="2050" width="96" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-22" value="缺" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-20" target="owp72RrjqX0-80DioE6y-2">
+        <mxCell id="owp72RrjqX0-80DioE6y-22" value="缺" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="owp72RrjqX0-80DioE6y-20" target="owp72RrjqX0-80DioE6y-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="830" y="2730" />
@@ -12372,225 +12372,225 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-20" target="owp72RrjqX0-80DioE6y-9">
+        <mxCell id="owp72RrjqX0-80DioE6y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="owp72RrjqX0-80DioE6y-20" target="owp72RrjqX0-80DioE6y-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="owp72RrjqX0-80DioE6y-23">
+        <mxCell id="owp72RrjqX0-80DioE6y-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="owp72RrjqX0-80DioE6y-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0489" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-20" value="判断Source插件&lt;div&gt;是否缺失配置项&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-20" value="判断Source插件&lt;div&gt;是否缺失配置项&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="615" y="2680" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-26" value="发送" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-26" value="发送" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="684" y="580" width="86" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-107" value="&lt;b&gt;数据源类型：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-107" value="&lt;b&gt;数据源类型：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="2950" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-109" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-109" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="350" y="3050" width="450" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-110" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-110" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="3120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-112" value="MySQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-112" value="MySQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="2950" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-113" value="&lt;b&gt;临时表:&lt;/b&gt;&lt;div&gt;&lt;b&gt;(table_name)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-113" value="&lt;b&gt;临时表:&lt;/b&gt;&lt;div&gt;&lt;b&gt;(table_name)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="3010" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-114" value="临时虚拟表名" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-114" value="临时虚拟表名" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="440" y="3010" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-115" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-115" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="3160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-116" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-116" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="3240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-117" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-117" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="3310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-118" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-118" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="3430" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-120" value="&lt;b&gt;数据源类型：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-120" value="&lt;b&gt;数据源类型：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360.5" y="3504" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-121" value="MySQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-121" value="MySQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="442" y="3504" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-122" value="&lt;b&gt;临时表:&lt;/b&gt;&lt;div&gt;&lt;b&gt;(table_name)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-122" value="&lt;b&gt;临时表:&lt;/b&gt;&lt;div&gt;&lt;b&gt;(table_name)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="352" y="3564" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-123" value="临时虚拟表名" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-123" value="临时虚拟表名" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="442" y="3564" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-125" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-125" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="352" y="3614" width="450" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-126" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-126" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="3664" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-127" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; table_name = &quot;temp_device&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-127" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; table_name = &quot;temp_device&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="354" y="3185" width="446" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-128" value="数据源Source" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-128" value="数据源Source" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="331" y="2883" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-130" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-130" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="2893" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-131" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-131" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800.5" y="3780" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-135" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-135" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="880" y="3507" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-137" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-137" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="880" y="2960" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-138" value="数据处理Ingest" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-138" value="数据处理Ingest" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="331" y="3840" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-139" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-139" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="331" y="3890" width="579" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-140" value="添加Ingest插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-140" value="添加Ingest插件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="802" y="3850" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-141" value="&lt;b&gt;插件名称：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-141" value="&lt;b&gt;插件名称：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="3910" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-142" value="SQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-142" value="SQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="431.5" y="3910" width="218.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-143" value="插件的描述信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-143" value="插件的描述信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="357" y="3950" width="450" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-144" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-144" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="4000" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-145" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; sql {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; sql = &quot;&quot;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;select id, name , sum(value) as sum_value&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;from tmp1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;group by id, name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&quot;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-145" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; sql {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; sql = &quot;&quot;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;select id, name , sum(value) as sum_value&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;from tmp1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;group by id, name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&quot;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="4050" width="442" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-1" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-1" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="4090" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-2" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-2" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="4130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="338" y="4290" width="569" height="477" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-4" value="&lt;b&gt;数据源类型：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-4" value="&lt;b&gt;数据源类型：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365.5" y="4307" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-5" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-5" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="357" y="4407" width="450" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-6" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-6" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="4477" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-7" value="MySQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-7" value="MySQL&amp;nbsp; （下拉框）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="447" y="4307" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-8" value="&lt;b&gt;数据来源表:&lt;/b&gt;&lt;div&gt;&lt;b&gt;(table_name)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-8" value="&lt;b&gt;数据来源表:&lt;/b&gt;&lt;div&gt;&lt;b&gt;(table_name)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="357" y="4367" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-9" value="请输入数据来源的临时表名" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-9" value="请输入数据来源的临时表名" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="447" y="4367" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-10" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-10" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="357" y="4517" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-11" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-11" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="4597" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-12" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-12" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="4667" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-13" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sink_table = &quot;temp_device&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; save_mode = &quot;upsert&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-13" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sink_table = &quot;temp_device&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; save_mode = &quot;upsert&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="361" y="4542" width="446" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-14" value="数据存储Sink" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-14" value="数据存储Sink" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="338" y="4240" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-15" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-15" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="4250" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-17" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-17" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="877" y="4320" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-18" value="可折叠" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF0000;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-18" value="可折叠" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF0000;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="940" y="2960" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-20" value="性能配置" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-20" value="性能配置" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="335.5" y="4800" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="338" y="4850" width="569" height="477" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-22" value="&lt;b&gt;数据源临时表：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-22" value="&lt;b&gt;数据源临时表：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="4880" width="97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-23" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-23" value="请输入数据源的信息，包括数据源的IP、端口、JDBC URL、数据库名、表名等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="361" y="4937" width="450" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-24" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-24" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="5037" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-25" value="tmp_a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-25" value="tmp_a" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="471.5" y="4880" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-28" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-28" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="357" y="5077" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-29" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-29" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="5157" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-30" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-30" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="5227" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-31" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sink_table = &quot;temp_device&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; save_mode = &quot;upsert&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-31" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sink_table = &quot;temp_device&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; save_mode = &quot;upsert&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="361" y="5102" width="446" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="kqjPdNuqoZpqFbZH_vue-32" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="kqjPdNuqoZpqFbZH_vue-32" value="&amp;lt;&amp;lt;可折叠&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="877" y="4880" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-355" y="2921.5" width="625" height="477" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-5" value="引导区：引导缺失的数据类型、数据源配置项等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-5" value="引导区：引导缺失的数据类型、数据源配置项等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-339" y="2950" width="289" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-6" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-6" value="生成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="3150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-10" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-10" value="配置预览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-336" y="3148.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-11" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-11" value="编辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="3228.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-12" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-12" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="3298.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-13" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; table_name = &quot;temp_device&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-332" y="3173.5" width="446" height="210" as="geometry" />
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-13" value="&lt;div&gt;mysql {&lt;/div&gt;&lt;div&gt;&amp;nbsp; option {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; url = &quot;jdbc:mysql://134.108.11.65:8924/res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; user = &quot;${jdbc_user}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; password = &quot;${jdbc_password}&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; db_name = &quot;res&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; tb_name = &quot;cm_res_device&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; table_name = &quot;temp_device&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-332" y="3173.5" width="382" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-14" value="数据源Source" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-14" value="数据源Source" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-355" y="2871.5" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-15" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-15" value="添加数据源" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="2881.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-16" value="已知配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-16" value="已知配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-30" y="2950" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-17" value="引导区：引导缺失的数据类型、数据源配置项等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-17" value="引导区：引导缺失的数据类型、数据源配置项等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-336" y="3073.5" width="576" height="66.5" as="geometry" />
         </mxCell>
       </root>
