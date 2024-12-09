@@ -12674,17 +12674,17 @@
         <mxCell id="Pz_7wZHXxcUc57Rr-OII-34" value="提问区" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-336" y="4430.5" width="576" height="66.5" as="geometry" />
         </mxCell>
-        <mxCell id="WWFSsdLKTP8vbJncuCER-1" value="配置预览" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="54" y="4780" width="98" height="40" as="geometry" />
+        <mxCell id="WWFSsdLKTP8vbJncuCER-3" value="配置预览" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="2800" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WWFSsdLKTP8vbJncuCER-2" value="配置下载" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="171" y="4780" width="98" height="40" as="geometry" />
+        <mxCell id="WWFSsdLKTP8vbJncuCER-4" value="配置下载" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;glass=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="2800" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WWFSsdLKTP8vbJncuCER-3" value="配置预览" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="56.5" y="2780" width="98" height="40" as="geometry" />
+        <mxCell id="WWFSsdLKTP8vbJncuCER-5" value="配置预览" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="4780" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WWFSsdLKTP8vbJncuCER-4" value="配置下载" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="173.5" y="2780" width="98" height="40" as="geometry" />
+        <mxCell id="WWFSsdLKTP8vbJncuCER-6" value="配置下载" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;glass=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="4780" width="98" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
