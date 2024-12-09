@@ -12590,7 +12590,7 @@
         <mxCell id="zJTGpuc8kspfDnXVWgIW-16" value="已知配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-30" y="2950" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zJTGpuc8kspfDnXVWgIW-17" value="引导区：引导缺失的数据类型、数据源配置项等" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
+        <mxCell id="zJTGpuc8kspfDnXVWgIW-17" value="提问区" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-336" y="3073.5" width="576" height="66.5" as="geometry" />
         </mxCell>
       </root>
