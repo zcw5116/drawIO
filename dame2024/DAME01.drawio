@@ -12006,7 +12006,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-54" value="意图识别：提取插件类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1392" y="1951" width="120" height="60" as="geometry" />
+          <mxGeometry x="1392" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="3azDmyGYVqigEuWXIeZL-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -12329,28 +12329,31 @@
         <mxCell id="owp72RrjqX0-80DioE6y-2" value="用户继续交互" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1385" y="2226" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="owp72RrjqX0-80DioE6y-4" target="owp72RrjqX0-80DioE6y-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="owp72RrjqX0-80DioE6y-7" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1263" y="2261" as="sourcePoint" />
+            <mxPoint x="1386" y="2261" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="owp72RrjqX0-80DioE6y-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.1462" y="3" relative="1" as="geometry">
+        <mxCell id="YJx3hGnKGdcQS-SRTCRc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-4" target="YJx3hGnKGdcQS-SRTCRc-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1187" y="2560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJx3hGnKGdcQS-SRTCRc-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YJx3hGnKGdcQS-SRTCRc-41">
+          <mxGeometry x="-0.176" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="owp72RrjqX0-80DioE6y-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.1137" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-4" value="缺失配置项不为空" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-4" value="缺失配置项为空" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1112" y="2211" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="owp72RrjqX0-80DioE6y-14" edge="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="owp72RrjqX0-80DioE6y-14" target="YJx3hGnKGdcQS-SRTCRc-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1445" y="2471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owp72RrjqX0-80DioE6y-14" value="构造提示词，提交大模型解析：用户交互的信息 + 已知配置项" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="owp72RrjqX0-80DioE6y-14" value="构造提示词，提交大模型解析：用户交互的提问 + 已知配置项" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1385" y="2361" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJx3hGnKGdcQS-SRTCRc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owp72RrjqX0-80DioE6y-18" target="YJx3hGnKGdcQS-SRTCRc-2">
@@ -12689,6 +12692,13 @@
         <mxCell id="YJx3hGnKGdcQS-SRTCRc-14" value="配置项比对：全量配置项与意图识别的配置项进行比对" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="811" y="2081" width="147" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YJx3hGnKGdcQS-SRTCRc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJx3hGnKGdcQS-SRTCRc-24" target="YJx3hGnKGdcQS-SRTCRc-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="2425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YJx3hGnKGdcQS-SRTCRc-24" value="已知配置项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="2226" width="120" height="70" as="geometry" />
         </mxCell>
@@ -12697,6 +12707,23 @@
         </mxCell>
         <mxCell id="YJx3hGnKGdcQS-SRTCRc-25" value="缺失配置项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915.5" y="2226" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YJx3hGnKGdcQS-SRTCRc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJx3hGnKGdcQS-SRTCRc-34" target="YJx3hGnKGdcQS-SRTCRc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="2515" />
+              <mxPoint x="640" y="2116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJx3hGnKGdcQS-SRTCRc-34" value="意图识别：提取Source的配置项" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="2480" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YJx3hGnKGdcQS-SRTCRc-36" value="生成配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2390" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YJx3hGnKGdcQS-SRTCRc-43" value="生成配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="2560" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
