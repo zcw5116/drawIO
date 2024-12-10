@@ -12008,12 +12008,13 @@
         <mxCell id="3azDmyGYVqigEuWXIeZL-54" value="意图识别：提取插件类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1392" y="1951" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3azDmyGYVqigEuWXIeZL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3azDmyGYVqigEuWXIeZL-57" target="3azDmyGYVqigEuWXIeZL-44" edge="1">
+        <mxCell id="3azDmyGYVqigEuWXIeZL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="3azDmyGYVqigEuWXIeZL-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1552" y="2111" />
-              <mxPoint x="1552" y="1871" />
+              <mxPoint x="1600" y="2120" />
+              <mxPoint x="1600" y="1871" />
             </Array>
+            <mxPoint x="1530" y="2120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3azDmyGYVqigEuWXIeZL-60" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3azDmyGYVqigEuWXIeZL-59" vertex="1" connectable="0">
