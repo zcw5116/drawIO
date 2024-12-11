@@ -12735,7 +12735,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xgM6o0EM-h40yAzqpYmA" name="两江2025规划">
-    <mxGraphModel dx="2418" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14190,7 +14190,7 @@
           <mxGeometry x="270.5" y="1489" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="8ZD-kN06-8DfFwV3QOhl-272" value="CK" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.33331298828125;container=0;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="1511.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="125.5" y="1511.5" width="64.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ZD-kN06-8DfFwV3QOhl-273" value="网络拓扑" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="195.5" y="1489" width="60" height="15" as="geometry" />
@@ -14208,7 +14208,7 @@
           <mxGeometry x="480.5" y="1489" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="8ZD-kN06-8DfFwV3QOhl-278" value="CK" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.33331298828125;container=0;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="1511.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="339" y="1513.5" width="67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ZD-kN06-8DfFwV3QOhl-279" value="空间系统" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="405.5" y="1489" width="60" height="15" as="geometry" />
@@ -14224,9 +14224,6 @@
         </mxCell>
         <mxCell id="8ZD-kN06-8DfFwV3QOhl-283" value="…" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="693" y="1489" width="30" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="8ZD-kN06-8DfFwV3QOhl-284" value="CK" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.33331298828125;container=0;" vertex="1" parent="1">
-          <mxGeometry x="593" y="1511.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ZD-kN06-8DfFwV3QOhl-285" value="……" style="rounded=1;whiteSpace=wrap;html=1;container=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="618" y="1489" width="60" height="15" as="geometry" />
@@ -14569,6 +14566,18 @@
         </mxCell>
         <mxCell id="8ZD-kN06-8DfFwV3QOhl-406" value="InfluxDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.33331298828125;container=0;" vertex="1" parent="1">
           <mxGeometry x="555.5" y="1371.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cpa25L9m8I6DXFqD7LIo-1" value="达梦" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.33331298828125;container=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1512.83" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cpa25L9m8I6DXFqD7LIo-2" value="达梦" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.33331298828125;container=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="1512" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cpa25L9m8I6DXFqD7LIo-5" value="CK" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.33331298828125;container=0;" vertex="1" parent="1">
+          <mxGeometry x="563" y="1511.17" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cpa25L9m8I6DXFqD7LIo-6" value="达梦" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.33331298828125;container=0;" vertex="1" parent="1">
+          <mxGeometry x="650.5" y="1512" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
