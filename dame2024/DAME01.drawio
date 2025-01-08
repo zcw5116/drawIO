@@ -15218,59 +15218,68 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WUnnqhRDVhlfyN52XZLT-3" target="WUnnqhRDVhlfyN52XZLT-8">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WUnnqhRDVhlfyN52XZLT-3" target="WUnnqhRDVhlfyN52XZLT-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WUnnqhRDVhlfyN52XZLT-3" target="WUnnqhRDVhlfyN52XZLT-12">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WUnnqhRDVhlfyN52XZLT-3" target="WUnnqhRDVhlfyN52XZLT-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="-22" width="160" height="88" as="geometry" />
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-60" width="160" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-5" value="管理节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1085.5" y="-22" width="79" height="30" as="geometry" />
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-5" value="管理节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1080.5" y="-60" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-6" value="dame-job-admin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1065.5" y="12" width="119" height="40" as="geometry" />
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-6" value="dame-job-admin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1060.5" y="-26" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="130" width="160" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-8" value="执行节点1&lt;div&gt;（大数据集群客户端）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-8" value="执行节点1&lt;div&gt;（&lt;b&gt;大数据集群客户端&lt;/b&gt;）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="130" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-9" value="dame-job-executor&lt;div&gt;（调度执行器）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-9" value="dame-job-executor&lt;div&gt;（调度执行器）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="950.5" y="164" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WUnnqhRDVhlfyN52XZLT-10" target="WUnnqhRDVhlfyN52XZLT-20">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WUnnqhRDVhlfyN52XZLT-10" target="WUnnqhRDVhlfyN52XZLT-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-10" value="SeaCrab&lt;div&gt;（执行引擎）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-10" value="SeaCrab&lt;div&gt;（执行引擎）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="950.5" y="212" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1161" y="130" width="160" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-12" value="执行节点N&lt;div&gt;（大数据集群客户端）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-12" value="执行节点N&lt;div&gt;（&lt;b&gt;大数据集群客户端&lt;/b&gt;）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1181.5" y="130" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-13" value="dame-job-executor&lt;div&gt;（调度执行器）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-13" value="dame-job-executor&lt;div&gt;（调度执行器）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1181.5" y="164" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WUnnqhRDVhlfyN52XZLT-14" target="WUnnqhRDVhlfyN52XZLT-20">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WUnnqhRDVhlfyN52XZLT-14" target="WUnnqhRDVhlfyN52XZLT-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-14" value="SeaCrab&lt;div&gt;（执行引擎）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-14" value="SeaCrab&lt;div&gt;（执行引擎）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1181.5" y="212" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1090" y="179" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-20" value="大数据集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-20" value="大数据集群" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1041" y="370" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WUnnqhRDVhlfyN52XZLT-25" value="申请计算资源&lt;div&gt;性能横向扩展&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1075.5" y="270" width="85" height="30" as="geometry" />
+        <mxCell id="WUnnqhRDVhlfyN52XZLT-25" value="申请计算资源&lt;div&gt;性能横向扩展&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1098.5" y="280" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwD3OxSVCrYRgpNL3aIP-1" value="负载均衡/高可用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="50" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwD3OxSVCrYRgpNL3aIP-3" value="负责任务提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1321" y="174" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwD3OxSVCrYRgpNL3aIP-4" value="负责任务提交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="841" y="182" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
