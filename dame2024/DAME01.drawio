@@ -15267,7 +15267,7 @@
           <mxGeometry x="1090" y="179" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WUnnqhRDVhlfyN52XZLT-20" value="大数据集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="370" width="200" height="90" as="geometry" />
+          <mxGeometry x="1041" y="370" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WUnnqhRDVhlfyN52XZLT-25" value="申请计算资源&lt;div&gt;性能横向扩展&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1075.5" y="270" width="85" height="30" as="geometry" />
