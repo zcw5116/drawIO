@@ -15466,121 +15466,146 @@
           <mxGeometry x="40" y="395" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-3" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="445" width="230" height="130" as="geometry" />
+          <mxGeometry x="34" y="445" width="240" height="124" as="geometry" />
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="gkw55kDYGDKBNt8mII09-3">
-          <mxGeometry width="230" height="27" as="geometry" />
+          <mxGeometry width="240" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="gkw55kDYGDKBNt8mII09-62" value="序号" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-4">
+          <mxGeometry width="26" height="27" as="geometry">
+            <mxRectangle width="26" height="27" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-5" value="执行器" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-4">
-          <mxGeometry width="73" height="27" as="geometry">
-            <mxRectangle width="73" height="27" as="alternateBounds" />
+          <mxGeometry x="26" width="64" height="27" as="geometry">
+            <mxRectangle width="64" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-6" value="内存" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-4">
-          <mxGeometry x="73" width="52" height="27" as="geometry">
-            <mxRectangle width="52" height="27" as="alternateBounds" />
+          <mxGeometry x="90" width="50" height="27" as="geometry">
+            <mxRectangle width="50" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-7" value="CPU" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-4">
-          <mxGeometry x="125" width="53" height="27" as="geometry">
-            <mxRectangle width="53" height="27" as="alternateBounds" />
+          <mxGeometry x="140" width="40" height="27" as="geometry">
+            <mxRectangle width="40" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-24" value="负载" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-4">
-          <mxGeometry x="178" width="52" height="27" as="geometry">
-            <mxRectangle width="52" height="27" as="alternateBounds" />
+          <mxGeometry x="180" width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="gkw55kDYGDKBNt8mII09-3">
-          <mxGeometry y="27" width="230" height="26" as="geometry" />
+          <mxGeometry y="27" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gkw55kDYGDKBNt8mII09-63" value="1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-8">
+          <mxGeometry width="26" height="20" as="geometry">
+            <mxRectangle width="26" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-9" value="执行器1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-8">
-          <mxGeometry width="73" height="26" as="geometry">
-            <mxRectangle width="73" height="26" as="alternateBounds" />
+          <mxGeometry x="26" width="64" height="20" as="geometry">
+            <mxRectangle width="64" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-10" value="13.14%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-8">
-          <mxGeometry x="73" width="52" height="26" as="geometry">
-            <mxRectangle width="52" height="26" as="alternateBounds" />
+          <mxGeometry x="90" width="50" height="20" as="geometry">
+            <mxRectangle width="50" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-11" value="50%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-8">
-          <mxGeometry x="125" width="53" height="26" as="geometry">
-            <mxRectangle width="53" height="26" as="alternateBounds" />
+          <mxGeometry x="140" width="40" height="20" as="geometry">
+            <mxRectangle width="40" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-25" value="1.05" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-8">
-          <mxGeometry x="178" width="52" height="26" as="geometry">
-            <mxRectangle width="52" height="26" as="alternateBounds" />
+          <mxGeometry x="180" width="60" height="20" as="geometry">
+            <mxRectangle width="60" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="gkw55kDYGDKBNt8mII09-3">
-          <mxGeometry y="53" width="230" height="25" as="geometry" />
+          <mxGeometry y="47" width="240" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="gkw55kDYGDKBNt8mII09-64" value="2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-12">
+          <mxGeometry width="26" height="25" as="geometry">
+            <mxRectangle width="26" height="25" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-13" value="执行器2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-12">
-          <mxGeometry width="73" height="25" as="geometry">
-            <mxRectangle width="73" height="25" as="alternateBounds" />
+          <mxGeometry x="26" width="64" height="25" as="geometry">
+            <mxRectangle width="64" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-14" value="13.14%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-12">
-          <mxGeometry x="73" width="52" height="25" as="geometry">
-            <mxRectangle width="52" height="25" as="alternateBounds" />
+          <mxGeometry x="90" width="50" height="25" as="geometry">
+            <mxRectangle width="50" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-15" value="50%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-12">
-          <mxGeometry x="125" width="53" height="25" as="geometry">
-            <mxRectangle width="53" height="25" as="alternateBounds" />
+          <mxGeometry x="140" width="40" height="25" as="geometry">
+            <mxRectangle width="40" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-26" value="1.05" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-12">
-          <mxGeometry x="178" width="52" height="25" as="geometry">
-            <mxRectangle width="52" height="25" as="alternateBounds" />
+          <mxGeometry x="180" width="60" height="25" as="geometry">
+            <mxRectangle width="60" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="gkw55kDYGDKBNt8mII09-3">
-          <mxGeometry y="78" width="230" height="27" as="geometry" />
+          <mxGeometry y="72" width="240" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="gkw55kDYGDKBNt8mII09-65" value="3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-16">
+          <mxGeometry width="26" height="27" as="geometry">
+            <mxRectangle width="26" height="27" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-17" value="执行器3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-16">
-          <mxGeometry width="73" height="27" as="geometry">
-            <mxRectangle width="73" height="27" as="alternateBounds" />
+          <mxGeometry x="26" width="64" height="27" as="geometry">
+            <mxRectangle width="64" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-18" value="13.14%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-16">
-          <mxGeometry x="73" width="52" height="27" as="geometry">
-            <mxRectangle width="52" height="27" as="alternateBounds" />
+          <mxGeometry x="90" width="50" height="27" as="geometry">
+            <mxRectangle width="50" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-19" value="50%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-16">
-          <mxGeometry x="125" width="53" height="27" as="geometry">
-            <mxRectangle width="53" height="27" as="alternateBounds" />
+          <mxGeometry x="140" width="40" height="27" as="geometry">
+            <mxRectangle width="40" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-27" value="1.05" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-16">
-          <mxGeometry x="178" width="52" height="27" as="geometry">
-            <mxRectangle width="52" height="27" as="alternateBounds" />
+          <mxGeometry x="180" width="60" height="27" as="geometry">
+            <mxRectangle width="60" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="gkw55kDYGDKBNt8mII09-3">
-          <mxGeometry y="105" width="230" height="25" as="geometry" />
+          <mxGeometry y="99" width="240" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="gkw55kDYGDKBNt8mII09-66" value="4" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-20">
+          <mxGeometry width="26" height="25" as="geometry">
+            <mxRectangle width="26" height="25" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-21" value="执行器4" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-20">
-          <mxGeometry width="73" height="25" as="geometry">
-            <mxRectangle width="73" height="25" as="alternateBounds" />
+          <mxGeometry x="26" width="64" height="25" as="geometry">
+            <mxRectangle width="64" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-22" value="13.14%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-20">
-          <mxGeometry x="73" width="52" height="25" as="geometry">
-            <mxRectangle width="52" height="25" as="alternateBounds" />
+          <mxGeometry x="90" width="50" height="25" as="geometry">
+            <mxRectangle width="50" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-23" value="50%" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-20">
-          <mxGeometry x="125" width="53" height="25" as="geometry">
-            <mxRectangle width="53" height="25" as="alternateBounds" />
+          <mxGeometry x="140" width="40" height="25" as="geometry">
+            <mxRectangle width="40" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-28" value="1.05" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="gkw55kDYGDKBNt8mII09-20">
-          <mxGeometry x="178" width="52" height="25" as="geometry">
-            <mxRectangle width="52" height="25" as="alternateBounds" />
+          <mxGeometry x="180" width="60" height="25" as="geometry">
+            <mxRectangle width="60" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-31" value="&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); --tw-text-opacity: 1; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-gray-400&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;质量稽核对象数&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); margin-top: 0.5rem; line-height: 2rem; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-2xl font-bold mt-2&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1,234&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
@@ -15646,8 +15671,8 @@
         <mxCell id="gkw55kDYGDKBNt8mII09-60" value="最近一周（时间范围可调整）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="289" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gkw55kDYGDKBNt8mII09-61" value="&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); --tw-text-opacity: 1; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-gray-400&quot;&gt;1、失败次数topN的采集实例列表。&lt;/div&gt;&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); --tw-text-opacity: 1; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-gray-400&quot;&gt;2、调度次数topN采集实例列表&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="630" width="211" height="50" as="geometry" />
+        <mxCell id="gkw55kDYGDKBNt8mII09-61" value="&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); --tw-text-opacity: 1; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-gray-400&quot;&gt;1、失败次数topN的采集实例列表。&lt;/div&gt;&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); --tw-text-opacity: 1; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-gray-400&quot;&gt;2、调度次数topN采集实例列表&lt;/div&gt;&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); --tw-text-opacity: 1; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-gray-400&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); --tw-text-opacity: 1; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-gray-400&quot;&gt;数据血缘&lt;/div&gt;&lt;div style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: light-dark(#fff, #000000); --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235); --tw-text-opacity: 1; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot; class=&quot;text-gray-400&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="350" y="700" width="211" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
