@@ -15625,14 +15625,11 @@
         <mxCell id="gkw55kDYGDKBNt8mII09-48" value="推送表：20个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="463.25" y="255" width="76.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gkw55kDYGDKBNt8mII09-49" value="订阅表：20个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="546" y="255" width="84" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-51" value="数据主题（待补充））" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="135" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-53" value="拉取表：20个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630.5" y="257" width="76.5" height="30" as="geometry" />
+          <mxGeometry x="585" y="257" width="76.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-56" value="饼图：运行中、成功、失败" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="419" y="281" width="81" height="81" as="geometry" />
