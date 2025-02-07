@@ -15626,7 +15626,7 @@
           <mxGeometry x="463.25" y="255" width="76.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-51" value="数据主题（待补充））" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="135" width="130" height="30" as="geometry" />
+          <mxGeometry x="525" y="135" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gkw55kDYGDKBNt8mII09-53" value="拉取表：20个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="257" width="76.5" height="30" as="geometry" />
