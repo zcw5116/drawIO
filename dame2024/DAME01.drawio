@@ -16157,8 +16157,8 @@
         <mxCell id="YV4Gqgzin3eJ3HaaKxyZ-139" value="库名&amp;nbsp; &amp;nbsp;模型名&amp;nbsp; 次数&lt;div&gt;default&amp;nbsp; device&amp;nbsp; 10&lt;/div&gt;&lt;div&gt;default&amp;nbsp; port&amp;nbsp; &amp;nbsp; &amp;nbsp; 20&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="59.5" y="-870" width="114.75" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="YV4Gqgzin3eJ3HaaKxyZ-143" value="数据源类型列表：kafka、oss、达梦、clickhouse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="-310" width="83" height="76" as="geometry" />
+        <mxCell id="YV4Gqgzin3eJ3HaaKxyZ-143" value="数据来源&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1）、OMC&lt;/div&gt;&lt;div&gt;2）、信关站&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175.74" y="-319.83" width="83" height="76" as="geometry" />
         </mxCell>
         <mxCell id="YV4Gqgzin3eJ3HaaKxyZ-144" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-960" width="310" height="210" as="geometry" />
