@@ -16279,14 +16279,11 @@
         <mxCell id="e2hg2TvrCybW8xGf1Kkk-30" value="稽核监控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557.37" y="-1114.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e2hg2TvrCybW8xGf1Kkk-31" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;饼图，展示质量规则的校验分布。正常、异常。&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="682.37" y="-1096.5" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="e2hg2TvrCybW8xGf1Kkk-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;稽核对象数：20&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;稽核实例数：50&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;稽核正常对象数：10&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;稽核异常对象数：5&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="567.37" y="-1084.5" width="100" height="73" as="geometry" />
         </mxCell>
         <mxCell id="e2hg2TvrCybW8xGf1Kkk-33" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;饼图，展示稽核对象的稽核通过、异常比例。&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="776.61" y="-1094.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="702" y="-1101.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="e2hg2TvrCybW8xGf1Kkk-35" value="饼图：运行中、成功、失败" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="649.98" y="-1337.5" width="66.26" height="66.26" as="geometry" />
