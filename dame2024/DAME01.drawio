@@ -16791,31 +16791,31 @@
           <mxGeometry x="610" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="570" width="60" height="230" as="geometry" />
+          <mxGeometry x="120" y="550" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-26" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="160" y="800" as="sourcePoint" />
-            <mxPoint x="560" y="800" as="targetPoint" />
+            <mxPoint x="120" y="780" as="sourcePoint" />
+            <mxPoint x="520" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="570" width="60" height="230" as="geometry" />
+          <mxGeometry x="220" y="550" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="570" width="60" height="230" as="geometry" />
+          <mxGeometry x="330" y="550" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-29" value="星载天线" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="165" y="810" width="50" height="20" as="geometry" />
+          <mxGeometry x="125" y="790" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-30" value="天线波束" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="810" width="50" height="20" as="geometry" />
+          <mxGeometry x="220" y="790" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-31" value="AMF" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="380" y="810" width="50" height="20" as="geometry" />
+          <mxGeometry x="340" y="790" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-32" value="分网元类型失败数统计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="530" width="160" height="30" as="geometry" />
+          <mxGeometry x="80" y="510" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-37" value="堆积图：下面是成功、上面是失败" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="-110" width="205" height="30" as="geometry" />
