@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15" pages="21">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="22">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="1050" dy="2863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16721,6 +16721,44 @@
         </mxCell>
         <mxCell id="XZeIcMltwP8yfzduiM3_-12" value="静态路由，且静态地址地址段比发布的prefix范围小，&lt;div&gt;那么路由的路径变成了：R4 -&amp;gt; R3 -&amp;gt; R5 ?&lt;/div&gt;&lt;div&gt;后续的R2节点也不用遍历来判断是否路由冲突了？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="-110" width="290" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O0Fk4llaTeApfVexH4wk" name="两江数据采集页面">
+    <mxGraphModel dx="1114" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YLE9CblIo19JBoLHVdXt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="60" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YLE9CblIo19JBoLHVdXt-2" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="120" y="420" as="sourcePoint" />
+            <mxPoint x="520" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLE9CblIo19JBoLHVdXt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="60" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YLE9CblIo19JBoLHVdXt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="60" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YLE9CblIo19JBoLHVdXt-5" value="接入网" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="125" y="430" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLE9CblIo19JBoLHVdXt-6" value="核心网" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLE9CblIo19JBoLHVdXt-7" value="承载网" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLE9CblIo19JBoLHVdXt-8" value="失败任务专业分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YLE9CblIo19JBoLHVdXt-10" value="2025-03-13 00:00:00 ~ 2025-03-14 00:00:00" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
