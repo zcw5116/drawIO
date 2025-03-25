@@ -16852,7 +16852,7 @@
         <mxCell id="1K_IxQS_UG_jwjPBZHAZ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="650" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-13" value="自定义查询条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-13" value="查询条件组合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="114" y="373" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1K_IxQS_UG_jwjPBZHAZ-14" value="重保电路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
