@@ -16879,8 +16879,8 @@
         <mxCell id="1K_IxQS_UG_jwjPBZHAZ-40" value="设备类型" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="576" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-41" value="&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontStyle=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="341" y="584.87" width="20" height="17.25" as="geometry" />
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-41" value="&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontStyle=1;fontSize=19;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="586.87" width="20" height="17.25" as="geometry" />
         </mxCell>
         <mxCell id="1K_IxQS_UG_jwjPBZHAZ-42" value="in" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="372" y="576" width="80" height="35" as="geometry" />
