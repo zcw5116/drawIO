@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="23">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="1050" dy="2863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16816,6 +16816,56 @@
         </mxCell>
         <mxCell id="YLE9CblIo19JBoLHVdXt-32" value="分网元类型失败数统计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="510" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="phiAlyl5Vh5MGHgQp5hv" name="报表智能体-2025">
+    <mxGraphModel dx="1114" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="660" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-3" value="报表数据源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-4" value="4张意图模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-5" value="数据来源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-6" value="展示字段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-7" value="选择字段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="255" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;流入流速峰值&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;_&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;上联口&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="500" y="248" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;流入流速均值&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;_&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;上联口&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="284" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="660" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-13" value="报表查询条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-14" value="重保电路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-15" value="查询条件名称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="425" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-16" value="展示字段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1K_IxQS_UG_jwjPBZHAZ-17" value="选择字段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="494" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
