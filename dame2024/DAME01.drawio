@@ -16826,7 +16826,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1K_IxQS_UG_jwjPBZHAZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="30" width="545" height="230" as="geometry" />
+          <mxGeometry x="110" y="30" width="640" height="230" as="geometry" />
         </mxCell>
         <mxCell id="1K_IxQS_UG_jwjPBZHAZ-3" value="报表数据模型定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="115" y="34" width="115" height="20" as="geometry" />
