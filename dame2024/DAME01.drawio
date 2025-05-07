@@ -17142,10 +17142,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rr7etIo6pXa6bGzN-6u0-11" value="DAME执行节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="1010" width="180" height="100" as="geometry" />
+          <mxGeometry x="500" y="1010" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Rr7etIo6pXa6bGzN-6u0-12" value="执行引擎&lt;div&gt;SeaCrab&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="536" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
