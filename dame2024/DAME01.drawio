@@ -17120,7 +17120,7 @@
         <mxCell id="Rr7etIo6pXa6bGzN-6u0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1UmGta_HBsMuf4xPT4TV-8" target="1UmGta_HBsMuf4xPT4TV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1UmGta_HBsMuf4xPT4TV-8" value="Application&lt;div&gt;master（管理节点）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1UmGta_HBsMuf4xPT4TV-8" value="Application&lt;div&gt;master（管理进程）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="872" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1UmGta_HBsMuf4xPT4TV-9" value="Executor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
