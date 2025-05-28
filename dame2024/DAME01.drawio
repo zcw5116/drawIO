@@ -15491,7 +15491,7 @@
         <mxCell id="Q9ih7mg3CXTBmoqVMExs-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q9ih7mg3CXTBmoqVMExs-64" target="Q9ih7mg3CXTBmoqVMExs-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q9ih7mg3CXTBmoqVMExs-64" value="执行器&lt;div&gt;队列分配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="Q9ih7mg3CXTBmoqVMExs-64" value="执行器&lt;div&gt;队列分配管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1370.5" y="2110" width="102.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q9ih7mg3CXTBmoqVMExs-65" value="执行器&lt;div&gt;总并发数：M&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
