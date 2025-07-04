@@ -17117,6 +17117,18 @@
         <mxCell id="bEt1-_xgtgyNV0eS8xxs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bEt1-_xgtgyNV0eS8xxs-8" target="bEt1-_xgtgyNV0eS8xxs-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bEt1-_xgtgyNV0eS8xxs-12" value="终止" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bEt1-_xgtgyNV0eS8xxs-13" value="终止" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bEt1-_xgtgyNV0eS8xxs-14" value="终止" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bEt1-_xgtgyNV0eS8xxs-15" value="终止" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
