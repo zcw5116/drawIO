@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="27.2.0" pages="25">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.0.6" pages="25">
   <diagram name="数据同步网关" id="pLbFRAy5RDnVgddyaw0l">
     <mxGraphModel dx="1050" dy="2863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17642,50 +17642,83 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eo97O91-IUnwsc-kKBDz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eo97O91-IUnwsc-kKBDz-1" target="eo97O91-IUnwsc-kKBDz-6">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eo97O91-IUnwsc-kKBDz-1" target="eo97O91-IUnwsc-kKBDz-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-1" value="DAME" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-1" value="DAME" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eo97O91-IUnwsc-kKBDz-4" target="eo97O91-IUnwsc-kKBDz-1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eo97O91-IUnwsc-kKBDz-4" target="eo97O91-IUnwsc-kKBDz-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-4" value="业务库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-4" value="业务库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eo97O91-IUnwsc-kKBDz-6" target="eo97O91-IUnwsc-kKBDz-9">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eo97O91-IUnwsc-kKBDz-6" target="eo97O91-IUnwsc-kKBDz-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-6" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-6" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-7" value="数据的聚合加工" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-7" value="数据的聚合加工" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="270" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eo97O91-IUnwsc-kKBDz-9" target="eo97O91-IUnwsc-kKBDz-12">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eo97O91-IUnwsc-kKBDz-9" target="eo97O91-IUnwsc-kKBDz-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-9" value="AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-9" value="AI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="622" y="710" as="sourcePoint" />
             <mxPoint x="622" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-11" value="DAME" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-11" value="DAME" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="569" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-12" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-12" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eo97O91-IUnwsc-kKBDz-12" target="eo97O91-IUnwsc-kKBDz-11">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eo97O91-IUnwsc-kKBDz-12" target="eo97O91-IUnwsc-kKBDz-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eo97O91-IUnwsc-kKBDz-15" value="业务库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eo97O91-IUnwsc-kKBDz-15" value="业务库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="559" y="780" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1080" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1080" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-3" value="中国中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-4" value="美国中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-5" value="北京节点" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-6" value="雄安节点" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-7" value="上海节点" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-8" value="纽约节点" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1169" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-9" value="华盛顿节点" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1169" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-10" value="1、配置数据推送，将数据库推送至OSS。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、将OSS的文件推送至中国中心的雄安节点的OSS，协同中心进行文件同步&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1270" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6OkpSZQSmlFkeKmV0Ahj-11" value="3、雄安节点的OSS上的文件，怎么写入到数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1240" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
