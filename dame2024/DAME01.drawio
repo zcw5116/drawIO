@@ -17744,34 +17744,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-5" value="数据建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="270" width="90" height="40" as="geometry" />
+          <mxGeometry x="150" y="254" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8QrI-zlfvgVS7wCVmye-6" target="R8QrI-zlfvgVS7wCVmye-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-6" value="数据服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="270" width="90" height="40" as="geometry" />
+          <mxGeometry x="420" y="254" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8QrI-zlfvgVS7wCVmye-9" target="R8QrI-zlfvgVS7wCVmye-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-9" value="&lt;div&gt;数据源管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="155" y="334" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R8QrI-zlfvgVS7wCVmye-10" target="R8QrI-zlfvgVS7wCVmye-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8QrI-zlfvgVS7wCVmye-10" target="R8QrI-zlfvgVS7wCVmye-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-10" value="数据变更发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="350" width="90" height="40" as="geometry" />
+          <mxGeometry x="420" y="334" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R8QrI-zlfvgVS7wCVmye-16" value="联邦查询：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="276" y="250" width="70" height="30" as="geometry" />
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-16" value="联邦查询：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="276" y="234" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-17" value="跨库关联&lt;div&gt;物化视图&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="251" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R8QrI-zlfvgVS7wCVmye-19" value="服务保障：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="309" width="66" height="30" as="geometry" />
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-19" value="服务保障：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="274" y="293" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-21" value="服务熔断&lt;div&gt;服务隔离&lt;/div&gt;&lt;div&gt;延迟保证&lt;/div&gt;&lt;div&gt;大批量保障&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="300" width="70" height="50" as="geometry" />
+          <mxGeometry x="335" y="284" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-22" value="变更订阅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="296" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-23" value="变更共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="353" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
