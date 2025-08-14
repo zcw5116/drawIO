@@ -17740,6 +17740,12 @@
         <mxCell id="R8QrI-zlfvgVS7wCVmye-4" value="数据集成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="237" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-5" value="数据建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-6" value="数据服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
