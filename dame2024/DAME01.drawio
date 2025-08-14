@@ -17727,12 +17727,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qtth6hpgydOCdw1rliyW" name="关键技术workshop">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R8QrI-zlfvgVS7wCVmye-1" value="&lt;div&gt;厂家OMC系统（核心网/承载网/接入网）、站网、测控平台、星载网管&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="420" width="530" height="30" as="geometry" />
+          <mxGeometry x="120" y="420" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="540" height="180" as="geometry" />
@@ -17784,6 +17784,12 @@
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-23" value="变更共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="353" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-20" width="540" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-27" value="对象建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
