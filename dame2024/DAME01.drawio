@@ -17788,8 +17788,20 @@
         <mxCell id="R8QrI-zlfvgVS7wCVmye-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-20" width="540" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8QrI-zlfvgVS7wCVmye-27" target="R8QrI-zlfvgVS7wCVmye-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-27" value="对象建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8QrI-zlfvgVS7wCVmye-28" target="R8QrI-zlfvgVS7wCVmye-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-28" value="管道构建器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R8QrI-zlfvgVS7wCVmye-30" value="管道构建器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
