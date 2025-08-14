@@ -17830,6 +17830,9 @@
         <mxCell id="cR4wf4yCyQD_-KbHIs6h-8" value="生命周期" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="327" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="77UQfxbiaFWyQIrxH2Q1-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cR4wf4yCyQD_-KbHIs6h-9" target="cR4wf4yCyQD_-KbHIs6h-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cR4wf4yCyQD_-KbHIs6h-9" value="数据安全" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="482" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
