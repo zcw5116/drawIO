@@ -17768,10 +17768,10 @@
           <mxGeometry x="340" y="251" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-19" value="服务保障：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="311" width="70" height="30" as="geometry" />
+          <mxGeometry x="274" y="309" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8QrI-zlfvgVS7wCVmye-21" value="服务熔断&lt;div&gt;服务隔离&lt;/div&gt;&lt;div&gt;延迟保证&lt;/div&gt;&lt;div&gt;大批量保障&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="310" width="70" height="30" as="geometry" />
+          <mxGeometry x="335" y="300" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
