@@ -17852,7 +17852,7 @@
           <mxGeometry x="327" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cR4wf4yCyQD_-KbHIs6h-9" value="数据安全" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-50" width="90" height="40" as="geometry" />
+          <mxGeometry x="482" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cR4wf4yCyQD_-KbHIs6h-23" value="血缘上报&lt;div&gt;血缘自动感知&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55.5" y="-266" width="79" height="30" as="geometry" />
@@ -17865,6 +17865,21 @@
         </mxCell>
         <mxCell id="cR4wf4yCyQD_-KbHIs6h-26" value="质量规则&lt;div&gt;评价指标&lt;/div&gt;&lt;div&gt;评价标准&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="-39" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR4wf4yCyQD_-KbHIs6h-27" value="数据归档&lt;div&gt;数据清理&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="273" y="-39" width="53" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR4wf4yCyQD_-KbHIs6h-28" value="数据归档&lt;div&gt;数据清理&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="428" y="-38" width="53" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR4wf4yCyQD_-KbHIs6h-29" value="&lt;div&gt;&lt;div&gt;历史分析&lt;/div&gt;&lt;/div&gt;&lt;div&gt;态势分析&lt;/div&gt;&lt;div&gt;预测分析&lt;/div&gt;&lt;div&gt;统计分析&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="501.5" y="-106" width="58.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR4wf4yCyQD_-KbHIs6h-30" value="联邦查询&lt;div&gt;即席查询&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="486.75" y="-225" width="58.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cR4wf4yCyQD_-KbHIs6h-31" value="联邦查询&lt;div&gt;即席查询&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="411.5" y="-290" width="58.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
