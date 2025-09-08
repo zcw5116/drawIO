@@ -17644,8 +17644,8 @@
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-1" value="入参" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="1150" width="117" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-2" value="1、群晖文件对象（包括文件名、路径、大小）&lt;div&gt;&lt;br&gt;&lt;div&gt;2、数据库文件列表&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="441" y="1157" width="254" height="43" as="geometry" />
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-2" value="1、报销编号&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、群晖文件对象（包括文件名、路径、大小）&lt;div&gt;&lt;br&gt;&lt;div&gt;3、数据库文件列表&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464" y="1140" width="254" height="83.25" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-3" value="遍历数据库的&lt;div&gt;文件列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="1260" width="117" height="50" as="geometry" />
@@ -17659,7 +17659,7 @@
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-7" value="文件大小大于0" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="285" y="1385" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-8" value="报销单号文件核查&lt;div&gt;（文件存在核查、文件大小核查）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-8" value="报销编号文件核查&lt;div&gt;（文件存在核查、文件大小核查）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="1500" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-11" value="文件比对" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -17667,6 +17667,15 @@
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-12" value="文件名规则： 报销单号-{报销编号}.pdf&lt;div&gt;示例：&amp;nbsp;ZY-AI-FYBX-202508012715&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="416" y="1510" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-14" value="报销凭证截图文件核查&lt;div&gt;（文件存在核查、文件大小核查）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1611" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bWMtc_0NoqFxjS-P2Hcu-8" target="bWMtc_0NoqFxjS-P2Hcu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-16" value="文件名规则： 报销单号-{报销编号}.pdf&lt;div&gt;示例： 报销凭证截图ZY-AI-FYBX-202508012715.png&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433" y="1621" width="297" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
