@@ -17668,13 +17668,13 @@
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-12" value="文件名规则： 报销单号-{报销编号}.pdf&lt;div&gt;示例：&amp;nbsp;ZY-AI-FYBX-202508012715&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="416" y="1510" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-14" value="报销凭证截图文件核查&lt;div&gt;（文件存在核查、文件大小核查）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-14" value="报销凭证截图文件核查&lt;div&gt;（文件存在核查、文件大小核查、文件内容核查）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="1611" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bWMtc_0NoqFxjS-P2Hcu-8" target="bWMtc_0NoqFxjS-P2Hcu-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-16" value="文件名规则： 报销单号-{报销编号}.pdf&lt;div&gt;示例： 报销凭证截图ZY-AI-FYBX-202508012715.png&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-16" value="文件名规则： 报销凭证截图{报销编号}.png&lt;div&gt;示例： 报销凭证截图ZY-AI-FYBX-202508012715.png&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="433" y="1621" width="297" height="30" as="geometry" />
         </mxCell>
       </root>
