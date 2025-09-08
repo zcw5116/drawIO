@@ -17689,35 +17689,35 @@
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWMtc_0NoqFxjS-P2Hcu-21" target="bWMtc_0NoqFxjS-P2Hcu-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-21" value="读取数据" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1104" width="117" height="50" as="geometry" />
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-21" value="串行切片读取数据" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1095" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWMtc_0NoqFxjS-P2Hcu-22" target="bWMtc_0NoqFxjS-P2Hcu-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-22" value="保存文件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1210" width="117" height="50" as="geometry" />
+          <mxGeometry x="-190" y="1188" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWMtc_0NoqFxjS-P2Hcu-23" target="bWMtc_0NoqFxjS-P2Hcu-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-23" value="遍历文件，构造对象" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1312" width="117" height="50" as="geometry" />
+        <mxCell id="bWMtc_0NoqFxjS-P2Hcu-23" value="多线程，&lt;div&gt;遍历文件，构造对象&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1279" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWMtc_0NoqFxjS-P2Hcu-26" target="bWMtc_0NoqFxjS-P2Hcu-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-26" value="执行比对" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1424" width="117" height="50" as="geometry" />
+          <mxGeometry x="-190" y="1373" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWMtc_0NoqFxjS-P2Hcu-28" target="bWMtc_0NoqFxjS-P2Hcu-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-28" value="构建比对结果" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1527" width="117" height="50" as="geometry" />
+          <mxGeometry x="-190" y="1462" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bWMtc_0NoqFxjS-P2Hcu-29" value="数据入库" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1629" width="117" height="50" as="geometry" />
+          <mxGeometry x="-190" y="1550" width="117" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
