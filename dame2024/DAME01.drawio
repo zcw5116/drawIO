@@ -15825,7 +15825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="两江2025规划" id="1kKVZczcfY6A-jDf_QTt">
-    <mxGraphModel dx="1521" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="2106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9sEmE_7xg88pk-W5NEdd-0" />
         <mxCell id="9sEmE_7xg88pk-W5NEdd-1" parent="9sEmE_7xg88pk-W5NEdd-0" />
@@ -15968,7 +15968,7 @@
           <mxGeometry x="863" y="520" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3sUJQPhIrVMyUAwEy9yp-40" value="中高时延&lt;div&gt;运行数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1148.5" y="520" width="70" height="40" as="geometry" />
+          <mxGeometry x="993" y="421.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3sUJQPhIrVMyUAwEy9yp-41" value="资源实例&lt;div&gt;数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1235" y="520" width="70" height="40" as="geometry" />
@@ -16441,6 +16441,24 @@
         </mxCell>
         <mxCell id="MM0nvlv_czG_b707inH7-3" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;数据集成&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1671.5" y="-273.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qibJWbi4cNnLo1_g3i-0" value="关联融合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1140" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qibJWbi4cNnLo1_g3i-1" value="关联融合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1459.96" y="309" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HV4yFMqeEqrMojj69cW5-0" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;" edge="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1049" y="474" as="sourcePoint" />
+            <mxPoint x="1049.42" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HV4yFMqeEqrMojj69cW5-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;" edge="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1258" y="473" as="sourcePoint" />
+            <mxPoint x="1258.42" y="433" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
