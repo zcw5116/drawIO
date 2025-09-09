@@ -16262,10 +16262,10 @@
           <mxGeometry x="661" y="-66" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bFCSzL3-T8_x9o1KDOfW-3" value="质量稽核管理" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="638" y="-30.5" width="120" height="33.5" as="geometry" />
+          <mxGeometry x="638" y="-30.5" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="bFCSzL3-T8_x9o1KDOfW-4" value="血缘管理" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="638" y="16" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="638" y="21" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="bFCSzL3-T8_x9o1KDOfW-6" value="数据标准" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="638" y="73" width="120" height="43" as="geometry" />
@@ -16333,14 +16333,14 @@
         <mxCell id="VVc4ZbG29UCJJfN0Jo9L-22" value="数据运维管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="661" y="-279" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VVc4ZbG29UCJJfN0Jo9L-23" value="质量稽核管理" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="638" y="-243.5" width="120" height="33.5" as="geometry" />
+        <mxCell id="VVc4ZbG29UCJJfN0Jo9L-23" value="数据监控" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="638" y="-243.5" width="120" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="VVc4ZbG29UCJJfN0Jo9L-24" value="血缘管理" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="638" y="-197" width="120" height="40.5" as="geometry" />
+        <mxCell id="VVc4ZbG29UCJJfN0Jo9L-24" value="操作权限" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="638" y="-188" width="120" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="VVc4ZbG29UCJJfN0Jo9L-25" value="数据标准" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="638" y="-140" width="120" height="43" as="geometry" />
+        <mxCell id="VVc4ZbG29UCJJfN0Jo9L-25" value="资源队列管理" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="638" y="-135" width="120" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
