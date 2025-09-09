@@ -16213,6 +16213,27 @@
         <mxCell id="xUzv_tAHO6PoIqkzliqp-1" value="数据融合加工" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="719" y="-89" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xUzv_tAHO6PoIqkzliqp-2" value="异构数据源融合" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="699" y="-30" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xUzv_tAHO6PoIqkzliqp-3" value="离线/实时" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="699" y="38" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xUzv_tAHO6PoIqkzliqp-4" value="数据加工" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="699" y="112" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xUzv_tAHO6PoIqkzliqp-5" value="调度监控" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="699" y="186" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xUzv_tAHO6PoIqkzliqp-6" value="异常处置" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="699" y="259" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xUzv_tAHO6PoIqkzliqp-7" value="组件扩展" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="699" y="333" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xUzv_tAHO6PoIqkzliqp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9sEmE_7xg88pk-W5NEdd-1" source="xUzv_tAHO6PoIqkzliqp-5" target="xUzv_tAHO6PoIqkzliqp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
