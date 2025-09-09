@@ -15768,7 +15768,7 @@
           <mxGeometry x="467.99" y="1447" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I0u0jS6g--nZ75NpJqqk-218" value="数据安全管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="1430" width="144" height="102" as="geometry" />
+          <mxGeometry x="1026" y="1430" width="144" height="102" as="geometry" />
         </mxCell>
         <mxCell id="I0u0jS6g--nZ75NpJqqk-219" value="数据运维管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338.25" y="1252" width="89" height="478" as="geometry" />
