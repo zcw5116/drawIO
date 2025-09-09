@@ -16214,16 +16214,16 @@
           <mxGeometry x="719" y="-89" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xUzv_tAHO6PoIqkzliqp-2" value="异构数据源融合" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="699" y="-30" width="120" height="49" as="geometry" />
+          <mxGeometry x="699" y="-39" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xUzv_tAHO6PoIqkzliqp-3" value="离线/实时" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="699" y="38" width="120" height="49" as="geometry" />
+          <mxGeometry x="699" y="36" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xUzv_tAHO6PoIqkzliqp-4" value="数据加工" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="699" y="112" width="120" height="49" as="geometry" />
+          <mxGeometry x="699" y="110" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xUzv_tAHO6PoIqkzliqp-5" value="调度监控" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="699" y="186" width="120" height="49" as="geometry" />
+          <mxGeometry x="699" y="185" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xUzv_tAHO6PoIqkzliqp-6" value="异常处置" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="699" y="259" width="120" height="50" as="geometry" />
