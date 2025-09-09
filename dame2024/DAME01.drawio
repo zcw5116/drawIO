@@ -16460,6 +16460,12 @@
             <mxPoint x="1258.42" y="433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="og0OiyzDRdfvnE1NTQO8-0" value="数据抽取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1063" y="446" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="og0OiyzDRdfvnE1NTQO8-1" value="数据抽取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1267" y="445" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
