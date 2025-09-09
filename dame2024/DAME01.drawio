@@ -16474,6 +16474,24 @@
       <root>
         <mxCell id="xFXEYMbUeXjbKcm0BHbI-0" />
         <mxCell id="xFXEYMbUeXjbKcm0BHbI-1" parent="xFXEYMbUeXjbKcm0BHbI-0" />
+        <mxCell id="DNNs8Jafq3dQdS6RfWkE-0" value="数据获取" style="swimlane;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
+          <mxGeometry x="30" y="80" width="170" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="DNNs8Jafq3dQdS6RfWkE-5" value="模型管理" style="swimlane;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
+          <mxGeometry x="200" y="80" width="170" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="DNNs8Jafq3dQdS6RfWkE-6" value="数据源管理" style="swimlane;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
+          <mxGeometry x="370" y="80" width="170" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="DNNs8Jafq3dQdS6RfWkE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DNNs8Jafq3dQdS6RfWkE-6" source="DNNs8Jafq3dQdS6RfWkE-7" target="DNNs8Jafq3dQdS6RfWkE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNNs8Jafq3dQdS6RfWkE-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DNNs8Jafq3dQdS6RfWkE-6">
+          <mxGeometry x="60" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DNNs8Jafq3dQdS6RfWkE-9" value="创建数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DNNs8Jafq3dQdS6RfWkE-6">
+          <mxGeometry x="25" y="123" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
