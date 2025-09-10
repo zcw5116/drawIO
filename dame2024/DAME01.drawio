@@ -17601,7 +17601,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hk93rVSCnZ3-pvuVabQO-131" value="数据融合加工" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
-          <mxGeometry x="200.00000000000045" y="1320" width="499.99999999999955" height="480" as="geometry" />
+          <mxGeometry x="200.00000000000045" y="1310" width="499.99999999999955" height="480" as="geometry" />
         </mxCell>
         <mxCell id="Hk93rVSCnZ3-pvuVabQO-132" value="数据同步管理" style="swimlane;startSize=20;html=1;" vertex="1" parent="Hk93rVSCnZ3-pvuVabQO-131">
           <mxGeometry y="20" width="139.99999999999955" height="460" as="geometry" />
@@ -17697,6 +17697,18 @@
               <mxPoint x="327" y="330" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk93rVSCnZ3-pvuVabQO-225" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
+          <mxGeometry x="200.00000000000045" y="1820" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk93rVSCnZ3-pvuVabQO-226" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="Hk93rVSCnZ3-pvuVabQO-225">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk93rVSCnZ3-pvuVabQO-227" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="Hk93rVSCnZ3-pvuVabQO-225">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk93rVSCnZ3-pvuVabQO-228" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="Hk93rVSCnZ3-pvuVabQO-225">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
