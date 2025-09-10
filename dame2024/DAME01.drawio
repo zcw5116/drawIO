@@ -17326,6 +17326,9 @@
         <mxCell id="9oHxI5qQSCLRMWW_-UTu-0" value="网络管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eqv6ZFSYgatRQBSS25re-2">
           <mxGeometry x="20" y="130" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9oHxI5qQSCLRMWW_-UTu-3" value="网络管理1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eqv6ZFSYgatRQBSS25re-2">
+          <mxGeometry x="24" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="rgrRp9DExvUDLvh5wmMz-0" value="算法管理工具" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
           <mxGeometry x="1670" y="73" width="120" height="817" as="geometry" />
         </mxCell>
