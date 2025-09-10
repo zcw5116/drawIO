@@ -17531,6 +17531,9 @@
         <mxCell id="Hk93rVSCnZ3-pvuVabQO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hk93rVSCnZ3-pvuVabQO-1" source="Hk93rVSCnZ3-pvuVabQO-17" target="Hk93rVSCnZ3-pvuVabQO-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Hk93rVSCnZ3-pvuVabQO-24" value="模型管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
+          <mxGeometry x="120" y="1140" width="60" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
