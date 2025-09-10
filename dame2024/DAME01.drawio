@@ -16293,7 +16293,7 @@
         <mxCell id="xFXEYMbUeXjbKcm0BHbI-0" />
         <mxCell id="xFXEYMbUeXjbKcm0BHbI-1" parent="xFXEYMbUeXjbKcm0BHbI-0" />
         <mxCell id="tTEuIU4RsrOayTXlVWfH-25" value="数据获取" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
-          <mxGeometry x="200.00000000000045" y="73" width="120" height="820" as="geometry" />
+          <mxGeometry x="200.00000000000045" y="77" width="120" height="820" as="geometry" />
         </mxCell>
         <mxCell id="tTEuIU4RsrOayTXlVWfH-26" value="采集调度管理" style="swimlane;startSize=20;html=1;" vertex="1" parent="tTEuIU4RsrOayTXlVWfH-25">
           <mxGeometry y="20" width="120" height="800" as="geometry" />
@@ -16603,6 +16603,10 @@
         <mxCell id="78J7mnWgF4HZA5wJs07w-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.929;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="xFXEYMbUeXjbKcm0BHbI-1" source="k-H7eLzMmv-HxLOb9Du2-23" target="IxGWgivqVH4lwutQZSTz-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="650" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="497" y="651" />
+              <mxPoint x="721" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="78J7mnWgF4HZA5wJs07w-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xFXEYMbUeXjbKcm0BHbI-1" source="78J7mnWgF4HZA5wJs07w-1" target="k-H7eLzMmv-HxLOb9Du2-13">
