@@ -16993,6 +16993,9 @@
         <mxCell id="78J7mnWgF4HZA5wJs07w-42" value="5、采集数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tTEuIU4RsrOayTXlVWfH-26">
           <mxGeometry x="19.999999999999545" y="187" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="78J7mnWgF4HZA5wJs07w-116" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="tTEuIU4RsrOayTXlVWfH-26">
+          <mxGeometry x="39.999999999999545" y="27" width="40" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="tTEuIU4RsrOayTXlVWfH-31" value="数据集成" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
           <mxGeometry x="320" y="73" width="1210" height="820" as="geometry" />
         </mxCell>
@@ -17458,6 +17461,9 @@
               <mxPoint x="1740" y="297" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="78J7mnWgF4HZA5wJs07w-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xFXEYMbUeXjbKcm0BHbI-1" source="78J7mnWgF4HZA5wJs07w-116" target="tTEuIU4RsrOayTXlVWfH-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
