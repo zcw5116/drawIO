@@ -17681,7 +17681,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hk93rVSCnZ3-pvuVabQO-24" value="模型管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
-          <mxGeometry x="130" y="1138" width="60" height="31" as="geometry" />
+          <mxGeometry x="120" y="1270" width="60" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
