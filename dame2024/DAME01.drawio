@@ -16535,14 +16535,8 @@
         <mxCell id="PgzV3lqaZF2KiHloYCmm-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.905;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xFXEYMbUeXjbKcm0BHbI-1" source="PgzV3lqaZF2KiHloYCmm-51" target="PgzV3lqaZF2KiHloYCmm-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PgzV3lqaZF2KiHloYCmm-75" value="网络管理" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
-          <mxGeometry x="1460.0000000000005" y="240" width="180" height="820" as="geometry" />
-        </mxCell>
-        <mxCell id="PgzV3lqaZF2KiHloYCmm-76" value="" style="swimlane;startSize=20;html=1;" vertex="1" parent="PgzV3lqaZF2KiHloYCmm-75">
-          <mxGeometry y="20" width="180" height="800" as="geometry" />
-        </mxCell>
         <mxCell id="PgzV3lqaZF2KiHloYCmm-80" value="算法工具管理" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="xFXEYMbUeXjbKcm0BHbI-1">
-          <mxGeometry x="1640" y="240" width="180" height="820" as="geometry" />
+          <mxGeometry x="1460" y="240" width="180" height="820" as="geometry" />
         </mxCell>
         <mxCell id="PgzV3lqaZF2KiHloYCmm-81" value="" style="swimlane;startSize=20;html=1;" vertex="1" parent="PgzV3lqaZF2KiHloYCmm-80">
           <mxGeometry y="20" width="180" height="800" as="geometry" />
@@ -16853,7 +16847,8 @@
         <mxCell id="PgzV3lqaZF2KiHloYCmm-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xFXEYMbUeXjbKcm0BHbI-1" source="PgzV3lqaZF2KiHloYCmm-82" target="PgzV3lqaZF2KiHloYCmm-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1795" y="687" />
+              <mxPoint x="1620" y="617" />
+              <mxPoint x="1620" y="687" />
             </Array>
           </mxGeometry>
         </mxCell>
