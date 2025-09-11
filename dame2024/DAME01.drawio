@@ -16147,10 +16147,10 @@
           <mxGeometry x="1120.5" y="876.5" width="79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O8jtImoStSHCwv4y0CR0-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;运营服务平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1335" y="863.75" width="107.54" height="51" as="geometry" />
+          <mxGeometry x="1341" y="863.75" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="O8jtImoStSHCwv4y0CR0-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;算法工具管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1441.5" y="863.75" width="120" height="51.75" as="geometry" />
+          <mxGeometry x="1450" y="863.75" width="100" height="51.75" as="geometry" />
         </mxCell>
         <mxCell id="O8jtImoStSHCwv4y0CR0-110" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1229.5" y="876.5" width="81.5" height="40" as="geometry" />
@@ -16274,7 +16274,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="两江2025规划流程图" id="D5q1QnMnpGF8xFWBS1G2">
-    <mxGraphModel dx="1426" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xFXEYMbUeXjbKcm0BHbI-0" />
         <mxCell id="xFXEYMbUeXjbKcm0BHbI-1" parent="xFXEYMbUeXjbKcm0BHbI-0" />
