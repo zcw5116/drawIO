@@ -17289,6 +17289,42 @@
         <mxCell id="6DcO6NqVPtPHfO8l_rg6-28" value="控制任务&lt;div&gt;执行监控&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1287" y="5335" width="64" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="542.5" y="5960" width="461" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-31" value="模型设计" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="549" y="5995" width="66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-32" value="模型管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="743" y="5960" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-33" value="模型探测" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="633.01" y="5995" width="63.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-34" value="模型基础信息管理" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="711.01" y="5995" width="60.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-35" value="模型下发" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="778.01" y="5995" width="61.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1019" y="5960" width="211" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-37" value="&lt;div&gt;数据源&lt;/div&gt;&lt;div&gt;配置管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1027.51" y="5995" width="92.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-38" value="数据源管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1068.5" y="5960" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-39" value="数据源&lt;div&gt;连接测试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1133" y="5995" width="77" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-41" value="公共属性管理" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="846.01" y="5995" width="73.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-42" value="模型生命周期管理" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="933.5" y="5995" width="61.99" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
