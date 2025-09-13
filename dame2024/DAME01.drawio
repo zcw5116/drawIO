@@ -16819,7 +16819,7 @@
           <mxGeometry x="555.01" y="4373" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-284" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="538.01" y="4020" width="154" height="146" as="geometry" />
+          <mxGeometry x="538.01" y="4020" width="154" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-285" value="数据治理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="575.51" y="4024.5" width="79" height="20.25" as="geometry" />
@@ -16846,7 +16846,7 @@
           <mxGeometry x="835" y="3917" width="81" height="32" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-308" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="534.51" y="3810" width="154" height="154.5" as="geometry" />
+          <mxGeometry x="534.51" y="3810" width="154" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-309" value="数据运维管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="569.01" y="3817.5" width="79" height="30" as="geometry" />
@@ -16891,7 +16891,7 @@
           <mxGeometry x="917" y="4364" width="75.49" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-359" value="分布式文件存储" style="rounded=1;whiteSpace=wrap;html=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="999" y="4364" width="95" height="51.5" as="geometry" />
+          <mxGeometry x="1001" y="4364" width="90" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-360" value="搜索引擎" style="rounded=1;whiteSpace=wrap;html=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="1101" y="4364" width="72.5" height="51.5" as="geometry" />
@@ -17061,7 +17061,7 @@
         <mxCell id="qQAcYNtEvYL552n2ajbD-0" value="时序数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1192" y="4364" width="72.5" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="qQAcYNtEvYL552n2ajbD-1" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+        <mxCell id="qQAcYNtEvYL552n2ajbD-1" value="缓存数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1282.96" y="4364" width="72.5" height="51.5" as="geometry" />
         </mxCell>
       </root>
