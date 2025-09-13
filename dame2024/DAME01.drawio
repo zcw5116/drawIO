@@ -17199,8 +17199,8 @@
         <mxCell id="qQAcYNtEvYL552n2ajbD-68" value="5、构建数据应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="990.49" y="4591" width="67.51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qQAcYNtEvYL552n2ajbD-71" value="数据集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="869" y="4575" width="60" height="30" as="geometry" />
+        <mxCell id="qQAcYNtEvYL552n2ajbD-71" value="数据集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="869" y="4575" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qQAcYNtEvYL552n2ajbD-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9sEmE_7xg88pk-W5NEdd-1" target="qQAcYNtEvYL552n2ajbD-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
