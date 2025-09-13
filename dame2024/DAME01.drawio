@@ -15137,7 +15137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="两江2025规划" id="1kKVZczcfY6A-jDf_QTt">
-    <mxGraphModel dx="1412" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9sEmE_7xg88pk-W5NEdd-0" />
         <mxCell id="9sEmE_7xg88pk-W5NEdd-1" parent="9sEmE_7xg88pk-W5NEdd-0" />
@@ -17210,6 +17210,84 @@
         </mxCell>
         <mxCell id="qQAcYNtEvYL552n2ajbD-74" value="6、能力开放" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1254.75" y="4631" width="46.51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="549" y="5420" width="461" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-1" value="采集引擎执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="560.5" y="5455" width="92.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-2" value="统一采集引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="749.5" y="5420" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-3" value="采集模板管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="673" y="5455" width="92.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-4" value="采集实例管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="786" y="5455" width="92.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-5" value="采集服务开放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="899.5" y="5455" width="92.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1025.5" y="5420" width="344.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-7" value="控制指令&lt;div&gt;顺序执行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1037" y="5455" width="92.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-8" value="控制任务引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1131" y="5420" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-9" value="控制治理&lt;div&gt;异步执行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1149.5" y="5455" width="92.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-10" value="控制指令&lt;div&gt;执行日志记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1262.5" y="5455" width="92.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="549" y="5300" width="344.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-13" value="调度配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="560.5" y="5335" width="69.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-14" value="采集调度管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="690.51" y="5300" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-15" value="调度监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="646" y="5335" width="67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-16" value="异常处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="731" y="5335" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-17" value="变量管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="814.99" y="5335" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="902.5" y="5300" width="177.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-19" value="插件&lt;div&gt;上&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;架下架&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="914" y="5335" width="69.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-20" value="插件管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="935" y="5300" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-21" value="外部&lt;div&gt;插件上传&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="999.5" y="5335" width="67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1094" y="5300" width="276" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-25" value="控制&lt;div&gt;任务创建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1105.5" y="5335" width="69.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-26" value="控制任务管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1189.5" y="5300" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-27" value="控制&lt;div&gt;任务发起&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1197" y="5335" width="67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DcO6NqVPtPHfO8l_rg6-28" value="控制任务&lt;div&gt;执行监控&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="1287" y="5335" width="64" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
