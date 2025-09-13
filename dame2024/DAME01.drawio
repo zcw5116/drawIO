@@ -16935,25 +16935,25 @@
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-399" value="贴源&lt;div&gt;数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="718.5" y="4161.5" width="48.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YHxVU-hSVA-6Qokr_AKK-400" value="板卡级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
+        <mxCell id="YHxVU-hSVA-6Qokr_AKK-400" value="设备级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="790.25" y="4178" width="54.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-403" value="板卡级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="789.24" y="4149" width="54.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="YHxVU-hSVA-6Qokr_AKK-406" value="板卡级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
+        <mxCell id="YHxVU-hSVA-6Qokr_AKK-406" value="链路级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="876" y="4178" width="54.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="YHxVU-hSVA-6Qokr_AKK-407" value="板卡级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
+        <mxCell id="YHxVU-hSVA-6Qokr_AKK-407" value="节点级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="876" y="4149" width="54.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="YHxVU-hSVA-6Qokr_AKK-408" value="板卡级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
+        <mxCell id="YHxVU-hSVA-6Qokr_AKK-408" value="网络级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="962" y="4178" width="54.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="YHxVU-hSVA-6Qokr_AKK-409" value="板卡级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
+        <mxCell id="YHxVU-hSVA-6Qokr_AKK-409" value="系统级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="962.01" y="4149" width="54.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="YHxVU-hSVA-6Qokr_AKK-410" value="板卡级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
+        <mxCell id="YHxVU-hSVA-6Qokr_AKK-410" value="应用级" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="1047.5" y="4178" width="54.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-411" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
