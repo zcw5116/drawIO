@@ -16993,22 +16993,22 @@
           <mxGeometry x="1144.5" y="3975" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-422" value="组件扩展" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="1150.5" y="4144.5" width="94" height="38" as="geometry" />
+          <mxGeometry x="1150.5" y="4151.5" width="94" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-423" value="加工调度" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="1274" y="4144.5" width="94" height="38" as="geometry" />
+          <mxGeometry x="1274" y="4151.5" width="94" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-424" value="数据加工" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="1150.5" y="4075" width="94" height="38" as="geometry" />
+          <mxGeometry x="1150.5" y="4082" width="94" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-425" value="异常处置" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="1274" y="4075" width="94" height="38" as="geometry" />
+          <mxGeometry x="1274" y="4082" width="94" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-426" value="异构数据源融合" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="1150.5" y="4005" width="94" height="38" as="geometry" />
+          <mxGeometry x="1150.5" y="4012" width="94" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-427" value="离线/实时" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="1274" y="4005" width="94" height="38" as="geometry" />
+          <mxGeometry x="1274" y="4012" width="94" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-434" value="数据推送服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="1026.01" y="3917" width="89.99" height="32" as="geometry" />
