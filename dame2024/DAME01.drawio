@@ -17049,9 +17049,6 @@
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-452" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="883.55" y="3695.13" width="81.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YHxVU-hSVA-6Qokr_AKK-453" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="266.5" y="4777" width="897" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-454" value="能力开放共享" style="rounded=1;whiteSpace=wrap;html=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="1030" y="3680" width="136.01" height="58" as="geometry" />
         </mxCell>
@@ -17063,6 +17060,9 @@
         </mxCell>
         <mxCell id="qQAcYNtEvYL552n2ajbD-1" value="缓存数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1282.96" y="4364" width="72.5" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qQAcYNtEvYL552n2ajbD-7" value="数据架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="410" y="4063" width="60" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
