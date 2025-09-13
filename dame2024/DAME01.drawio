@@ -16794,9 +16794,6 @@
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9sEmE_7xg88pk-W5NEdd-1" source="YHxVU-hSVA-6Qokr_AKK-93" target="YHxVU-hSVA-6Qokr_AKK-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHxVU-hSVA-6Qokr_AKK-195" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="520.5" y="3840" width="949.5" height="590" as="geometry" />
-        </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-268" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1548.01" y="4500" width="140" height="501" as="geometry" />
         </mxCell>
@@ -16831,7 +16828,7 @@
           <mxGeometry x="555.01" y="4229.5" width="120" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-280" value="模型生命周期管理" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="555.01" y="4274" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="555.01" y="4275" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-282" value="基础信息管理" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="555.01" y="4330" width="120" height="33" as="geometry" />
@@ -16882,22 +16879,22 @@
           <mxGeometry x="555.01" y="3983" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-322" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1135.51" y="3841" width="277.49" height="127" as="geometry" />
+          <mxGeometry x="979.51" y="3721" width="277.49" height="127" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-323" value="数据安全管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1151" y="3840" width="79" height="30" as="geometry" />
+          <mxGeometry x="995" y="3720" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-324" value="日志审计" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1283.51" y="3881.5" width="120" height="32" as="geometry" />
+          <mxGeometry x="1127.51" y="3761.5" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-325" value="敏感数据保护" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1152.01" y="3876" width="120" height="37" as="geometry" />
+          <mxGeometry x="996.01" y="3756" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-326" value="安全溯源" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1283.5" y="3921" width="120" height="38" as="geometry" />
+          <mxGeometry x="1127.5" y="3801" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-327" value="数据权限" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="1152.51" y="3921" width="120" height="37" as="geometry" />
+          <mxGeometry x="996.51" y="3801" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-340" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;数据集成&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1642" y="3696.5" width="100" height="30" as="geometry" />
