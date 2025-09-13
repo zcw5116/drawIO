@@ -16627,7 +16627,7 @@
           <mxGeometry x="1465.51" y="2808" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-97" value="数据应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
-          <mxGeometry x="1154.76" y="2597" width="68.25" height="15" as="geometry" />
+          <mxGeometry x="1220" y="2603" width="68.25" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YHxVU-hSVA-6Qokr_AKK-98" value="质量稽核" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" parent="9sEmE_7xg88pk-W5NEdd-1" vertex="1">
           <mxGeometry x="553.01" y="2772" width="120" height="60" as="geometry" />
