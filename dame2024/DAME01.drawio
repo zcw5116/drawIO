@@ -17064,6 +17064,33 @@
         <mxCell id="qQAcYNtEvYL552n2ajbD-7" value="数据架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="410" y="4063" width="60" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="qQAcYNtEvYL552n2ajbD-8" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;数据获取&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="706.88" y="4580" width="142.99" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qQAcYNtEvYL552n2ajbD-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;星关站&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="500" y="4590" width="101.99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qQAcYNtEvYL552n2ajbD-10" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;OMC/NCF&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="500" y="4670" width="101.99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qQAcYNtEvYL552n2ajbD-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="622.01" y="4625.5" as="sourcePoint" />
+            <mxPoint x="692.01" y="4625.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qQAcYNtEvYL552n2ajbD-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="688.51" y="4704.5" as="sourcePoint" />
+            <mxPoint x="625.49" y="4704.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qQAcYNtEvYL552n2ajbD-13" value="数据采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="625" y="4580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qQAcYNtEvYL552n2ajbD-14" value="指令下发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
+          <mxGeometry x="626.5" y="4660" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
