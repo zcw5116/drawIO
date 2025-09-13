@@ -17064,9 +17064,6 @@
         <mxCell id="qQAcYNtEvYL552n2ajbD-1" value="缓存数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
           <mxGeometry x="1282.96" y="4364" width="72.5" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="qQAcYNtEvYL552n2ajbD-6" value="应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9sEmE_7xg88pk-W5NEdd-1">
-          <mxGeometry x="525" y="3668.88" width="86" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
