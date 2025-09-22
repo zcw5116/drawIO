@@ -20431,12 +20431,12 @@
             <mxRectangle width="102" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UvKUzUEs3C8vf4wEcL_y-1" value="创建时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="cyd5Ho4EC923iySZ56be-41">
+        <mxCell id="UvKUzUEs3C8vf4wEcL_y-1" value="创建时间" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;fontStyle=1;html=1;" vertex="1" parent="cyd5Ho4EC923iySZ56be-41">
           <mxGeometry x="649" width="65" height="33" as="geometry">
             <mxRectangle width="65" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UvKUzUEs3C8vf4wEcL_y-11" value="更新时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="cyd5Ho4EC923iySZ56be-41">
+        <mxCell id="UvKUzUEs3C8vf4wEcL_y-11" value="更新时间" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;fontStyle=1;html=1;" vertex="1" parent="cyd5Ho4EC923iySZ56be-41">
           <mxGeometry x="714" width="75" height="33" as="geometry">
             <mxRectangle width="75" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -20871,6 +20871,9 @@
         </mxCell>
         <mxCell id="UvKUzUEs3C8vf4wEcL_y-26" value="~" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="664" y="880" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UvKUzUEs3C8vf4wEcL_y-27" value="导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="910.5" y="880" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
