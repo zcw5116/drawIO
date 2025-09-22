@@ -20729,10 +20729,10 @@
           <mxGeometry x="232" y="830" width="56.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cyd5Ho4EC923iySZ56be-98" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="830" width="50" height="30" as="geometry" />
+          <mxGeometry x="614" y="830" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cyd5Ho4EC923iySZ56be-99" value="报销编号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530.63" y="830" width="67.75" height="30" as="geometry" />
+        <mxCell id="cyd5Ho4EC923iySZ56be-99" value="报销编号：&lt;div&gt;（模糊匹配）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="526" y="830" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cyd5Ho4EC923iySZ56be-100" value="通过/不通过/未稽核" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="945" y="830" width="117" height="30" as="geometry" />
