@@ -21506,12 +21506,6 @@
         <mxCell id="9zQgzrmRuVevqqLhuXO6-25" value="安全与凭证管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437" y="605" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9zQgzrmRuVevqqLhuXO6-27" value="虚拟化访问" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9zQgzrmRuVevqqLhuXO6-28" value="数据同步" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="404" y="240" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9zQgzrmRuVevqqLhuXO6-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9zQgzrmRuVevqqLhuXO6-29" target="9zQgzrmRuVevqqLhuXO6-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -21540,13 +21534,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9zQgzrmRuVevqqLhuXO6-40" value="&lt;p data-pm-slice=&quot;1 1 []&quot; style=&quot;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-family: Noto Sans SC;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;即连即用，无需迁移&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="111" y="150" width="150" height="50" as="geometry" />
+          <mxGeometry x="120" y="230" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9zQgzrmRuVevqqLhuXO6-41" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: Noto Sans SC;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;高性能缓存，集中计算&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="404" y="160" width="166" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9zQgzrmRuVevqqLhuXO6-42" value="统一查询语义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="111" y="400" width="81" height="30" as="geometry" />
+          <mxGeometry x="410" y="230" width="166" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9zQgzrmRuVevqqLhuXO6-43" value="查询下推" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="121.5" y="523" width="60" height="30" as="geometry" />
@@ -21564,7 +21555,16 @@
           <mxGeometry x="504" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9zQgzrmRuVevqqLhuXO6-52" value="数据映射" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="201" y="523" width="60" height="30" as="geometry" />
+          <mxGeometry x="203" y="523" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zQgzrmRuVevqqLhuXO6-53" value="统一查询语义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100.5" y="400" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zQgzrmRuVevqqLhuXO6-55" value="本体映射" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="203" y="400" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zQgzrmRuVevqqLhuXO6-62" value="本体映射" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
