@@ -21604,6 +21604,24 @@
         <mxCell id="ziIb3ryL7EiMRUhOEodW-5" value="非结构化数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="412" y="780" width="156" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ziIb3ryL7EiMRUhOEodW-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="797" y="310" width="243" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIb3ryL7EiMRUhOEodW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="120" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIb3ryL7EiMRUhOEodW-9" value="外部数据" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIb3ryL7EiMRUhOEodW-10" value="数据连接" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="310" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIb3ryL7EiMRUhOEodW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="310" width="360" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIb3ryL7EiMRUhOEodW-13" value="UniData/数据管道" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
