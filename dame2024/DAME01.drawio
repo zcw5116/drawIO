@@ -21928,11 +21928,85 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fFcCF_pnOYw6qrFWJZSU" name="第 30 页">
-    <mxGraphModel dx="1426" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="fFcCF_pnOYw6qrFWJZSU" name="SeaCrabServer">
+    <mxGraphModel dx="983" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="470" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;部署节点&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="220" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SeaServer&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="200" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-6" value="数据查询端点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-7" value="服务状态端点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;管理服务&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;（待实现）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-9" value="启停SeaServer接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-10" value="状态监控接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-11" value="定期启停SeaServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-12" value="异常恢复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="408" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="575" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yPZk5vhkWABwiLi-_6ar-17" target="yPZk5vhkWABwiLi-_6ar-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-17" value="请求逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="665" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yPZk5vhkWABwiLi-_6ar-17" target="yPZk5vhkWABwiLi-_6ar-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.48000000000002" y="782.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yPZk5vhkWABwiLi-_6ar-20" target="yPZk5vhkWABwiLi-_6ar-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-20" value="请求节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="665" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-22" value="1、从SeaServer随机或者轮询一个节点&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、验证节点状态是否正常：调用管理服务的接口。&lt;/div&gt;&lt;div&gt;如果状态异常，重新选择节点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、请求服务&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-23" value="管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="585" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-24" value="SeaServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="625" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="740" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-26" value="管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="750" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yPZk5vhkWABwiLi-_6ar-27" value="SeaServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="790" width="103" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
