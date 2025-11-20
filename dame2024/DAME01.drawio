@@ -21931,7 +21931,7 @@
           <mxGeometry x="1250" y="215.5" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="dVerzrxfJkSUgGwgqr-G-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="186" width="856" height="594" as="geometry" />
+          <mxGeometry x="2250" y="185" width="990" height="594" as="geometry" />
         </mxCell>
         <mxCell id="dVerzrxfJkSUgGwgqr-G-8" value="外部数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2110" y="341.5" width="110" height="51" as="geometry" />
@@ -22014,20 +22014,62 @@
         <mxCell id="dVerzrxfJkSUgGwgqr-G-61" value="数据处理" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2598" y="224.5" width="72" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="dVerzrxfJkSUgGwgqr-G-62" value="表达式转换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2631" y="269" width="160" height="48.5" as="geometry" />
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="263" width="280" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="dVerzrxfJkSUgGwgqr-G-63" value="数据集转换（行列转换、过滤、）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2631" y="339.5" width="160" height="48.5" as="geometry" />
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-70" value="列级转换" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2602" y="263" width="72" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="dVerzrxfJkSUgGwgqr-G-64" value="多表处理（Join、Union、切分数据集）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2631" y="409" width="160" height="48.5" as="geometry" />
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-71" value="表达式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2602" y="296.5" width="98" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="dVerzrxfJkSUgGwgqr-G-65" value="LLM处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2631" y="478.25" width="160" height="48.5" as="geometry" />
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-72" value="标量函数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="295.5" width="98" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="dVerzrxfJkSUgGwgqr-G-66" value="媒体集转换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2631" y="548.5" width="160" height="48.5" as="geometry" />
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-73" value="媒体集转换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2598" y="503.5" width="258" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-75" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="361.5" width="280" height="129.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-76" value="表级转换" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2602" y="361.5" width="108" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-77" value="Join" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2607" y="441" width="98" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-78" value="Union" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="441" width="98" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-79" value="行列转换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2607" y="389.5" width="98" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-80" value="数据集切分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="387.75" width="98" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-81" value="LLM处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2598" y="560" width="258" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="215.5" width="210" height="397" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-83" value="管道输出" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3039" y="226" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-84" value="数据集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2992" y="269" width="160" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-85" value="虚拟数据集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2992" y="339.5" width="160" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-86" value="媒体集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2992" y="409" width="160" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-87" value="本地对象/关系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2992" y="478.25" width="160" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVerzrxfJkSUgGwgqr-G-88" value="手工数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2992" y="548.5" width="160" height="48.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
