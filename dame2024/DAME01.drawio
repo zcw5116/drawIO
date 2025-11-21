@@ -21470,11 +21470,20 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2XqEAhAK9p7vw0O2PMUM" name="数据融合引擎">
+  <diagram id="2XqEAhAK9p7vw0O2PMUM" name="数据管道">
     <mxGraphModel dx="1426" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="332" x="2198" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="262" width="640" x="1840" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="370" width="712" x="2648" y="1540" as="geometry" />
+        </mxCell>
         <mxCell id="Xni1Hi2cBkvRUtXyPHXT-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="310" width="160" x="1480" y="350" as="geometry" />
         </mxCell>
@@ -22122,127 +22131,245 @@
         <mxCell id="dVerzrxfJkSUgGwgqr-G-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" value="数据聚合" vertex="1">
           <mxGeometry height="38.5" width="98" x="2740" y="453.5" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-3" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道1" vertex="1">
-          <mxGeometry height="80" width="120" x="2318" y="2350" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道3" vertex="1">
-          <mxGeometry height="80" width="120" x="2630" y="2350" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" value="1、时间调度&lt;div&gt;2、事件触发：上游数据更新&lt;/div&gt;&lt;div&gt;3、组合：5点调度且上游数据发生变化。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="206" x="2790" y="2675" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="管道1&lt;div&gt;调度1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2950" y="2391" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="管道2&lt;div&gt;调度1：&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2950" y="2495" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-12" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5JMZ6_p0Lim2rFsZsAcf-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="一天24次" vertex="1">
-          <mxGeometry height="80" width="120" x="2130" y="2510" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="信号量1&amp;nbsp; &amp;nbsp; indicator01=24|1&lt;div&gt;1 -》 24&lt;/div&gt;&lt;div&gt;缓存&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="172" x="2298" y="2535" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-13" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="信号量组件&lt;div&gt;&amp;nbsp;indicator01&amp;nbsp; 24|1&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="112" x="2480" y="2465" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-14" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道4" vertex="1">
-          <mxGeometry height="80" width="120" x="2310" y="2645" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道5" vertex="1">
-          <mxGeometry height="80" width="120" x="2622" y="2645" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-17" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="信号量1&lt;div&gt;=24触发&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="2524" y="2760" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道1" vertex="1">
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="设备流量汇总管道（日）" vertex="1">
           <mxGeometry height="80" width="120" x="2498" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-26" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道3" vertex="1">
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="流量汇总管道（日）" vertex="1">
           <mxGeometry height="80" width="120" x="2669" y="1211.5" as="geometry" />
         </mxCell>
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-24" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道2" vertex="1">
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="端口流量汇总管道（日）" vertex="1">
           <mxGeometry height="80" width="120" x="2498" y="1291" as="geometry" />
         </mxCell>
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-23" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" target="5JMZ6_p0Lim2rFsZsAcf-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道4" vertex="1">
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="流量按区域汇总管道（日）" vertex="1">
           <mxGeometry height="80" width="120" x="2908" y="1211" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-28" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-20">
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-82" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="5JMZ6_p0Lim2rFsZsAcf-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="管道0" vertex="1">
-          <mxGeometry height="80" width="120" x="2298" y="1150" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-52" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="设备数据生成管道" vertex="1">
-          <mxGeometry height="80" width="120" x="2592" y="1500" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="日流量汇总管道" vertex="1">
-          <mxGeometry height="80" width="120" x="2950" y="1500" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-42" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="小时流量汇总" vertex="1">
-          <mxGeometry height="80" width="120" x="2296.5" y="1714" as="geometry" />
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="小时流量汇总管道" vertex="1">
+          <mxGeometry height="80" width="120" x="2385" y="1887" as="geometry" />
         </mxCell>
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;fontSize=15;" value="信号量生成：&lt;div&gt;hourid = 2025-11-21 23:00:00&lt;/div&gt;&lt;div&gt;status = 1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="106" width="210" x="2251" y="1864" as="geometry" />
+          <mxGeometry height="106" width="210" x="2340.5" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-107" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-99">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="130" width="300" x="2530" y="1680" as="geometry" />
+          <mxGeometry height="180" width="300" x="2682" y="1630" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="信号量" vertex="1">
-          <mxGeometry height="30" width="60" x="2532" y="1684" as="geometry" />
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="信号量控制组" vertex="1">
+          <mxGeometry height="30" width="96" x="2682" y="1640" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="小时流量汇总" vertex="1">
-          <mxGeometry height="80" width="111" x="2549" y="1714" as="geometry" />
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="小时流量汇总管道" vertex="1">
+          <mxGeometry height="80" width="111" x="2701" y="1714" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-43" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-43" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" target="5JMZ6_p0Lim2rFsZsAcf-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2550" y="1927" />
+              <mxPoint x="2550" y="1754" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-49" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-50" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2661" y="1754" as="targetPoint" />
+            <mxPoint x="2813" y="1754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-51" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-30">
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="信号量判断" vertex="1">
+          <mxGeometry height="60" width="84" x="2865" y="1724" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;" value="信号量的值等于2025-11-21 23:00:00且status=1，执行。否则继续等待，定期轮询。" vertex="1">
+          <mxGeometry height="50" width="290" x="2762" y="1832" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="如果信号量等待超时，则任务中断" vertex="1">
+          <mxGeometry height="30" width="185" x="2830" y="1882" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;管道1编排&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="86" x="2654" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;引用&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2557" y="1724" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-57" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="设备流量汇总管道（日）" vertex="1">
+          <mxGeometry height="80" width="120" x="1845" y="1333" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-71" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2210" y="1454.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="流量汇总管道（日）" vertex="1">
+          <mxGeometry height="80" width="120" x="2016" y="1394.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-62" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" target="5JMZ6_p0Lim2rFsZsAcf-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="信号量判断" vertex="1">
-          <mxGeometry height="60" width="84" x="2713" y="1724" as="geometry" />
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-67" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;" value="信号量的值等于2025-11-21 23:00:00，执行。否则继续等待，定期轮询。" vertex="1">
-          <mxGeometry height="70" width="197" x="2656" y="1850" as="geometry" />
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据集1" vertex="1">
+          <mxGeometry height="60" width="46" x="2219" y="1409.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-69" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据转换" vertex="1">
+          <mxGeometry height="60" width="54" x="2310" y="1409.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Join" vertex="1">
+          <mxGeometry height="60" width="54" x="2399" y="1409.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="流量按区域汇总管道（日）" vertex="1">
+          <mxGeometry height="30" width="149" x="2227" y="1372.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="管道构建器" vertex="1">
+          <mxGeometry height="30" width="100" x="2050" y="1316" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-79" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=39;" value="数据集2" vertex="1">
+          <mxGeometry height="60" width="46" x="2219" y="1484" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-80" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据转换" vertex="1">
+          <mxGeometry height="60" width="54" x="2310" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="370" width="702" x="2648" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-117" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3000" y="2190" />
+              <mxPoint x="3000" y="2124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="261" width="300" x="2685" y="2059" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="信号量控制组" vertex="1">
+          <mxGeometry height="30" width="103" x="2687" y="2063" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-89" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="小时流量汇总管道" vertex="1">
+          <mxGeometry height="80" width="85" x="2730" y="2093" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-91" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2816" y="2133" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="信号量判断" vertex="1">
+          <mxGeometry height="60" width="84" x="2868" y="2103" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;管道2编排&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="86" x="2654" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-98" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据集1" vertex="1">
+          <mxGeometry height="60" width="46" x="3024" y="1572" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-100" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据转换" vertex="1">
+          <mxGeometry height="60" width="54" x="3115" y="1572" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-109" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Join" vertex="1">
+          <mxGeometry height="60" width="54" x="3204" y="1572" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-103" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=39;" value="数据集2" vertex="1">
+          <mxGeometry height="60" width="46" x="3024" y="1652.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-105" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据转换" vertex="1">
+          <mxGeometry height="60" width="54" x="3115" y="1652.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="输出" vertex="1">
+          <mxGeometry height="60" width="54" x="3295" y="1572" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-110" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据集1" vertex="1">
+          <mxGeometry height="60" width="46" x="3015" y="2094" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-112" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据转换" vertex="1">
+          <mxGeometry height="60" width="54" x="3106" y="2094" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-114" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Join" vertex="1">
+          <mxGeometry height="60" width="54" x="3195" y="2094" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="输出" vertex="1">
+          <mxGeometry height="60" width="54" x="3286" y="2094" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-127" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5JMZ6_p0Lim2rFsZsAcf-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-119" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="资源更新管道" vertex="1">
+          <mxGeometry height="80" width="120" x="2385" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-121" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="5JMZ6_p0Lim2rFsZsAcf-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2620" y="2413" />
+              <mxPoint x="2620" y="2260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;fontSize=15;" value="信号量生成：&lt;div&gt;dayid= 2025-11-21&lt;/div&gt;" vertex="1">
+          <mxGeometry height="106" width="210" x="2340.5" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-123" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="资源更新管道" vertex="1">
+          <mxGeometry height="80" width="85" x="2729" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-124" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="5JMZ6_p0Lim2rFsZsAcf-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2445" y="2000" />
+              <mxPoint x="2580" y="2000" />
+              <mxPoint x="2580" y="2133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-125" edge="1" parent="1" source="5JMZ6_p0Lim2rFsZsAcf-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;" target="5JMZ6_p0Lim2rFsZsAcf-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;任意一个信号量更新，触发执行&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2910" y="2180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
