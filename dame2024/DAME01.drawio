@@ -22473,7 +22473,7 @@
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="切片数量" vertex="1">
           <mxGeometry height="30" width="60" x="2567" y="3178" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="devid（下拉）" vertex="1">
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="10" vertex="1">
           <mxGeometry height="40" width="204.5" x="2625.5" y="3173" as="geometry" />
         </mxCell>
       </root>
