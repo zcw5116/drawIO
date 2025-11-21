@@ -22443,6 +22443,39 @@
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="- MySQL&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; - MySQL_PROD&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - MySQL_DEV&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - MySQL_TEST&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ ClickHouse&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ 达梦&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Kafka&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ OSS&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="185" x="2345" y="3070" as="geometry" />
         </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="298" x="2562" y="2980" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-157" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#000000;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="2607" y="3010" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQL语句" vertex="1">
+          <mxGeometry height="30" width="60" x="2631" y="3010" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-159" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#000000;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="2728" y="3010" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="选择表" vertex="1">
+          <mxGeometry height="30" width="60" x="2752" y="3010" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="select devid, devname&amp;nbsp;&lt;div&gt;from cm_res_device&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="203" x="2625.5" y="3050" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQL语句" vertex="1">
+          <mxGeometry height="30" width="60" x="2567" y="3065" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="切片字段" vertex="1">
+          <mxGeometry height="30" width="60" x="2567" y="3127" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="devid（下拉）" vertex="1">
+          <mxGeometry height="40" width="204.5" x="2625.5" y="3122" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="切片数量" vertex="1">
+          <mxGeometry height="30" width="60" x="2567" y="3178" as="geometry" />
+        </mxCell>
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="devid（下拉）" vertex="1">
+          <mxGeometry height="40" width="204.5" x="2625.5" y="3173" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
