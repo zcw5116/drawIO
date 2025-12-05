@@ -15739,38 +15739,20 @@
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Spring BOOT" vertex="1">
           <mxGeometry height="50" width="82.62" x="1251.5" y="1941" as="geometry" />
         </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Spring Cloud" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1366" y="1941" as="geometry" />
-        </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MyBatis" vertex="1">
           <mxGeometry height="50" width="82.62" x="1251.5" y="1861" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="JPA" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1366" y="1861" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Nacos" vertex="1">
           <mxGeometry height="50" width="82.62" x="1251.5" y="2020" as="geometry" />
         </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Apollo&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1366" y="2020" as="geometry" />
-        </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Eureka&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="82.62" x="1251.5" y="2099.5" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Apollo&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1366" y="2099.5" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Sentinel&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1366" y="1782" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Vue&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="82.62" x="1251.5" y="1702" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Drools&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="82.62" x="1251.5" y="1782" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Activiti&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1366" y="1702" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="90" width="227.5" x="512.5" y="1540" as="geometry" />
