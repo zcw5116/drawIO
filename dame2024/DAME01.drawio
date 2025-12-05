@@ -15137,7 +15137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CDzUgVRPVkUaDhnIWH-4" name="浙江高速标">
-    <mxGraphModel dx="1369" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15790,10 +15790,10 @@
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="调度框架" vertex="1">
           <mxGeometry height="50" width="118.5" x="1256" y="1972" as="geometry" />
         </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Zookeeper" vertex="1">
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Prometheus&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="118.5" x="1256" y="2055" as="geometry" />
         </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="XXL-Job" vertex="1">
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Grafana&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="118.5" x="1256" y="2221" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Raft" vertex="1">
