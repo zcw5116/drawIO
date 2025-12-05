@@ -15271,19 +15271,19 @@
           <mxGeometry height="30" width="88.5" x="751.5" y="414" as="geometry" />
         </mxCell>
         <mxCell id="8aYSJHf6lLPOBsYF7R8c-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="组件扩展" vertex="1">
-          <mxGeometry height="38" width="94" x="757.5" y="592.5" as="geometry" />
+          <mxGeometry height="38" width="102.5" x="757.5" y="592.5" as="geometry" />
         </mxCell>
         <mxCell id="8aYSJHf6lLPOBsYF7R8c-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="加工调度" vertex="1">
           <mxGeometry height="38" width="94" x="881" y="592.5" as="geometry" />
         </mxCell>
         <mxCell id="8aYSJHf6lLPOBsYF7R8c-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="数据加工" vertex="1">
-          <mxGeometry height="38" width="94" x="757.5" y="547" as="geometry" />
+          <mxGeometry height="38" width="102.5" x="757.5" y="547" as="geometry" />
         </mxCell>
         <mxCell id="8aYSJHf6lLPOBsYF7R8c-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="异常处置" vertex="1">
           <mxGeometry height="38" width="94" x="881" y="547" as="geometry" />
         </mxCell>
         <mxCell id="8aYSJHf6lLPOBsYF7R8c-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="异构数据源融合" vertex="1">
-          <mxGeometry height="38" width="94" x="757.5" y="500" as="geometry" />
+          <mxGeometry height="38" width="102.5" x="757.5" y="500" as="geometry" />
         </mxCell>
         <mxCell id="8aYSJHf6lLPOBsYF7R8c-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="离线/实时" vertex="1">
           <mxGeometry height="38" width="94" x="881" y="503" as="geometry" />
@@ -15366,8 +15366,8 @@
         <mxCell id="MNz8Rs23CFQClOrKm3fC-17" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据资产" vertex="1">
           <mxGeometry height="30" width="80" x="320.74" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="MNz8Rs23CFQClOrKm3fC-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="流程可视化编排" vertex="1">
-          <mxGeometry height="38" width="94" x="760" y="450" as="geometry" />
+        <mxCell id="MNz8Rs23CFQClOrKm3fC-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;arcSize=16;" value="工作流可视化编排" vertex="1">
+          <mxGeometry height="38" width="100" x="760" y="450" as="geometry" />
         </mxCell>
         <mxCell id="MNz8Rs23CFQClOrKm3fC-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="管道管理" vertex="1">
           <mxGeometry height="38" width="94" x="879.5" y="452" as="geometry" />
