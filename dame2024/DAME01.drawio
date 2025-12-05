@@ -15731,28 +15731,13 @@
           <mxGeometry height="50" width="82.62" x="385.56" y="1619.25" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="820" width="228" x="1241" y="1540" as="geometry" />
+          <mxGeometry height="820" width="149" x="1241" y="1540" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="容灾高可用" vertex="1">
-          <mxGeometry height="30" width="200" x="1248.62" y="1560" as="geometry" />
+          <mxGeometry height="30" width="117.5" x="1260" y="1560" as="geometry" />
         </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Spring BOOT" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1251.5" y="1941" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MyBatis" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1251.5" y="1861" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Nacos" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1251.5" y="2020" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Eureka&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1251.5" y="2099.5" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Vue&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1251.5" y="1702" as="geometry" />
-        </mxCell>
-        <mxCell id="D3vu1JNKHMVY4SPY6M_0-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Drools&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="82.62" x="1251.5" y="1782" as="geometry" />
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="CoreDNS" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1256" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="90" width="227.5" x="512.5" y="1540" as="geometry" />
@@ -15792,6 +15777,57 @@
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;HTML5&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="60" x="1156" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="HAProxy" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1256" y="1723" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="LVS" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1256" y="1806" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="KeepAlived" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1256" y="1889" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="调度框架" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1256" y="1972" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Zookeeper" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1256" y="2055" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="XXL-Job" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1256" y="2221" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Raft" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1256" y="2138" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="820" width="149" x="1400" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="DevOpts" vertex="1">
+          <mxGeometry height="30" width="117.5" x="1419" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Jenkins" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1415" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Git" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1415" y="1723" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="SonarCube" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1415" y="1806" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Harbor" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1415" y="1889" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Docker" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1415" y="1972" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="K8s" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1415" y="2055" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-154" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Pytest" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1415" y="2221" as="geometry" />
+        </mxCell>
+        <mxCell id="D3vu1JNKHMVY4SPY6M_0-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0" value="Ansible" vertex="1">
+          <mxGeometry height="50" width="118.5" x="1415" y="2138" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
