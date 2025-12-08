@@ -22390,7 +22390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2XqEAhAK9p7vw0O2PMUM" name="数据管道">
-    <mxGraphModel dx="1426" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23587,7 +23587,7 @@
         <mxCell id="Dqlo4IV3gbDPQ806GHHT-7" edge="1" parent="1" source="Dqlo4IV3gbDPQ806GHHT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dqlo4IV3gbDPQ806GHHT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dqlo4IV3gbDPQ806GHHT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="转换1" vertex="1">
+        <mxCell id="Dqlo4IV3gbDPQ806GHHT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="转换1&lt;div&gt;（过滤、字符串截取、字符串拼接）&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="534" y="1709" as="geometry" />
         </mxCell>
         <mxCell id="Dqlo4IV3gbDPQ806GHHT-11" edge="1" parent="1" source="Dqlo4IV3gbDPQ806GHHT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Dqlo4IV3gbDPQ806GHHT-10">
@@ -23598,7 +23598,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dqlo4IV3gbDPQ806GHHT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="转换2" vertex="1">
+        <mxCell id="Dqlo4IV3gbDPQ806GHHT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="转换2&lt;div&gt;（JSON解析）&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="730" y="1709" as="geometry" />
         </mxCell>
         <mxCell id="Dqlo4IV3gbDPQ806GHHT-12" edge="1" parent="1" source="Dqlo4IV3gbDPQ806GHHT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Dqlo4IV3gbDPQ806GHHT-10">
@@ -23680,6 +23680,12 @@
         </mxCell>
         <mxCell id="XnibsdbAmP38Pntw8Rwf-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="数据集3" vertex="1">
           <mxGeometry height="60" width="120" x="1580" y="1882" as="geometry" />
+        </mxCell>
+        <mxCell id="XnibsdbAmP38Pntw8Rwf-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="true" vertex="1">
+          <mxGeometry height="30" width="60" x="830" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="XnibsdbAmP38Pntw8Rwf-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="false" vertex="1">
+          <mxGeometry height="30" width="60" x="870" y="2080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
