@@ -23293,7 +23293,7 @@
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-130" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="添加数据集" vertex="1">
           <mxGeometry height="30" width="105" x="2342" y="2510" as="geometry" />
         </mxCell>
-        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;添加数据集&lt;/font&gt;&lt;/b&gt;&lt;div&gt;通过数据连接添加数据集&lt;/div&gt;" vertex="1">
+        <mxCell id="5JMZ6_p0Lim2rFsZsAcf-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;添加数据集&lt;/font&gt;&lt;/b&gt;&lt;div&gt;添加纳管的数据集，包含虚拟表&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="183" x="2416" y="2550" as="geometry" />
         </mxCell>
         <mxCell id="5JMZ6_p0Lim2rFsZsAcf-134" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
