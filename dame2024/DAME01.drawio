@@ -16081,75 +16081,6 @@
         <mxCell id="6jn6YmWwWRkkZC9sP99k-29" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="任务调度" vertex="1">
           <mxGeometry height="30" width="120" x="159.5" y="860.5" as="geometry" />
         </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-30" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="176.5" width="240" x="1220" y="320.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-31" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据安全管理" vertex="1">
-          <mxGeometry height="27.5" width="79" x="1230.5" y="323.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-32" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="日志审计" vertex="1">
-          <mxGeometry height="40.5" width="90.99" x="1229" y="364.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-33" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="安全溯源" vertex="1">
-          <mxGeometry height="43" width="94.5" x="1345.5" y="439.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-34" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="数据权限" vertex="1">
-          <mxGeometry height="42" width="91" x="1229" y="439.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-35" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="102" width="664" x="1210" y="720" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-36" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="消息队列" vertex="1">
-          <mxGeometry height="51.5" width="74" x="1231.5" y="756" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-37" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="关系数据库" vertex="1">
-          <mxGeometry height="51.5" width="76" x="1321.5" y="756" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-38" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="分析数据库" vertex="1">
-          <mxGeometry height="51.5" width="75.49" x="1412.5" y="756" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-39" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="分布式文件存储" vertex="1">
-          <mxGeometry height="51.5" width="90" x="1496.5" y="756" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-40" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="搜索引擎" vertex="1">
-          <mxGeometry height="51.5" width="72.5" x="1596.5" y="756" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-42" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据源管理" vertex="1">
-          <mxGeometry height="30" width="72" x="1213.5" y="720" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-43" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="227" width="241" x="1526" y="867.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-44" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据管道构建" vertex="1">
-          <mxGeometry height="30" width="88.5" x="1531.5" y="871.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-45" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="组件扩展" vertex="1">
-          <mxGeometry height="38" width="102.5" x="1537.5" y="1050" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-46" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="加工调度" vertex="1">
-          <mxGeometry height="38" width="94" x="1661" y="1050" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-47" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="数据加工" vertex="1">
-          <mxGeometry height="38" width="102.5" x="1537.5" y="1004.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-48" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="异常处置" vertex="1">
-          <mxGeometry height="38" width="94" x="1661" y="1004.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-49" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="异构数据源融合" vertex="1">
-          <mxGeometry height="38" width="102.5" x="1537.5" y="957.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-50" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="离线/实时" vertex="1">
-          <mxGeometry height="38" width="94" x="1661" y="960.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-52" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="敏感数据保护" vertex="1">
-          <mxGeometry height="40.5" width="90" x="1345.5" y="364.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-58" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="时序数据库" vertex="1">
-          <mxGeometry height="51.5" width="72.5" x="1687.5" y="756" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-59" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="缓存数据" vertex="1">
-          <mxGeometry height="51.5" width="72.5" x="1778.46" y="756" as="geometry" />
-        </mxCell>
         <mxCell id="6jn6YmWwWRkkZC9sP99k-60" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="663.38" x="326.62" y="758" as="geometry" />
         </mxCell>
@@ -16170,42 +16101,6 @@
         </mxCell>
         <mxCell id="6jn6YmWwWRkkZC9sP99k-66" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据采集与接入（批流一体接入）" vertex="1">
           <mxGeometry height="30" width="186.64" x="333.36" y="758" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-67" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="240" width="410" x="1100" y="867.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-68" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="贴源数据层" vertex="1">
-          <mxGeometry height="34" width="292" x="1121.01" y="1050.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-69" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="DWD" vertex="1">
-          <mxGeometry height="34" width="292" x="1119" y="976.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-70" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="应用层数据" vertex="1">
-          <mxGeometry height="34" width="292" x="1119" y="903.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-71" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="公&lt;div&gt;共&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;" vertex="1">
-          <mxGeometry height="184" width="44" x="1436.01" y="903.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-72" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1262" y="1050.5" as="sourcePoint" />
-            <mxPoint x="1262" y="1010.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-73" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1260" y="976.5" as="sourcePoint" />
-            <mxPoint x="1260" y="936.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-74" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据资产" vertex="1">
-          <mxGeometry height="30" width="80" x="1100.74" y="867.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-75" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;arcSize=16;" value="工作流可视化编排" vertex="1">
-          <mxGeometry height="38" width="100" x="1540" y="907.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6jn6YmWwWRkkZC9sP99k-76" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="管道管理" vertex="1">
-          <mxGeometry height="38" width="94" x="1659.5" y="909.5" as="geometry" />
         </mxCell>
         <mxCell id="-nWyhhEey0o9eU4AF9tf-4" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="140" width="663.38" x="327.26" y="856" as="geometry" />
