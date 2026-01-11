@@ -16546,7 +16546,7 @@
           <mxGeometry height="51" width="71.25" x="508.75" y="2480" as="geometry" />
         </mxCell>
         <mxCell id="P6mW3wDnhEAO3K84lQY_-17" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="指标库管理" vertex="1">
-          <mxGeometry height="30" width="102.34" x="512.97" y="2450.5" as="geometry" />
+          <mxGeometry height="30" width="102.34" x="507.97" y="2450.5" as="geometry" />
         </mxCell>
         <mxCell id="P6mW3wDnhEAO3K84lQY_-18" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标全生命周期管理" vertex="1">
           <mxGeometry height="50" width="72.37" x="595" y="2480.75" as="geometry" />
@@ -16556,6 +16556,33 @@
         </mxCell>
         <mxCell id="P6mW3wDnhEAO3K84lQY_-20" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标变更机制" vertex="1">
           <mxGeometry height="50" width="81.74" x="688.26" y="2481" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-29" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="86" width="228.14" x="261.86" y="2340.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-30" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="上游问题追溯" vertex="1">
+          <mxGeometry height="50" width="114.56" x="268.6" y="2370.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-31" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据血缘管理" vertex="1">
+          <mxGeometry height="30" width="102.34" x="272.82000000000005" y="2340" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-32" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="下游影响分析" vertex="1">
+          <mxGeometry height="50" width="82.74" x="400.42" y="2371" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-40" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="86" width="386.39" x="503.61" y="2338.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-41" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="稽核规则库管理" vertex="1">
+          <mxGeometry height="50" width="114.56" x="510.35" y="2368.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-42" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据质量稽核" vertex="1">
+          <mxGeometry height="30" width="102.34" x="514.57" y="2338" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-43" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="质量监控预警" vertex="1">
+          <mxGeometry height="50" width="86.83" x="643.17" y="2369" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-44" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="质量Agent" vertex="1">
+          <mxGeometry height="50" width="94.37" x="760" y="2368" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
