@@ -16539,6 +16539,24 @@
         <mxCell id="P6mW3wDnhEAO3K84lQY_-14" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="变更评估" vertex="1">
           <mxGeometry height="50" width="60" x="414" y="2480.75" as="geometry" />
         </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-15" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="86" width="387.99" x="502.01" y="2451" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-16" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="分层指标体系" vertex="1">
+          <mxGeometry height="51" width="71.25" x="508.75" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-17" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="指标库管理" vertex="1">
+          <mxGeometry height="30" width="102.34" x="512.97" y="2450.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-18" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标全生命周期管理" vertex="1">
+          <mxGeometry height="50" width="72.37" x="595" y="2480.75" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-19" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标归属追溯管理" vertex="1">
+          <mxGeometry height="50.5" width="70.88" x="794.0600000000001" y="2479.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P6mW3wDnhEAO3K84lQY_-20" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标变更机制" vertex="1">
+          <mxGeometry height="50" width="81.74" x="688.26" y="2481" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
