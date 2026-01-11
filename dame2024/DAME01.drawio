@@ -16362,6 +16362,9 @@
         <mxCell id="WwUXo_qq4qHEk_7X1D0k-42" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="质量状态上报" vertex="1">
           <mxGeometry height="30" width="80" x="438" y="1770" as="geometry" />
         </mxCell>
+        <mxCell id="WwUXo_qq4qHEk_7X1D0k-43" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="血缘采集" vertex="1">
+          <mxGeometry height="30" width="60" x="595" y="1660" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
