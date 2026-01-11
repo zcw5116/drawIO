@@ -16317,13 +16317,13 @@
         <mxCell id="WwUXo_qq4qHEk_7X1D0k-15" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;指标模型&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;指标定义/原子/复合&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="131" x="529" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="WwUXo_qq4qHEk_7X1D0k-25" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" source="WwUXo_qq4qHEk_7X1D0k-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WwUXo_qq4qHEk_7X1D0k-21">
+        <mxCell id="WwUXo_qq4qHEk_7X1D0k-25" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" source="WwUXo_qq4qHEk_7X1D0k-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="WwUXo_qq4qHEk_7X1D0k-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WwUXo_qq4qHEk_7X1D0k-20" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;元数据中心&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;数据标准/稽核规则库&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="730" y="1770" as="geometry" />
         </mxCell>
-        <mxCell id="WwUXo_qq4qHEk_7X1D0k-41" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" source="WwUXo_qq4qHEk_7X1D0k-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="WwUXo_qq4qHEk_7X1D0k-11">
+        <mxCell id="WwUXo_qq4qHEk_7X1D0k-41" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" source="WwUXo_qq4qHEk_7X1D0k-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="WwUXo_qq4qHEk_7X1D0k-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WwUXo_qq4qHEk_7X1D0k-21" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据质量稽核&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;异常检测/触发告警&lt;/span&gt;&lt;/div&gt;" vertex="1">
