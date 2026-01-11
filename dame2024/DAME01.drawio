@@ -16329,7 +16329,7 @@
         <mxCell id="WwUXo_qq4qHEk_7X1D0k-40" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" source="WwUXo_qq4qHEk_7X1D0k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="WwUXo_qq4qHEk_7X1D0k-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WwUXo_qq4qHEk_7X1D0k-27" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="1、异常血缘节点，高亮&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、指标变更对上下游影响分析&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、上游问题溯源&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4、异常处置：数据采集、数据管道任务补数/重跑&lt;/div&gt;" vertex="1">
+        <mxCell id="WwUXo_qq4qHEk_7X1D0k-27" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;" value="1、异常血缘节点，高亮&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、指标变更对上下游影响分析&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、上游问题溯源&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4、异常处置：数据采集、数据管道任务补数/重跑&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="200" x="31" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="WwUXo_qq4qHEk_7X1D0k-31" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="血缘采集" vertex="1">
