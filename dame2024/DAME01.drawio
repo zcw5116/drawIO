@@ -11542,6 +11542,21 @@
         <mxCell id="tVGfwMDChp1j8ptwDQ1r-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="业务知识管理" vertex="1">
           <mxGeometry height="45" width="91" x="542" y="500" as="geometry" />
         </mxCell>
+        <mxCell id="tVGfwMDChp1j8ptwDQ1r-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="498" x="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tVGfwMDChp1j8ptwDQ1r-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="多路RGA增强" vertex="1">
+          <mxGeometry height="30" width="98" x="168" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tVGfwMDChp1j8ptwDQ1r-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="语义模型嵌入" vertex="1">
+          <mxGeometry height="45" width="95" x="223" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tVGfwMDChp1j8ptwDQ1r-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="假设问题嵌入" vertex="1">
+          <mxGeometry height="45" width="128" x="343.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tVGfwMDChp1j8ptwDQ1r-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="混合检索" vertex="1">
+          <mxGeometry height="45" width="137" x="501" y="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
