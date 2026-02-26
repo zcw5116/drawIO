@@ -16271,7 +16271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="集团大屏" id="6CvRKItQsDHCFUVQp4Kj">
-    <mxGraphModel dx="1296" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1584" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6jn6YmWwWRkkZC9sP99k-0" />
         <mxCell id="6jn6YmWwWRkkZC9sP99k-1" parent="6jn6YmWwWRkkZC9sP99k-0" />
@@ -16776,7 +16776,7 @@
           <mxGeometry height="50" width="94.37" x="733.61" y="2091.5" as="geometry" />
         </mxCell>
         <mxCell id="D2fWmaoKxzNLPqj9GuW2-0" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="680" width="897" x="126.24000000000001" y="2690" as="geometry" />
+          <mxGeometry height="680" width="883.76" x="126.24" y="2690" as="geometry" />
         </mxCell>
         <mxCell id="D2fWmaoKxzNLPqj9GuW2-1" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="650" width="175" x="138.24" y="2710" as="geometry" />
@@ -17192,26 +17192,23 @@
         <mxCell id="WNb-M6v995XTbJl4uWub-0" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="65.75" width="663.38" x="328.1" y="3044.5" as="geometry" />
         </mxCell>
-        <mxCell id="WNb-M6v995XTbJl4uWub-1" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标标准化定义管理" vertex="1">
-          <mxGeometry height="35" width="96.26" x="357.84000000000003" y="3069.25" as="geometry" />
+        <mxCell id="WNb-M6v995XTbJl4uWub-1" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标标准定义管理" vertex="1">
+          <mxGeometry height="35" width="102.16" x="357.84" y="3069.25" as="geometry" />
         </mxCell>
-        <mxCell id="WNb-M6v995XTbJl4uWub-2" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标责任体系管理" vertex="1">
-          <mxGeometry height="35" width="96.26" x="461.48" y="3069.25" as="geometry" />
+        <mxCell id="WNb-M6v995XTbJl4uWub-2" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标体系建模管理" vertex="1">
+          <mxGeometry height="35" width="109.26" x="482" y="3069.25" as="geometry" />
         </mxCell>
-        <mxCell id="WNb-M6v995XTbJl4uWub-3" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标资产与血缘管理" vertex="1">
-          <mxGeometry height="35" width="96.26" x="568.48" y="3069.25" as="geometry" />
-        </mxCell>
-        <mxCell id="WNb-M6v995XTbJl4uWub-4" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="离线/实时" vertex="1">
-          <mxGeometry height="35" width="96.26" x="674.48" y="3069.25" as="geometry" />
-        </mxCell>
-        <mxCell id="WNb-M6v995XTbJl4uWub-5" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="异常处置" vertex="1">
-          <mxGeometry height="35" width="96.26" x="884.0999999999999" y="3069.25" as="geometry" />
+        <mxCell id="WNb-M6v995XTbJl4uWub-3" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标责任体系管理" vertex="1">
+          <mxGeometry height="35" width="105.76" x="611" y="3069.25" as="geometry" />
         </mxCell>
         <mxCell id="WNb-M6v995XTbJl4uWub-6" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="指标体系管理" vertex="1">
           <mxGeometry height="21.75" width="105.36" x="334.48" y="3045.5" as="geometry" />
         </mxCell>
-        <mxCell id="WNb-M6v995XTbJl4uWub-7" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="组件扩展" vertex="1">
-          <mxGeometry height="35" width="96.26" x="783" y="3069.25" as="geometry" />
+        <mxCell id="WNb-M6v995XTbJl4uWub-8" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标资产与血缘管理" vertex="1">
+          <mxGeometry height="35" width="112.76" x="735" y="3069.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WNb-M6v995XTbJl4uWub-9" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标维护控制台" vertex="1">
+          <mxGeometry height="35" width="112.76" x="863" y="3069.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
