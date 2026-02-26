@@ -17108,7 +17108,7 @@
         <mxCell id="JwCAGGzPwZRPiWUqbrxv-12" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="质量稽核处置" vertex="1">
           <mxGeometry height="35" width="96.26" x="884.0999999999999" y="3154.75" as="geometry" />
         </mxCell>
-        <mxCell id="JwCAGGzPwZRPiWUqbrxv-13" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据加工处理" vertex="1">
+        <mxCell id="JwCAGGzPwZRPiWUqbrxv-13" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据管道" vertex="1">
           <mxGeometry height="21.75" width="105.36" x="334.48" y="3131" as="geometry" />
         </mxCell>
         <mxCell id="JwCAGGzPwZRPiWUqbrxv-14" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="组件扩展" vertex="1">
@@ -17199,19 +17199,19 @@
           <mxGeometry height="44" width="68.01" x="668.55" y="3070.5" as="geometry" />
         </mxCell>
         <mxCell id="QTfr25yaqLvvuoMU2TZj-11" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="78.75" width="221.9" x="748.1" y="3039" as="geometry" />
+          <mxGeometry height="78.75" width="231.9" x="748.1" y="3039" as="geometry" />
         </mxCell>
         <mxCell id="QTfr25yaqLvvuoMU2TZj-12" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="规则库管理" vertex="1">
-          <mxGeometry height="44" width="66" x="754.0999999999999" y="3069.5" as="geometry" />
+          <mxGeometry height="44" width="66" x="758.0999999999999" y="3069.5" as="geometry" />
         </mxCell>
         <mxCell id="QTfr25yaqLvvuoMU2TZj-13" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="稽核监控" vertex="1">
-          <mxGeometry height="44" width="68.01" x="823.99" y="3069.5" as="geometry" />
+          <mxGeometry height="44" width="68.01" x="827.99" y="3069.5" as="geometry" />
         </mxCell>
         <mxCell id="QTfr25yaqLvvuoMU2TZj-14" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据质量稽核" vertex="1">
           <mxGeometry height="21.75" width="78.57" x="751.43" y="3044.75" as="geometry" />
         </mxCell>
         <mxCell id="QTfr25yaqLvvuoMU2TZj-15" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="质量报告" vertex="1">
-          <mxGeometry height="44" width="68.01" x="898.55" y="3070" as="geometry" />
+          <mxGeometry height="44" width="68.01" x="902.55" y="3070" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
