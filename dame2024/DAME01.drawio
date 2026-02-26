@@ -16805,30 +16805,6 @@
         <mxCell id="D2fWmaoKxzNLPqj9GuW2-34" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据源管理" vertex="1">
           <mxGeometry height="21" width="72" x="331.6" y="3283" as="geometry" />
         </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-35" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="227" width="241" x="602.74" y="3440" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-36" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据管道构建" vertex="1">
-          <mxGeometry height="30" width="88.5" x="608.24" y="3444" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-37" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="组件扩展" vertex="1">
-          <mxGeometry height="38" width="102.5" x="614.24" y="3622.5" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-38" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="加工调度" vertex="1">
-          <mxGeometry height="38" width="94" x="737.74" y="3622.5" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-39" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="数据加工" vertex="1">
-          <mxGeometry height="38" width="102.5" x="614.24" y="3577" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-40" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="异常处置" vertex="1">
-          <mxGeometry height="38" width="94" x="737.74" y="3577" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-41" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="异构数据源融合" vertex="1">
-          <mxGeometry height="38" width="102.5" x="614.24" y="3530" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-42" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="离线/实时" vertex="1">
-          <mxGeometry height="38" width="94" x="737.74" y="3533" as="geometry" />
-        </mxCell>
         <mxCell id="D2fWmaoKxzNLPqj9GuW2-43" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="生命周期管理" vertex="1">
           <mxGeometry height="32" width="89.99" x="1429.01" y="2564.75" as="geometry" />
         </mxCell>
@@ -16873,42 +16849,6 @@
         </mxCell>
         <mxCell id="D2fWmaoKxzNLPqj9GuW2-58" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据采集与接入" vertex="1">
           <mxGeometry height="21.75" width="105.36" x="335" y="3180" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-59" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="240" width="410" x="201" y="3440" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-60" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="原始层数据" vertex="1">
-          <mxGeometry height="34" width="292" x="197.75" y="3623" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-61" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="中间层数据" vertex="1">
-          <mxGeometry height="34" width="292" x="195.74" y="3549" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-62" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="应用层数据" vertex="1">
-          <mxGeometry height="34" width="292" x="195.74" y="3476" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-63" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="公&lt;div&gt;共&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;" vertex="1">
-          <mxGeometry height="184" width="44" x="512.75" y="3476" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-64" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="338.74" y="3623" as="sourcePoint" />
-            <mxPoint x="338.74" y="3583" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-65" edge="1" parent="6jn6YmWwWRkkZC9sP99k-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="336.74" y="3549" as="sourcePoint" />
-            <mxPoint x="336.74" y="3509" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-66" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据资产" vertex="1">
-          <mxGeometry height="30" width="80" x="177.48000000000002" y="3440" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-67" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;arcSize=16;" value="工作流可视化编排" vertex="1">
-          <mxGeometry height="38" width="100" x="616.74" y="3480" as="geometry" />
-        </mxCell>
-        <mxCell id="D2fWmaoKxzNLPqj9GuW2-68" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;" value="管道管理" vertex="1">
-          <mxGeometry height="38" width="94" x="736.24" y="3482" as="geometry" />
         </mxCell>
         <mxCell id="D2fWmaoKxzNLPqj9GuW2-69" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="850" width="897" x="1160" y="2635.75" as="geometry" />
