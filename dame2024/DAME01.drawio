@@ -17061,19 +17061,16 @@
           <mxGeometry height="35" width="102.16" x="359.73999999999995" y="2845.5" as="geometry" />
         </mxCell>
         <mxCell id="WNb-M6v995XTbJl4uWub-2" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标体系建模管理" vertex="1">
-          <mxGeometry height="35" width="109.26" x="483.9" y="2845.5" as="geometry" />
+          <mxGeometry height="35" width="109.26" x="517" y="2845.5" as="geometry" />
         </mxCell>
         <mxCell id="WNb-M6v995XTbJl4uWub-3" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标责任体系管理" vertex="1">
-          <mxGeometry height="35" width="105.76" x="612.9" y="2845.5" as="geometry" />
+          <mxGeometry height="35" width="105.76" x="680" y="2845.75" as="geometry" />
         </mxCell>
         <mxCell id="WNb-M6v995XTbJl4uWub-6" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="指标体系管理" vertex="1">
           <mxGeometry height="21.75" width="105.36" x="336.38" y="2812.75" as="geometry" />
         </mxCell>
-        <mxCell id="WNb-M6v995XTbJl4uWub-8" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标资产与血缘管理" vertex="1">
-          <mxGeometry height="35" width="112.76" x="736.9" y="2845.5" as="geometry" />
-        </mxCell>
         <mxCell id="WNb-M6v995XTbJl4uWub-9" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标维护控制台" vertex="1">
-          <mxGeometry height="35" width="112.76" x="864.9" y="2845.5" as="geometry" />
+          <mxGeometry height="35" width="112.76" x="836.9" y="2845.5" as="geometry" />
         </mxCell>
         <mxCell id="VuWH5Ut-LjIHSfaRdbH8-0" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="153.75" width="154" x="151.24" y="2957" as="geometry" />
@@ -17081,11 +17078,8 @@
         <mxCell id="VuWH5Ut-LjIHSfaRdbH8-1" parent="6jn6YmWwWRkkZC9sP99k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="数据运维管理" vertex="1">
           <mxGeometry height="30" width="79" x="158.49" y="2963.88" as="geometry" />
         </mxCell>
-        <mxCell id="VuWH5Ut-LjIHSfaRdbH8-2" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="数据监控" vertex="1">
-          <mxGeometry height="30" width="120" x="163.99" y="2992.75" as="geometry" />
-        </mxCell>
         <mxCell id="VuWH5Ut-LjIHSfaRdbH8-3" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="操作权限" vertex="1">
-          <mxGeometry height="24.5" width="120" x="163.99" y="3039.5" as="geometry" />
+          <mxGeometry height="24.5" width="120" x="163.99" y="2998.5" as="geometry" />
         </mxCell>
         <mxCell id="VuWH5Ut-LjIHSfaRdbH8-4" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="200" width="154" x="147.99" y="2741.25" as="geometry" />
@@ -17102,8 +17096,8 @@
         <mxCell id="VuWH5Ut-LjIHSfaRdbH8-8" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;legacyAnchorPoints=0;" value="日志审计" vertex="1">
           <mxGeometry height="30" width="120" x="164.99" y="2896.25" as="geometry" />
         </mxCell>
-        <mxCell id="VuWH5Ut-LjIHSfaRdbH8-9" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="任务调度" vertex="1">
-          <mxGeometry height="24.5" width="120" x="162.25" y="3080.25" as="geometry" />
+        <mxCell id="VuWH5Ut-LjIHSfaRdbH8-9" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="调度管理" vertex="1">
+          <mxGeometry height="24.5" width="120" x="162.25" y="3038.25" as="geometry" />
         </mxCell>
         <mxCell id="SZLawE74CuMiFepwaxAZ-0" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
           <mxGeometry height="129" width="661.9" x="328.1" y="2918" as="geometry" />
@@ -17170,6 +17164,9 @@
         </mxCell>
         <mxCell id="Kwg_4AE-bMtNyO1j_2cs-5" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="本体服务" vertex="1">
           <mxGeometry height="35" width="112.76" x="857.24" y="2742.75" as="geometry" />
+        </mxCell>
+        <mxCell id="i2I4WOaYOWRNGnY82YUo-0" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="数据监控" vertex="1">
+          <mxGeometry height="24.5" width="120" x="163.99" y="3078.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
