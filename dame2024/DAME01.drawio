@@ -17277,7 +17277,7 @@
           <mxGeometry height="81" width="664.44" x="460" y="4568" as="geometry" />
         </mxCell>
         <mxCell id="q7nX9mgLkOIVTmH_DjIW-82" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="多源异构数据融合" vertex="1">
-          <mxGeometry height="35" width="96.26" x="497.8" y="4602.75" as="geometry" />
+          <mxGeometry height="35" width="104.06" x="490" y="4602.75" as="geometry" />
         </mxCell>
         <mxCell id="q7nX9mgLkOIVTmH_DjIW-83" parent="6jn6YmWwWRkkZC9sP99k-1" style="rounded=1;whiteSpace=wrap;html=1;" value="清洗转换" vertex="1">
           <mxGeometry height="35" width="96.26" x="627.44" y="4602.75" as="geometry" />
