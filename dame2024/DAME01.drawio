@@ -15850,7 +15850,7 @@
           <mxGeometry height="30" width="200" x="806.62" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RESTful / gRPC 通信" vertex="1">
-          <mxGeometry height="50" width="129.8" x="690.2" y="1670" as="geometry" />
+          <mxGeometry height="50" width="129.8" x="694.85" y="1669.25" as="geometry" />
         </mxCell>
         <mxCell id="D3vu1JNKHMVY4SPY6M_0-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DS-Server" vertex="1">
           <mxGeometry height="50" width="130" x="1009" y="1670" as="geometry" />
@@ -20495,7 +20495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M8wA8l464Ciaj87r35tt" name="第 17 页">
-    <mxGraphModel dx="984" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25138,10 +25138,154 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cJ0FgtfjWSrtLeVeqrSI" name="第 33 页">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECEFF1;strokeColor=#37474F;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="133.75" width="1130" x="310" y="786.25" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="82.5" width="720" x="710" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="82.5" width="360" x="340" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-50" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#37474F;" value="基础组件框架" vertex="1">
+          <mxGeometry height="30" width="200" x="320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#0D47A1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="100" width="1120" x="320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-52" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#0D47A1;" value="Level 6: 顶层展示与APP层" vertex="1">
+          <mxGeometry height="20" width="220" x="330" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1976D2;align=center;fontSize=11;" value="前端展示与响应式UI&lt;br&gt;采用Vue、HTML5/CSS3构建，&lt;br&gt;保持不同端下运营的完美呈现" vertex="1">
+          <mxGeometry height="60" width="200" x="340" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1976D2;align=center;fontSize=11;" value="后端WEB框架&lt;br&gt;提供高效的非阻塞I/O支持，&lt;br&gt;保障前端与服务的快速交互" vertex="1">
+          <mxGeometry height="60" width="200" x="570" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1976D2;align=center;fontSize=11;" value="NodeJS提供&lt;br&gt;容灾高可用与DevOps" vertex="1">
+          <mxGeometry height="60" width="200" x="800" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1976D2;align=center;fontSize=11;" value="Spring Boot/Cloud微服务体系" vertex="1">
+          <mxGeometry height="60" width="200" x="1030" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8E1;strokeColor=#FF6F00;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="100" width="1120" x="320" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-58" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#FF6F00;" value="Level 5: 服务与接口层" vertex="1">
+          <mxGeometry height="20" width="180" x="330" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFA000;align=center;fontSize=11;" value="核心服务网关与DS-Server&lt;br&gt;统一入口管理，DS-Server提供&lt;br&gt;标准化的数据服务接口" vertex="1">
+          <mxGeometry height="60" width="220" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFA000;align=center;fontSize=11;" value="融合查询与多范式通信&lt;br&gt;SeaServer支持跨源融合查询，&lt;br&gt;支持RESTful与gRPC协议满足秒级响应需求" vertex="1">
+          <mxGeometry height="60" width="240" x="590" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFA000;align=center;fontSize=11;" value="Prometheus监控" vertex="1">
+          <mxGeometry height="60" width="150" x="860" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFA000;align=center;fontSize=11;" value="Nacos配置中心" vertex="1">
+          <mxGeometry height="60" width="150" x="1040" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="100" width="1120" x="320" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-64" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#2E7D32;" value="Level 4: 执行与调度层" vertex="1">
+          <mxGeometry height="20" width="180" x="330" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#388E3C;align=center;fontSize=11;" value="统一执行引擎SeaCrab&lt;br&gt;作为架构的中枢，负责任务的&lt;br&gt;统一执行协调与资源调度" vertex="1">
+          <mxGeometry height="60" width="220" x="340" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#388E3C;align=center;fontSize=11;" value="融合查询与调度引擎&lt;br&gt;实现复杂业务场景下的&lt;br&gt;语义化查询优化与多任务并发调度" vertex="1">
+          <mxGeometry height="60" width="240" x="590" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#388E3C;align=center;fontSize=11;" value="LVS/HAProxy/Nginx&lt;br&gt;负载均衡" vertex="1">
+          <mxGeometry height="60" width="150" x="860" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#388E3C;align=center;fontSize=11;" value="MyBatis持久层" vertex="1">
+          <mxGeometry height="60" width="150" x="1040" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#6A1B9A;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="80" width="1120" x="320" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-70" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#6A1B9A;" value="Level 3: 计算引擎层" vertex="1">
+          <mxGeometry height="20" width="180" x="330" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8E24AA;align=center;fontSize=11;" value="流批一体化计算&lt;br&gt;实现离线数仓与实时流计算的统一" vertex="1">
+          <mxGeometry height="40" width="240" x="340" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8E24AA;align=center;fontSize=11;" value="轻量级处理引擎Datafusion&lt;br&gt;提供极速的轻量级数据处理能力" vertex="1">
+          <mxGeometry height="40" width="280" x="610" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFEBEE;strokeColor=#C62828;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="100" width="1120" x="320" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-74" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#C62828;" value="Level 2: 数据采集接入层" vertex="1">
+          <mxGeometry height="20" width="200" x="330" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D32F2F;align=center;fontSize=12;fontStyle=1;" value="星站网" vertex="1">
+          <mxGeometry height="50" width="100" x="340" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D32F2F;align=center;fontSize=11;" value="SeaCrab标准化连接器&lt;br&gt;负责接入星、站、网多源异构数据" vertex="1">
+          <mxGeometry height="50" width="200" x="580" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D32F2F;align=center;fontSize=11;" value="异构协议适配&lt;br&gt;MQTT、HTTP、S3、SFTP/FTP、MQTT" vertex="1">
+          <mxGeometry height="50" width="200" x="920" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-80" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#37474F;" value="Level 1: 底层云设施与存储区" vertex="1">
+          <mxGeometry height="20" width="190" x="360" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-81" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#37474F;" value="基础设施支撑" vertex="1">
+          <mxGeometry height="20" width="120" x="360" y="817.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;" value="裸金属服务器" vertex="1">
+          <mxGeometry height="51.25" width="100" x="350" y="844" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;" value="K8s容器云" vertex="1">
+          <mxGeometry height="51.25" width="100" x="470" y="844" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;" value="Yarn资源调度器" vertex="1">
+          <mxGeometry height="51.25" width="100" x="590" y="844" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-85" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#37474F;" value="分类化数据存储" vertex="1">
+          <mxGeometry height="20" width="120" x="730" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;fontSize=10;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;关系型&lt;/font&gt;&lt;/b&gt;&lt;br&gt;达梦、OpenGauss" vertex="1">
+          <mxGeometry height="48.75" width="100" x="720" y="847" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分析性&lt;/b&gt;&lt;/font&gt;&lt;div&gt;Doris&lt;/div&gt;" vertex="1">
+          <mxGeometry height="51.25" width="80" x="835" y="847" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;fontSize=10;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;时序缓存&lt;/font&gt;&lt;/b&gt;&lt;br&gt;InfluxDB, Redis" vertex="1">
+          <mxGeometry height="50" width="90" x="928" y="846.375" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;fontSize=10;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;搜索图库&lt;/b&gt;&lt;/font&gt;&lt;br&gt;ES, Nebula" vertex="1">
+          <mxGeometry height="50" width="80" x="1035" y="846.375" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;消息队列&lt;/b&gt;&lt;/font&gt;&lt;div&gt;Kafka&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47.5" width="80" x="1137" y="847.625" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;fontSize=10;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据湖&lt;/b&gt;&lt;/font&gt;&lt;div&gt;IceBerg/Paimon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="1340" y="846.375" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-92" edge="1" parent="1" source="KlPZG4DQKL20hYnZ43YY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#90A4AE;strokeWidth=1;dashed=1;endArrow=none;" target="KlPZG4DQKL20hYnZ43YY-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-93" edge="1" parent="1" source="KlPZG4DQKL20hYnZ43YY-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#90A4AE;strokeWidth=1;dashed=1;endArrow=none;" target="KlPZG4DQKL20hYnZ43YY-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-94" edge="1" parent="1" source="KlPZG4DQKL20hYnZ43YY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#90A4AE;strokeWidth=1;dashed=1;endArrow=none;" target="KlPZG4DQKL20hYnZ43YY-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-95" edge="1" parent="1" source="KlPZG4DQKL20hYnZ43YY-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#90A4AE;strokeWidth=1;dashed=1;endArrow=none;" target="KlPZG4DQKL20hYnZ43YY-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;fontSize=10;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;文件/对象存储&lt;/font&gt;&lt;/b&gt;&lt;br&gt;HDFS/OSS" vertex="1">
+          <mxGeometry height="50" width="100" x="1228" y="846.375" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
