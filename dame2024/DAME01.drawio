@@ -25143,7 +25143,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KlPZG4DQKL20hYnZ43YY-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECEFF1;strokeColor=#37474F;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="133.75" width="1130" x="310" y="786.25" as="geometry" />
+          <mxGeometry height="133.75" width="1110" x="330" y="786.25" as="geometry" />
         </mxCell>
         <mxCell id="KlPZG4DQKL20hYnZ43YY-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="82.5" width="720" x="710" y="820" as="geometry" />
@@ -25256,7 +25256,7 @@
         <mxCell id="KlPZG4DQKL20hYnZ43YY-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;fontSize=10;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;关系型&lt;/font&gt;&lt;/b&gt;&lt;br&gt;达梦、OpenGauss" vertex="1">
           <mxGeometry height="48.75" width="100" x="720" y="847" as="geometry" />
         </mxCell>
-        <mxCell id="KlPZG4DQKL20hYnZ43YY-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分析性&lt;/b&gt;&lt;/font&gt;&lt;div&gt;Doris&lt;/div&gt;" vertex="1">
+        <mxCell id="KlPZG4DQKL20hYnZ43YY-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分析型&lt;/b&gt;&lt;/font&gt;&lt;div&gt;Doris&lt;/div&gt;" vertex="1">
           <mxGeometry height="51.25" width="80" x="835" y="847" as="geometry" />
         </mxCell>
         <mxCell id="KlPZG4DQKL20hYnZ43YY-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;fontSize=10;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;时序缓存&lt;/font&gt;&lt;/b&gt;&lt;br&gt;InfluxDB, Redis" vertex="1">
