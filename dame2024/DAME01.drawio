@@ -25275,7 +25275,7 @@
           <mxGeometry height="20" width="70" x="1040" y="566.5" as="geometry" />
         </mxCell>
         <mxCell id="KlPZG4DQKL20hYnZ43YY-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#546E7A;align=center;fontSize=14;" value="Datafusion（轻量级）" vertex="1">
-          <mxGeometry height="41.25" width="133" x="1080" y="592.5" as="geometry" />
+          <mxGeometry height="41.25" width="140" x="1080" y="592.5" as="geometry" />
         </mxCell>
         <mxCell id="KlPZG4DQKL20hYnZ43YY-123" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#90A4AE;strokeWidth=1;dashed=1;endArrow=none;fontSize=14;">
           <mxGeometry relative="1" as="geometry">
