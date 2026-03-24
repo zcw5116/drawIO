@@ -25601,7 +25601,7 @@
           <mxGeometry height="30" width="600" x="740" y="610" as="geometry" />
         </mxCell>
         <mxCell id="gzIYqvAvT7b42ATZBffo-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d2818;strokeColor=#16a34a;strokeWidth=1;arcSize=4;" value="" vertex="1">
-          <mxGeometry height="310" width="2420" x="740" y="650" as="geometry" />
+          <mxGeometry height="310" width="2420" x="700" y="710" as="geometry" />
         </mxCell>
         <mxCell id="gzIYqvAvT7b42ATZBffo-62" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=0;strokeColor=none;fillColor=none;" value="&lt;font style=&#39;font-size:14px;font-weight:bold;color:#86efac;&#39;&gt;管道定义流转 Pipeline Definition Flow&lt;/font&gt;" vertex="1">
           <mxGeometry height="25" width="400" x="760" y="658" as="geometry" />
@@ -26033,7 +26033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nwgaFWTgW6eQQElGkAYh" name="26年研讨会材料">
-    <mxGraphModel dx="1188" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26286,9 +26286,6 @@
         <mxCell id="7ooW8jzvhY4QyJ1pcTe0-1" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=0;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; font-weight: bold; color: rgb(74, 222, 128);&quot;&gt;🧩管道构建器（逻辑定义层）&lt;/font&gt;&lt;font style=&quot;font-size: 12px; color: rgb(134, 239, 172);&quot;&gt;  Pipeline Builder&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="600" x="87.5" y="94" as="geometry" />
         </mxCell>
-        <mxCell id="DI46iNsXVHt0-THF4LSb-1" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=0;strokeColor=none;fillColor=none;" value="&lt;font style=&#39;font-size:14px;font-weight:bold;color:#86efac;&#39;&gt;管道定义流转 Pipeline Definition Flow&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="400" x="24.5" y="30" as="geometry" />
-        </mxCell>
         <mxCell id="lqNqrsQ3sohA6L0kivNP-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="180" x="113" y="128" as="geometry" />
         </mxCell>
@@ -26411,6 +26408,48 @@
         </mxCell>
         <mxCell id="nOlU8599T1ULc1j8gsPP-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="转换插件SDK" vertex="1">
           <mxGeometry height="25" width="139" x="637" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgGvqUri26CHFJsYQ6Fm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="770" x="80" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePpuRyoapOoKgBvxPu15-1" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=0;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; font-weight: bold; color: rgb(56, 189, 248);&quot;&gt;📊 表现层与工作台&lt;/font&gt;&lt;font style=&quot;font-size: 12px; color: rgb(125, 211, 252);&quot;&gt;  Presentation &amp;amp; Workbench&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px; color: rgb(100, 116, 139);&quot;&gt;用户与系统交互的可视化前端&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="600" x="92" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePpuRyoapOoKgBvxPu15-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="155.5" x="94.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ePpuRyoapOoKgBvxPu15-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="可视化DAG画布编辑器" vertex="1">
+          <mxGeometry height="30" width="150" x="96.5" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="ePpuRyoapOoKgBvxPu15-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;拖拽式组件连线&lt;/div&gt;&lt;div&gt;构建数据管道&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="149" x="89" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHM9g4G6Zao2WCJvkh58-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="155.5" x="297.5" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="EHM9g4G6Zao2WCJvkh58-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="数据预览与探索工作台" vertex="1">
+          <mxGeometry height="30" width="150" x="299.5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="EHM9g4G6Zao2WCJvkh58-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;拖拽式组件连线&lt;/div&gt;&lt;div&gt;构建数据管道&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="149" x="292" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ruBSbGAL50QT4iEIpiwo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="155.5" x="465.5" y="9.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ruBSbGAL50QT4iEIpiwo-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="血缘可视化图谱" vertex="1">
+          <mxGeometry height="30" width="150" x="467.5" y="6.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ruBSbGAL50QT4iEIpiwo-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;拖拽式组件连线&lt;/div&gt;&lt;div&gt;构建数据管道&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="149" x="460" y="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-XShy1bUHkWHVEYd3xTf-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="155.5" x="663.13" y="9.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-XShy1bUHkWHVEYd3xTf-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="血缘可视化图谱" vertex="1">
+          <mxGeometry height="30" width="150" x="665.13" y="6.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-XShy1bUHkWHVEYd3xTf-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;拖拽式组件连线&lt;/div&gt;&lt;div&gt;构建数据管道&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="149" x="657.63" y="29.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
