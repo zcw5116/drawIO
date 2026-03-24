@@ -26500,19 +26500,19 @@
           <mxGeometry height="55" width="181" x="-140.5" y="853.5" as="geometry" />
         </mxCell>
         <mxCell id="j9na0VBdtPl-cPmLVHdj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="324" width="213" x="873" y="36" as="geometry" />
+          <mxGeometry height="324" width="227" x="873" y="36" as="geometry" />
         </mxCell>
         <mxCell id="j9na0VBdtPl-cPmLVHdj-4" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=1;points=[];autosize=0;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 16px; font-weight: bold; color: rgb(168, 85, 247);&quot;&gt;⚙ 管道编排与调度中枢&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px; color: rgb(119, 102, 136);&quot;&gt;管理整体平台的任务流转&lt;/font&gt;" vertex="1">
           <mxGeometry height="55" width="216" x="870" y="41" as="geometry" />
         </mxCell>
         <mxCell id="j9na0VBdtPl-cPmLVHdj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1a6fb5;arcSize=12;" value="&lt;font&gt;⚡ &lt;b&gt;事件驱动触发&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px; color: rgb(176, 160, 192);&quot;&gt;数据到达 / 外部事件 / Webhook&lt;br&gt;自动触发管道执行&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="183" x="885" y="86" as="geometry" />
+          <mxGeometry height="60" width="183" x="893" y="86" as="geometry" />
         </mxCell>
         <mxCell id="j9na0VBdtPl-cPmLVHdj-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1a6fb5;arcSize=12;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font&gt;🕐 &lt;b&gt;定时调度&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px; color: rgb(176, 160, 192);&quot;&gt;Cron表达式 / 周期调度&lt;br&gt;时间窗口与SLA管理&lt;/font&gt;" vertex="1">
-          <mxGeometry height="55" width="181" x="885" y="157" as="geometry" />
+          <mxGeometry height="55" width="181" x="893" y="157" as="geometry" />
         </mxCell>
         <mxCell id="j9na0VBdtPl-cPmLVHdj-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1a6fb5;arcSize=12;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font&gt;🔄 &lt;b&gt;任务流编排控制&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px; color: rgb(176, 160, 192);&quot;&gt;DAG依赖编排 / 重试策略&lt;br&gt;并行度控制&lt;br&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="55" width="181" x="885" y="224.5" as="geometry" />
+          <mxGeometry height="55" width="181" x="893" y="224.5" as="geometry" />
         </mxCell>
         <mxCell id="j9na0VBdtPl-cPmLVHdj-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="134.5" width="212" x="881" y="428.5" as="geometry" />
@@ -26527,7 +26527,7 @@
           <mxGeometry height="35.5" width="181" x="896.5" y="516.5" as="geometry" />
         </mxCell>
         <mxCell id="K18BbNUEcB1ec_CDMnHs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1a6fb5;arcSize=12;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;📊 &lt;b style=&quot;&quot;&gt;运行监控与日志&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;&lt;font style=&quot;color: rgb(176, 160, 192);&quot;&gt;实时状态追踪 / 运行时指标&lt;br&gt;错误日志聚合 / 耗时分析&lt;/font&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="55" width="181" x="886" y="293" as="geometry" />
+          <mxGeometry height="55" width="181" x="894" y="293" as="geometry" />
         </mxCell>
         <mxCell id="lxO4KE5IrvoPzB_7xxmW-1" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=1;points=[];autosize=0;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 16px; font-weight: bold; color: rgb(239, 68, 68);&quot;&gt;🔐 全局安全与管控体系&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px; color: rgb(136, 102, 102);&quot;&gt;贯穿全链路的安全保护网&lt;/font&gt;" vertex="1">
           <mxGeometry height="65" width="237" x="850" y="377.5" as="geometry" />
