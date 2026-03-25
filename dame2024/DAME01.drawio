@@ -26807,9 +26807,6 @@
             <mxPoint x="506" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hlNdRP0RovriTVYfcrPk-107" parent="1" style="text;whiteSpace=wrap;" value="在管道构建器（逻辑定义层）算子组件库（标准算子如行级、表级、LLM大模型算子；业务组件如指标口径、告警归一）进行数据融合与清洗逻辑的编写" vertex="1">
-          <mxGeometry height="50" width="560" x="685.5" y="2030" as="geometry" />
-        </mxCell>
         <mxCell id="hlNdRP0RovriTVYfcrPk-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=22;fontFamily=Helvetica;fontColor=default;" value="&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;在管道构建器（逻辑定义层）算子组件库（标准算子如行级、表级、LLM大模型算子；业务组件如指标口径、告警归一）进行数据融合与清洗逻辑的编写&lt;/span&gt;" vertex="1">
           <mxGeometry height="49" width="292" x="816" y="1561" as="geometry" />
         </mxCell>
@@ -26818,6 +26815,9 @@
         </mxCell>
         <mxCell id="hlNdRP0RovriTVYfcrPk-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=22;" value="计算引擎按需选择&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;根据数据的规则，按需选择计算引擎&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="219.42" x="1368.71" y="1571" as="geometry" />
+        </mxCell>
+        <mxCell id="hlNdRP0RovriTVYfcrPk-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=22;" value="多态结果输出&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;最终生成动态 Output 数据集，供上层应用调用使用&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="219.42" x="1620" y="1561" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
