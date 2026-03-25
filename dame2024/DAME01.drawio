@@ -25410,7 +25410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I10K3vFmsz2fGC-5mPjp" name="第 34 页">
-    <mxGraphModel dx="983" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25580,7 +25580,7 @@
           <mxGeometry height="60" width="60" x="1460" y="450" as="geometry" />
         </mxCell>
         <mxCell id="gzIYqvAvT7b42ATZBffo-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c4a6e;strokeColor=#0284c7;arcSize=10;shadow=1;" value="&lt;font style=&#39;font-size:13px;font-weight:bold;color:#e0f2fe;&#39;&gt;📈 监控仪表板&lt;/font&gt;&lt;br&gt;&lt;font style=&#39;font-size:10px;color:#94a3b8;&#39;&gt;全局管道运行健康度监控&lt;br&gt;实时指标大屏&lt;/font&gt;" vertex="1">
-          <mxGeometry height="90" width="280" x="1680" y="350" as="geometry" />
+          <mxGeometry height="90" width="280" x="1700" y="350" as="geometry" />
         </mxCell>
         <mxCell id="gzIYqvAvT7b42ATZBffo-56" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=0;strokeColor=none;fillColor=none;" value="&lt;font style=&#39;font-size:40px;&#39;&gt;📊&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="60" x="1770" y="450" as="geometry" />
@@ -26030,7 +26030,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nwgaFWTgW6eQQElGkAYh" name="26年研讨会材料">
-    <mxGraphModel dx="2505" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26430,7 +26430,7 @@
         <mxCell id="EHM9g4G6Zao2WCJvkh58-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="数据预览与探索工作台" vertex="1">
           <mxGeometry height="30" width="150" x="288.5" y="78.5" as="geometry" />
         </mxCell>
-        <mxCell id="EHM9g4G6Zao2WCJvkh58-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;拖拽式组件连线&lt;/div&gt;&lt;div&gt;构建数据管道&lt;/div&gt;" vertex="1">
+        <mxCell id="EHM9g4G6Zao2WCJvkh58-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;联动数据融合引擎&lt;/div&gt;&lt;div&gt;所见即所得的数据探查&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="149" x="281" y="101.5" as="geometry" />
         </mxCell>
         <mxCell id="ruBSbGAL50QT4iEIpiwo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -26439,7 +26439,7 @@
         <mxCell id="ruBSbGAL50QT4iEIpiwo-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="血缘可视化图谱" vertex="1">
           <mxGeometry height="30" width="150" x="481.5" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="ruBSbGAL50QT4iEIpiwo-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;拖拽式组件连线&lt;/div&gt;&lt;div&gt;构建数据管道&lt;/div&gt;" vertex="1">
+        <mxCell id="ruBSbGAL50QT4iEIpiwo-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;动态展示数据链路流向&lt;/div&gt;&lt;div&gt;端到端血缘追踪&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="149" x="474" y="103" as="geometry" />
         </mxCell>
         <mxCell id="-XShy1bUHkWHVEYd3xTf-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
