@@ -26034,6 +26034,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5yE9j5kRZMUsV4UGCMxo-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="870" width="897" x="33" y="1970" as="geometry" />
+        </mxCell>
         <mxCell id="lxO4KE5IrvoPzB_7xxmW-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="624" width="230" x="870" y="375" as="geometry" />
         </mxCell>
@@ -26919,6 +26922,9 @@
         </mxCell>
         <mxCell id="5yE9j5kRZMUsV4UGCMxo-24" edge="1" parent="1" source="ENhEPihYMJOO18LYAO5C-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" target="5yE9j5kRZMUsV4UGCMxo-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yE9j5kRZMUsV4UGCMxo-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#000066;strokeColor=#3700CC;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;核心架构模型（三层竖向架构）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="897" x="33" y="1970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
