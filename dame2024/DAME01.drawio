@@ -26030,7 +26030,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nwgaFWTgW6eQQElGkAYh" name="26年研讨会材料">
-    <mxGraphModel dx="5117" dy="2337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1997" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27242,7 +27242,7 @@
         <mxCell id="5yE9j5kRZMUsV4UGCMxo-224" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="&lt;font&gt;业务组件(领域级)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="115" x="1678.8300000000002" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="5yE9j5kRZMUsV4UGCMxo-225" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: left;&quot;&gt;清洗/规范化/Join/聚合等标准能力&lt;/span&gt;" vertex="1">
+        <mxCell id="5yE9j5kRZMUsV4UGCMxo-225" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: left;&quot;&gt;解决“业务规则可沉淀可复用”&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="125.5" x="1673.5800000000002" y="338.5" as="geometry" />
         </mxCell>
         <mxCell id="5yE9j5kRZMUsV4UGCMxo-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
