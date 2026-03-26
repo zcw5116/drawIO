@@ -26030,7 +26030,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nwgaFWTgW6eQQElGkAYh" name="26年研讨会材料">
-    <mxGraphModel dx="2807" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2543" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26583,11 +26583,15 @@
         </mxCell>
         <mxCell id="hlNdRP0RovriTVYfcrPk-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="5yE9j5kRZMUsV4UGCMxo-255">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1422" />
+              <mxPoint x="160" y="1331" />
+            </Array>
             <mxPoint x="61.11999999999989" y="1422.0000000000005" as="sourcePoint" />
             <mxPoint x="250" y="1318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hlNdRP0RovriTVYfcrPk-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="5yE9j5kRZMUsV4UGCMxo-255">
+        <mxCell id="hlNdRP0RovriTVYfcrPk-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.004;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;" target="5yE9j5kRZMUsV4UGCMxo-255">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="62.000000000000455" y="1539" as="sourcePoint" />
             <mxPoint x="280" y="1380" as="targetPoint" />
