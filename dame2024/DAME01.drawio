@@ -25410,7 +25410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I10K3vFmsz2fGC-5mPjp" name="两江数据流程">
-    <mxGraphModel dx="2411" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3021" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25486,11 +25486,11 @@
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-24" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=0;" value="Lambda 架构的核心痛点&lt;div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;同一个指标，两套代码 → 开发成本 ×2&lt;/li&gt;&lt;li&gt;同一份数据，两条链路 → 运维成本 ×2&lt;/li&gt;&lt;li&gt;同一个结果，两个答案 → 对数成本 ×∞&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="410" x="-30" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=12;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=14;" value="本质痛点：&#xa;&#xa;❌ 同一个指标，两套代码 → 开发成本 ×2&#xa;❌ 同一份数据，两条链路 → 运维成本 ×2&#xa;❌ 同一个结果，两个答案 → 对数成本 ×∞&#xa;&#xa;一句话：花了两倍的钱，还得天天对数！&#xa;&#xa;归根到底就一个字：分裂" vertex="1">
-          <mxGeometry height="165" width="920" x="10" y="1815" as="geometry" />
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="3、阶段2：Lambda架构" vertex="1">
+          <mxGeometry height="40" width="220" x="-50" y="1280" as="geometry" />
         </mxCell>
-        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="3、阶段2：Kappa架构" vertex="1">
-          <mxGeometry height="40" width="200" x="-40" y="1280" as="geometry" />
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-46" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="Kappa 架构（横向）—— 统一流处理 + 可重放日志" vertex="1">
+          <mxGeometry height="30" width="640" x="230" y="1310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
