@@ -25410,12 +25410,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I10K3vFmsz2fGC-5mPjp" name="两江数据流程">
-    <mxGraphModel dx="2123" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2411" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="1、传统数仓架构（2010年前的主流）" vertex="1">
-          <mxGeometry height="40" width="330" x="-45" y="105" as="geometry" />
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="1、阶段1：传统数仓架构（2010年前的主流）" vertex="1">
+          <mxGeometry height="40" width="390" x="-75" y="105" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="业务数据库&#xa;&#xa;MySQL&#xa;Oracle&#xa;DB2" vertex="1">
           <mxGeometry height="170" width="180" x="-30" y="160" as="geometry" />
@@ -25440,6 +25440,57 @@
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-9" parent="1" style="text;whiteSpace=wrap;" value="这个架构在2010年前完全够用，因为那个年代的业务需求就是：&#xa;月报、周报、日报&#xa;财务对账&#xa;经营分析" vertex="1">
           <mxGeometry height="80" width="370" x="-30" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="2、阶段2：Lambda架构" vertex="1">
+          <mxGeometry height="40" width="220" x="-70" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-11" parent="1" style="text;whiteSpace=wrap;fontSize=14;" value="Lambda 架构出现的背景：&#xa;1、数据量爆炸，传统数仓（Oracle/TD）扛不住了，被迫转向大数据技术Hadoop/Hive等，做离线计算&#xa;2、业务实时化需求&#xa;&#xa;架构选项：&#xa;1、只用批处理：一般使用Hadoop/Hive存储数据，数据处理延迟大，实时性无法保证。 &#xa;2、只用实时处理：一般使用Kafka对接原始数据，流处理只能处理“现在”流经的数据，无法重算历史。即使使用状态存储，但是状态的容量也是有限的。&#xa;" vertex="1">
+          <mxGeometry height="130" width="1040" x="-50" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="Lambda 架构 —— 两条链路（批 + 流）" vertex="1">
+          <mxGeometry height="30" width="420" x="190" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="数据源&#xa;(业务系统/日志/IoT)" vertex="1">
+          <mxGeometry height="120" width="180" x="-70" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="Batch Layer&#xa;(Hadoop / Spark 批处理)&#xa;&#xa;全量数据&#xa;T+1&#xa;保证准确" vertex="1">
+          <mxGeometry height="100" width="300" x="230" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" value="Speed Layer&lt;br&gt;(Spark Streaming/ Flink 实时处理)&lt;br&gt;&lt;br&gt;增量数据&lt;br&gt;秒级&lt;br&gt;可能有误差" vertex="1">
+          <mxGeometry height="100" width="300" x="230" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="Serving Layer&#xa;(合并批 + 流结果)&#xa;&#xa;HBase / Redis / ES / ClickHouse" vertex="1">
+          <mxGeometry height="150" width="300" x="630" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="查询/应用&#xa;BI/实时大屏/风控" vertex="1">
+          <mxGeometry height="120" width="170" x="960" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-18" edge="1" parent="1" source="oPrJ9vK6zr8dX3Xsh4a6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="oPrJ9vK6zr8dX3Xsh4a6-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-19" edge="1" parent="1" source="oPrJ9vK6zr8dX3Xsh4a6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="oPrJ9vK6zr8dX3Xsh4a6-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-20" edge="1" parent="1" source="oPrJ9vK6zr8dX3Xsh4a6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=13;" target="oPrJ9vK6zr8dX3Xsh4a6-16" value="批结果">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-21" edge="1" parent="1" source="oPrJ9vK6zr8dX3Xsh4a6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=13;" target="oPrJ9vK6zr8dX3Xsh4a6-16" value="实时增量">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-22" edge="1" parent="1" source="oPrJ9vK6zr8dX3Xsh4a6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="oPrJ9vK6zr8dX3Xsh4a6-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-23" parent="1" style="text;whiteSpace=wrap;fontSize=19;" value="批处理层：用Spark/Hive老老实实跑全量，数据准但慢&#xa;速度层：用Flink/Spark Streaming跑实时流，数据快但可能不太准&#xa;服务层：把两边结果合并，对外提供服务" vertex="1">
+          <mxGeometry height="70" width="620" x="-30" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-24" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=0;" value="Lambda 架构的核心痛点&lt;div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;同一个指标，两套代码 → 开发成本 ×2&lt;/li&gt;&lt;li&gt;同一份数据，两条链路 → 运维成本 ×2&lt;/li&gt;&lt;li&gt;同一个结果，两个答案 → 对数成本 ×∞&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="410" x="-30" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=12;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=14;" value="本质痛点：&#xa;&#xa;❌ 同一个指标，两套代码 → 开发成本 ×2&#xa;❌ 同一份数据，两条链路 → 运维成本 ×2&#xa;❌ 同一个结果，两个答案 → 对数成本 ×∞&#xa;&#xa;一句话：花了两倍的钱，还得天天对数！&#xa;&#xa;归根到底就一个字：分裂" vertex="1">
+          <mxGeometry height="165" width="920" x="10" y="1815" as="geometry" />
+        </mxCell>
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="3、阶段2：Kappa架构" vertex="1">
+          <mxGeometry height="40" width="200" x="-40" y="1280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
