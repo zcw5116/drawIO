@@ -25410,7 +25410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I10K3vFmsz2fGC-5mPjp" name="两江数据流程">
-    <mxGraphModel dx="2348" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2411" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25421,9 +25421,9 @@
           <mxGeometry height="125" width="220" x="209" y="540" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="1、阶段1：传统数仓架构（2010年前的主流）" vertex="1">
-          <mxGeometry height="40" width="390" x="-75" y="105" as="geometry" />
+          <mxGeometry height="40" width="390" x="-75" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="业务数据库&#xa;&#xa;MySQL&#xa;Oracle&#xa;DB2" vertex="1">
+        <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="170" width="180" x="-30" y="160" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="ETL（每天凌晨跑批）&#xa;&#xa;Informatica&#xa;DataStage&#xa;Kettle" vertex="1">
@@ -25448,37 +25448,37 @@
           <mxGeometry height="80" width="370" x="-30" y="340" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="2、阶段2：Lambda架构" vertex="1">
-          <mxGeometry height="40" width="220" x="-40" y="1840" as="geometry" />
+          <mxGeometry height="40" width="220" x="-41" y="2820" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-11" parent="1" style="text;whiteSpace=wrap;fontSize=14;" value="Lambda 架构出现的背景：&#xa;1、数据量爆炸，传统数仓（Oracle/TD）扛不住了，被迫转向大数据技术Hadoop/Hive等，做离线计算&#xa;2、业务实时化需求&#xa;&#xa;架构选项：&#xa;1、只用批处理：一般使用Hadoop/Hive存储数据，数据处理延迟大，实时性无法保证。 &#xa;2、只用实时处理：一般使用Kafka对接原始数据，流处理只能处理“现在”流经的数据，无法重算历史。即使使用状态存储，但是状态的容量也是有限的。&#xa;" vertex="1">
-          <mxGeometry height="130" width="1040" x="-75" y="1900" as="geometry" />
+          <mxGeometry height="130" width="1040" x="-76" y="2880" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="Lambda 架构 —— 两条链路（批 + 流）" vertex="1">
-          <mxGeometry height="30" width="420" x="165" y="2070" as="geometry" />
+          <mxGeometry height="30" width="420" x="164" y="3050" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="数据源&#xa;(业务系统/日志/IoT)" vertex="1">
-          <mxGeometry height="120" width="180" x="355" y="1750" as="geometry" />
+          <mxGeometry height="120" width="180" x="354" y="2730" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="Batch Layer&#xa;(Hadoop / Spark 批处理)&#xa;&#xa;全量数据&#xa;T+1&#xa;保证准确" vertex="1">
-          <mxGeometry height="100" width="300" x="205" y="2120" as="geometry" />
+          <mxGeometry height="100" width="300" x="204" y="3100" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" value="Speed Layer&lt;br&gt;(Spark Streaming/ Flink 实时处理)&lt;br&gt;&lt;br&gt;增量数据&lt;br&gt;秒级&lt;br&gt;可能有误差" vertex="1">
-          <mxGeometry height="100" width="300" x="205" y="2270" as="geometry" />
+          <mxGeometry height="100" width="300" x="204" y="3250" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="Serving Layer&#xa;(合并批 + 流结果)&#xa;&#xa;HBase / Redis / ES / ClickHouse" vertex="1">
-          <mxGeometry height="150" width="300" x="605" y="2180" as="geometry" />
+          <mxGeometry height="150" width="300" x="604" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="查询/应用&#xa;BI/实时大屏/风控" vertex="1">
-          <mxGeometry height="120" width="170" x="935" y="2195" as="geometry" />
+          <mxGeometry height="120" width="170" x="934" y="3175" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="oPrJ9vK6zr8dX3Xsh4a6-14" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="2240" as="sourcePoint" />
+            <mxPoint x="84" y="3220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-19" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="oPrJ9vK6zr8dX3Xsh4a6-15" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="2240" as="sourcePoint" />
+            <mxPoint x="84" y="3220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-20" edge="1" parent="1" source="oPrJ9vK6zr8dX3Xsh4a6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=13;" target="oPrJ9vK6zr8dX3Xsh4a6-16" value="批结果">
@@ -25491,16 +25491,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-23" parent="1" style="text;whiteSpace=wrap;fontSize=19;" value="批处理层：用Spark/Hive老老实实跑全量，数据准但慢&#xa;速度层：用Flink/Spark Streaming跑实时流，数据快但可能不太准&#xa;服务层：把两边结果合并，对外提供服务" vertex="1">
-          <mxGeometry height="70" width="620" x="-55" y="2390" as="geometry" />
+          <mxGeometry height="70" width="620" x="-56" y="3370" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-24" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=0;" value="Lambda 架构的核心痛点&lt;div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;同一个指标，两套代码 → 开发成本 ×2&lt;/li&gt;&lt;li&gt;同一份数据，两条链路 → 运维成本 ×2&lt;/li&gt;&lt;li&gt;同一个结果，两个答案 → 对数成本 ×∞&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="410" x="-55" y="2500" as="geometry" />
+          <mxGeometry height="150" width="410" x="-56" y="3480" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="3、阶段2：Kappa架构" vertex="1">
-          <mxGeometry height="40" width="200" x="-65" y="2690" as="geometry" />
+          <mxGeometry height="40" width="200" x="-66" y="3670" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-46" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="Kappa 架构（横向）—— 统一流处理 + 可重放日志" vertex="1">
-          <mxGeometry height="30" width="640" x="205" y="2720" as="geometry" />
+          <mxGeometry height="30" width="640" x="204" y="3700" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="2、阶段2：Lambda架构" vertex="1">
           <mxGeometry height="40" width="220" x="-70" y="450" as="geometry" />
@@ -25512,7 +25512,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据源&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(业务系统/日志/IoT)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="100" width="170" x="-60" y="617.5" as="geometry" />
+          <mxGeometry height="100" width="170" x="-27" y="617.5" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;流处理作业&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="170" x="235" y="562.5" as="geometry" />
@@ -25521,30 +25521,24 @@
           <mxGeometry height="80" width="170" x="234" y="727.5" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
-          <mxGeometry height="220" width="240" x="550" y="567.5" as="geometry" />
+          <mxGeometry height="220" width="240" x="506" y="568.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-16" edge="1" parent="1" source="URmRmxgSHJsLCqZVGsft-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E5C7xAZ5Y_pMY6cOiWmm-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;实时表&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="595" y="627.5" as="geometry" />
+          <mxGeometry height="60" width="150" x="551" y="628.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-17" edge="1" parent="1" source="URmRmxgSHJsLCqZVGsft-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;离线表&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="600" y="707.5" as="geometry" />
+          <mxGeometry height="60" width="150" x="556" y="708.5" as="geometry" />
         </mxCell>
-        <mxCell id="URmRmxgSHJsLCqZVGsft-10" edge="1" parent="1" source="URmRmxgSHJsLCqZVGsft-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="URmRmxgSHJsLCqZVGsft-7">
+        <mxCell id="URmRmxgSHJsLCqZVGsft-15" edge="1" parent="1" source="URmRmxgSHJsLCqZVGsft-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="URmRmxgSHJsLCqZVGsft-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="URmRmxgSHJsLCqZVGsft-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="APP" vertex="1">
-          <mxGeometry height="60" width="120" x="920" y="657.5" as="geometry" />
-        </mxCell>
-        <mxCell id="URmRmxgSHJsLCqZVGsft-9" edge="1" parent="1" source="URmRmxgSHJsLCqZVGsft-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" target="URmRmxgSHJsLCqZVGsft-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URmRmxgSHJsLCqZVGsft-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="查询" vertex="1">
-          <mxGeometry height="30" width="60" x="840" y="677.5" as="geometry" />
-        </mxCell>
-        <mxCell id="URmRmxgSHJsLCqZVGsft-15" edge="1" parent="1" source="URmRmxgSHJsLCqZVGsft-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="URmRmxgSHJsLCqZVGsft-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="URmRmxgSHJsLCqZVGsft-14" edge="1" parent="1" source="URmRmxgSHJsLCqZVGsft-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="URmRmxgSHJsLCqZVGsft-6">
+        <mxCell id="URmRmxgSHJsLCqZVGsft-14" edge="1" parent="1" source="URmRmxgSHJsLCqZVGsft-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="URmRmxgSHJsLCqZVGsft-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Spark" vertex="1">
@@ -25623,6 +25617,44 @@
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="湖仓一体 数据湖 + 数据仓库&lt;div&gt;数据仓库：具备数据库管理系统的特性， 支持事务、更新，查询响应快。&lt;/div&gt;&lt;div&gt;数据湖：海量存储，开放性高&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="410" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="业务系统DB" vertex="1">
+          <mxGeometry height="50" width="120" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="日志文件" vertex="1">
+          <mxGeometry height="50" width="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="152.5" width="180" x="826" y="616" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="服务层" vertex="1">
+          <mxGeometry height="32" width="130" x="846" y="628.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="合并：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;批处理&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ 实时处理结果&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;对外提供统一查询&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62.5" width="150" x="841" y="674" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="208.5" width="160" x="1081" y="588" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="实时大屏" vertex="1">
+          <mxGeometry height="50" width="120" x="1102" y="627.75" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="报表系统" vertex="1">
+          <mxGeometry height="50" width="120" x="1103" y="684" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="应用" vertex="1">
+          <mxGeometry height="32" width="130" x="1093" y="595.25" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="告警监控系统" vertex="1">
+          <mxGeometry height="50" width="120" x="1104" y="740.25" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-23" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1079" y="692" />
+            </Array>
+            <mxPoint x="1080" y="692" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
