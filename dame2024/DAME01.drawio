@@ -26231,7 +26231,10 @@
         <mxCell id="IAC1cvLjBTeLosWXiMu9-3" parent="vS_U2_PPuo1SsfSWhasC-18" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;fontSize=18;" value="Doris数据库" vertex="1">
           <mxGeometry height="70" width="270" x="22" y="182" as="geometry" />
         </mxCell>
-        <mxCell id="-kRs71TnXncKhwX23lcL-3" parent="vS_U2_PPuo1SsfSWhasC-18" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;fontSize=18;" value="派生湖表层（湖内二次加工产物）&lt;br&gt;贴源 / 专业/ 专题层表" vertex="1">
+        <mxCell id="-kRs71TnXncKhwX23lcL-39" edge="1" parent="vS_U2_PPuo1SsfSWhasC-18" source="-kRs71TnXncKhwX23lcL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=1;" target="IAC1cvLjBTeLosWXiMu9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kRs71TnXncKhwX23lcL-3" parent="vS_U2_PPuo1SsfSWhasC-18" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;fontSize=18;" value="派生湖表层（湖内二次加工产物）&lt;br&gt;专业/ 专题层表" vertex="1">
           <mxGeometry height="70" width="282" x="16" y="52" as="geometry" />
         </mxCell>
         <mxCell id="-kRs71TnXncKhwX23lcL-25" parent="vS_U2_PPuo1SsfSWhasC-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="冷数据归档" vertex="1">
