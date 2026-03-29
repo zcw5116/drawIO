@@ -25410,7 +25410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I10K3vFmsz2fGC-5mPjp" name="两江数据流程">
-    <mxGraphModel dx="2864" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3679" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25678,7 +25678,7 @@
           <mxGeometry height="70" width="200" x="31" y="301" as="geometry" />
         </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-39" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;" value="Flink / Spark 流批一体计算引擎&#xa;实时清洗、过滤、多流 Join 等加工" vertex="1">
-          <mxGeometry height="150" width="231" x="289" y="101" as="geometry" />
+          <mxGeometry height="150" width="231" x="289" y="127" as="geometry" />
         </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-57" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E5C7xAZ5Y_pMY6cOiWmm-39">
           <mxGeometry relative="1" as="geometry">
@@ -25692,7 +25692,7 @@
           <mxGeometry height="30" width="83" x="262" y="71" as="geometry" />
         </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-58" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="文件解析&lt;div&gt;多模态处理&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="83" x="222" y="240" as="geometry" />
+          <mxGeometry height="30" width="83" x="222" y="260" as="geometry" />
         </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-37" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-33">
           <mxGeometry relative="1" as="geometry">
@@ -25703,7 +25703,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-40" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;" value="第三步：湖仓一体核心平台层" vertex="1">
-          <mxGeometry height="430" width="260" x="897" y="1460" as="geometry" />
+          <mxGeometry height="430" width="277" x="897" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-68" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-40" source="E5C7xAZ5Y_pMY6cOiWmm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="E5C7xAZ5Y_pMY6cOiWmm-52">
           <mxGeometry relative="1" as="geometry" />
@@ -25711,8 +25711,14 @@
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-51" parent="E5C7xAZ5Y_pMY6cOiWmm-40" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;底层统一存储（低成本）&lt;br&gt;HDFS / S3 / OSS&lt;br&gt;开放格式 Parquet / ORC" vertex="1">
           <mxGeometry height="110" width="183" x="43" y="281" as="geometry" />
         </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-74" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-40" source="E5C7xAZ5Y_pMY6cOiWmm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="E5C7xAZ5Y_pMY6cOiWmm-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-52" parent="E5C7xAZ5Y_pMY6cOiWmm-40" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;" value="统一湖表管理与元数据层&#xa;Apache Paimon / Iceberg" vertex="1">
-          <mxGeometry height="90" width="190" x="40" y="128" as="geometry" />
+          <mxGeometry height="70" width="190" x="40" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-73" parent="E5C7xAZ5Y_pMY6cOiWmm-40" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;" value="派生湖表层（湖内二次加工产物）&#xa;DWD / DWS / ADS / 宽表 / 特征表" vertex="1">
+          <mxGeometry height="70" width="193" x="38" y="50" as="geometry" />
         </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-43" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;" value="底层统一存储（低成本）&#xa;HDFS / S3 / OSS&#xa;开放格式 Parquet / ORC" vertex="1">
           <mxGeometry height="110" width="400" x="2000" y="2338" as="geometry" />
@@ -25734,6 +25740,68 @@
         </mxCell>
         <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;dashed=1;dashPattern=8 8;" value="高级管理特性&#xa;· ACID 事务保障&#xa;· Schema 演进&#xa;· Update / Merge&#xa;· 时间旅行" vertex="1">
           <mxGeometry height="80" width="205" x="1138" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-69" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;" value="第四步：计算引擎与查询层（按需挂载引擎）" vertex="1">
+          <mxGeometry height="450" width="340" x="1320" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-72" parent="E5C7xAZ5Y_pMY6cOiWmm-69" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#4a148c;strokeWidth=2;" value="二次加工 / 重算 / 回填任务&#xa;聚合汇总、维度建模、特征工程、回放重算" vertex="1">
+          <mxGeometry height="73" width="236.5" x="53.5" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-85" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-69" source="E5C7xAZ5Y_pMY6cOiWmm-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=block;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-70" parent="E5C7xAZ5Y_pMY6cOiWmm-69" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#4a148c;strokeWidth=2;" value="交互式联邦查询引擎&#xa;Trino / Presto" vertex="1">
+          <mxGeometry height="70" width="236.5" x="53.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-84" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-69" source="E5C7xAZ5Y_pMY6cOiWmm-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-71" parent="E5C7xAZ5Y_pMY6cOiWmm-69" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#4a148c;strokeWidth=2;" value="大数据处理&lt;br&gt;Apache Spark / Flink" vertex="1">
+          <mxGeometry height="70" width="236.5" x="51.75" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-83" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-69" source="E5C7xAZ5Y_pMY6cOiWmm-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-82" parent="E5C7xAZ5Y_pMY6cOiWmm-69" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#4a148c;strokeWidth=2;" value="AI引擎" vertex="1">
+          <mxGeometry height="70" width="234.75" x="55.25" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-79" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-80" connectable="0" parent="E5C7xAZ5Y_pMY6cOiWmm-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="写回&lt;div&gt;（派生表/数据集市/特征表）&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2133" y="-2" as="geometry">
+            <mxPoint x="25" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-86" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;" value="第五步：业务应用服务层" vertex="1">
+          <mxGeometry height="460" width="310" x="1850" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-87" parent="E5C7xAZ5Y_pMY6cOiWmm-86" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#b71c1c;strokeWidth=2;" value="准实时监控大屏 / 告警" vertex="1">
+          <mxGeometry height="80" width="240" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-88" parent="E5C7xAZ5Y_pMY6cOiWmm-86" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#b71c1c;strokeWidth=2;" value="BI 报表 / 经营分析探索" vertex="1">
+          <mxGeometry height="80" width="240" x="30" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-89" parent="E5C7xAZ5Y_pMY6cOiWmm-86" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#b71c1c;strokeWidth=2;" value="AI 故障预测模型 / 海量历史重算" vertex="1">
+          <mxGeometry height="80" width="240" x="30" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-90" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-91" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-93" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-95" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
