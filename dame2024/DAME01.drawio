@@ -25410,15 +25410,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I10K3vFmsz2fGC-5mPjp" name="两江数据流程">
-    <mxGraphModel dx="2411" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2864" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-27" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;shadow=1;" value="第一步：多源数据产生" vertex="1">
+          <mxGeometry height="440" width="190" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-24" parent="E5C7xAZ5Y_pMY6cOiWmm-27" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#01579b;strokeWidth=2;" value="业务数据库&#xa;MySQL / PG / Oracle" vertex="1">
+          <mxGeometry height="70" width="150" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-25" parent="E5C7xAZ5Y_pMY6cOiWmm-27" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#01579b;strokeWidth=2;" value="高频遥测/日志事件流&#xa;JSON / CSV" vertex="1">
+          <mxGeometry height="70" width="150" x="20" y="190" as="geometry" />
+        </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="100" width="220" x="209" y="717.5" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="125" width="220" x="209" y="540" as="geometry" />
+          <mxGeometry height="100" width="220" x="209" y="550" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="1、阶段1：传统数仓架构（2010年前的主流）" vertex="1">
           <mxGeometry height="40" width="390" x="-75" y="90" as="geometry" />
@@ -25427,13 +25436,13 @@
           <mxGeometry height="170" width="180" x="-30" y="160" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="ETL（每天凌晨跑批）&#xa;&#xa;Informatica&#xa;DataStage&#xa;Kettle" vertex="1">
-          <mxGeometry height="170" width="220" x="230" y="160" as="geometry" />
+          <mxGeometry height="170" width="220" x="260" y="160" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="数据仓库&#xa;&#xa;Oracle&#xa;TD&#xa;GP" vertex="1">
-          <mxGeometry height="170" width="180" x="530" y="160" as="geometry" />
+          <mxGeometry height="170" width="180" x="594" y="160" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=#ffffff;strokeColor=#000000;fontSize=14;" value="报表&#xa;&#xa;BO&#xa;Cognos" vertex="1">
-          <mxGeometry height="170" width="150" x="790" y="160" as="geometry" />
+          <mxGeometry height="170" width="150" x="854" y="160" as="geometry" />
         </mxCell>
         <mxCell id="oPrJ9vK6zr8dX3Xsh4a6-6" edge="1" parent="1" source="oPrJ9vK6zr8dX3Xsh4a6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=13;" target="oPrJ9vK6zr8dX3Xsh4a6-3" value="晚上抽数">
           <mxGeometry relative="1" as="geometry" />
@@ -25545,7 +25554,7 @@
           <mxGeometry height="30" width="60" x="280" y="817.5" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Spark Streaming/Flink" vertex="1">
-          <mxGeometry height="30" width="210" x="225" y="500" as="geometry" />
+          <mxGeometry height="30" width="210" x="219" y="510" as="geometry" />
         </mxCell>
         <mxCell id="URmRmxgSHJsLCqZVGsft-20" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1;" value="3、阶段2：Kappa架构" vertex="1">
           <mxGeometry height="40" width="200" x="-60" y="860" as="geometry" />
@@ -25655,6 +25664,76 @@
             </Array>
             <mxPoint x="1080" y="692" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5fe;strokeColor=#01579b;strokeWidth=2;" value="文件与非结构化数据&#xa;图片/视频/PDF" vertex="1">
+          <mxGeometry height="70" width="150" x="20" y="1761" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;" value="第二步：统一流批接入与计算层" vertex="1">
+          <mxGeometry height="430" width="539" x="278" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-33" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;" value="Flink CDC / Spark Structured Streaming&lt;br&gt;实时捕获" vertex="1">
+          <mxGeometry height="70" width="200" x="31" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-34" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;" value="文件透传管道/批量文件接入" vertex="1">
+          <mxGeometry height="70" width="200" x="31" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-39" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;" value="Flink / Spark 流批一体计算引擎&#xa;实时清洗、过滤、多流 Join 等加工" vertex="1">
+          <mxGeometry height="150" width="231" x="289" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-57" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E5C7xAZ5Y_pMY6cOiWmm-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-56" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-31" source="E5C7xAZ5Y_pMY6cOiWmm-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-61" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据加工" vertex="1">
+          <mxGeometry height="30" width="83" x="262" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-58" parent="E5C7xAZ5Y_pMY6cOiWmm-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="文件解析&lt;div&gt;多模态处理&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="83" x="222" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-37" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-36" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-40" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;" value="第三步：湖仓一体核心平台层" vertex="1">
+          <mxGeometry height="430" width="260" x="897" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-68" edge="1" parent="E5C7xAZ5Y_pMY6cOiWmm-40" source="E5C7xAZ5Y_pMY6cOiWmm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="E5C7xAZ5Y_pMY6cOiWmm-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-51" parent="E5C7xAZ5Y_pMY6cOiWmm-40" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;底层统一存储（低成本）&lt;br&gt;HDFS / S3 / OSS&lt;br&gt;开放格式 Parquet / ORC" vertex="1">
+          <mxGeometry height="110" width="183" x="43" y="281" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-52" parent="E5C7xAZ5Y_pMY6cOiWmm-40" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;" value="统一湖表管理与元数据层&#xa;Apache Paimon / Iceberg" vertex="1">
+          <mxGeometry height="90" width="190" x="40" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-43" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;" value="底层统一存储（低成本）&#xa;HDFS / S3 / OSS&#xa;开放格式 Parquet / ORC" vertex="1">
+          <mxGeometry height="110" width="400" x="2000" y="2338" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-35" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-66" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="E5C7xAZ5Y_pMY6cOiWmm-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-62" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="E5C7xAZ5Y_pMY6cOiWmm-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="文件透传，非结构化原样入湖" vertex="1">
+          <mxGeometry height="30" width="170" x="623" y="1801" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-67" edge="1" parent="1" source="E5C7xAZ5Y_pMY6cOiWmm-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="E5C7xAZ5Y_pMY6cOiWmm-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5C7xAZ5Y_pMY6cOiWmm-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;dashed=1;dashPattern=8 8;" value="高级管理特性&#xa;· ACID 事务保障&#xa;· Schema 演进&#xa;· Update / Merge&#xa;· 时间旅行" vertex="1">
+          <mxGeometry height="80" width="205" x="1138" y="1360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
