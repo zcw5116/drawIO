@@ -25410,7 +25410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I10K3vFmsz2fGC-5mPjp" name="两江数据流程">
-    <mxGraphModel dx="3679" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3204" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25749,6 +25749,9 @@
             <mxPoint x="1235.67" y="1875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vS_U2_PPuo1SsfSWhasC-22" edge="1" parent="1" source="cKeIaKJIldDg_7mzxWOP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vS_U2_PPuo1SsfSWhasC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cKeIaKJIldDg_7mzxWOP-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;shadow=1;fontSize=18;" value="第一步：多源数据产生" vertex="1">
           <mxGeometry height="480" width="240" x="-40" y="2338" as="geometry" />
         </mxCell>
@@ -25765,36 +25768,19 @@
           <mxGeometry height="70" width="190" x="25" y="380" as="geometry" />
         </mxCell>
         <mxCell id="vS_U2_PPuo1SsfSWhasC-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;fontSize=18;" value="第二步：统一流批接入与计算层" vertex="1">
-          <mxGeometry height="480" width="592" x="340" y="2338" as="geometry" />
+          <mxGeometry height="480" width="270" x="320" y="2338" as="geometry" />
         </mxCell>
-        <mxCell id="vS_U2_PPuo1SsfSWhasC-3" parent="vS_U2_PPuo1SsfSWhasC-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;fontSize=18;" value="实时捕获" vertex="1">
-          <mxGeometry height="70" width="200" x="31" y="50" as="geometry" />
+        <mxCell id="vS_U2_PPuo1SsfSWhasC-3" parent="vS_U2_PPuo1SsfSWhasC-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;fontSize=18;" value="数据解析" vertex="1">
+          <mxGeometry height="70" width="200" x="31" y="92" as="geometry" />
         </mxCell>
-        <mxCell id="vS_U2_PPuo1SsfSWhasC-4" parent="vS_U2_PPuo1SsfSWhasC-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;fontSize=18;" value="文件透传管道/批量文件接入" vertex="1">
+        <mxCell id="vS_U2_PPuo1SsfSWhasC-4" parent="vS_U2_PPuo1SsfSWhasC-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;fontSize=18;" value="文件透传/批量文件接入" vertex="1">
           <mxGeometry height="70" width="200" x="31" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="vS_U2_PPuo1SsfSWhasC-5" parent="vS_U2_PPuo1SsfSWhasC-2" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;fontSize=18;" value="Flink / Spark 流批一体计算引擎&#xa;实时清洗、过滤、多流 Join 等加工" vertex="1">
-          <mxGeometry height="190" width="328" x="252" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="vS_U2_PPuo1SsfSWhasC-6" edge="1" parent="vS_U2_PPuo1SsfSWhasC-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="vS_U2_PPuo1SsfSWhasC-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="232" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vS_U2_PPuo1SsfSWhasC-7" edge="1" parent="vS_U2_PPuo1SsfSWhasC-2" source="vS_U2_PPuo1SsfSWhasC-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" target="vS_U2_PPuo1SsfSWhasC-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vS_U2_PPuo1SsfSWhasC-8" parent="vS_U2_PPuo1SsfSWhasC-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="数据解析处理" vertex="1">
-          <mxGeometry height="30" width="128" x="262" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vS_U2_PPuo1SsfSWhasC-9" parent="vS_U2_PPuo1SsfSWhasC-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="文件解析&lt;div&gt;多模态处理&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="108" x="212" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="vS_U2_PPuo1SsfSWhasC-10" parent="vS_U2_PPuo1SsfSWhasC-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="文件透传，非结构化原样入湖" vertex="1">
-          <mxGeometry height="30" width="170" x="362" y="400" as="geometry" />
+        <mxCell id="vS_U2_PPuo1SsfSWhasC-17" parent="vS_U2_PPuo1SsfSWhasC-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;fontSize=18;" value="离线/实时处理" vertex="1">
+          <mxGeometry height="70" width="200" x="31" y="224" as="geometry" />
         </mxCell>
         <mxCell id="vS_U2_PPuo1SsfSWhasC-11" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;fontSize=18;" value="第三步：湖仓一体核心平台层" vertex="1">
-          <mxGeometry height="480" width="330" x="1100" y="2338" as="geometry" />
+          <mxGeometry height="480" width="330" x="1900" y="2580" as="geometry" />
         </mxCell>
         <mxCell id="vS_U2_PPuo1SsfSWhasC-12" edge="1" parent="vS_U2_PPuo1SsfSWhasC-11" source="vS_U2_PPuo1SsfSWhasC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontSize=18;" target="vS_U2_PPuo1SsfSWhasC-15">
           <mxGeometry relative="1" as="geometry" />
@@ -25804,6 +25790,24 @@
         </mxCell>
         <mxCell id="vS_U2_PPuo1SsfSWhasC-15" parent="vS_U2_PPuo1SsfSWhasC-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;fontSize=18;" value="统一湖表管理与元数据层&#xa;Apache Paimon / Iceberg" vertex="1">
           <mxGeometry height="70" width="270" x="41.5" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="vS_U2_PPuo1SsfSWhasC-18" parent="1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#9e9e9e;swimlaneFillColor=#eeeeee;fontStyle=1;fontSize=18;startSize=23;" value="湖仓一体核心平台层" vertex="1">
+          <mxGeometry height="480" width="311" x="730" y="2338" as="geometry" />
+        </mxCell>
+        <mxCell id="IAC1cvLjBTeLosWXiMu9-1" parent="vS_U2_PPuo1SsfSWhasC-18" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;fontSize=18;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;底层统一存储（低成本）&lt;br&gt;HDFS / S3 / OSS&lt;br&gt;开放格式 Parquet / ORC" vertex="1">
+          <mxGeometry height="110" width="267" x="22" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="IAC1cvLjBTeLosWXiMu9-2" parent="vS_U2_PPuo1SsfSWhasC-18" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;fontSize=18;" value="统一湖表管理与元数据层&#xa;Apache Paimon / Iceberg" vertex="1">
+          <mxGeometry height="70" width="270" x="19" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="IAC1cvLjBTeLosWXiMu9-3" parent="vS_U2_PPuo1SsfSWhasC-18" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#2e7d32;strokeWidth=2;fontSize=18;" value="Doris数据库" vertex="1">
+          <mxGeometry height="70" width="270" x="19" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="vS_U2_PPuo1SsfSWhasC-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;fontSize=18;" value="文件透传/批量文件接入" vertex="1">
+          <mxGeometry height="70" width="200" x="1390" y="2370" as="geometry" />
+        </mxCell>
+        <mxCell id="vS_U2_PPuo1SsfSWhasC-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=2;fontSize=18;" value="业务系统数据库" vertex="1">
+          <mxGeometry height="70" width="200" x="1270" y="2210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
